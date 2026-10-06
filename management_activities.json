@@ -1,0 +1,107 @@
+[
+  {
+    "id": "01",
+    "label": "Ảnh 1",
+    "filename": "01.jpg",
+    "source_name": "1. dưới BGH.JPG",
+    "mesh_name": "left_management_activities_photo_01",
+    "extra_meshes": [
+      "left_management_activities_frame_01"
+    ],
+    "width_px": 1066,
+    "height_px": 1280,
+    "texture_filename": "photo_01.jpg",
+    "sha256": "6264ac7f4f3830a263ce571c467adfffe2af9633a506a847f88d248dfe2a6aa3",
+    "image_path": "assets/management_activities/01.jpg"
+  },
+  {
+    "id": "02",
+    "label": "Ảnh 2",
+    "filename": "02.jpg",
+    "source_name": "2 dưới BGH.jpg",
+    "mesh_name": "left_management_activities_photo_02",
+    "extra_meshes": [
+      "left_management_activities_frame_02"
+    ],
+    "width_px": 2560,
+    "height_px": 1707,
+    "texture_filename": "photo_02.jpg",
+    "sha256": "7d592871ed801988b27d0daefa6b8fbf5d6d19dc675ddded4977efe03cfab3fd",
+    "image_path": "assets/management_activities/02.jpg"
+  },
+  {
+    "id": "03",
+    "label": "Ảnh 3",
+    "filename": "03.jpg",
+    "source_name": "3 dưới BGH.jpg.jpg",
+    "mesh_name": "left_management_activities_photo_03",
+    "extra_meshes": [
+      "left_management_activities_frame_03"
+    ],
+    "width_px": 2560,
+    "height_px": 1707,
+    "texture_filename": "photo_03.jpg",
+    "sha256": "67f0931330db703db454334915239b44896c575ec2314616f83d6d58fd540dd8",
+    "image_path": "assets/management_activities/03.jpg"
+  },
+  {
+    "id": "04",
+    "label": "Ảnh 4",
+    "filename": "04.jpg",
+    "source_name": "4 dưới BGH.jpg.jpg",
+    "mesh_name": "left_management_activities_photo_04",
+    "extra_meshes": [
+      "left_management_activities_frame_04"
+    ],
+    "width_px": 1566,
+    "height_px": 1045,
+    "texture_filename": "photo_04.jpg",
+    "sha256": "f87a63337275e4342274d35ee1a8b5bd59cd9887ac87777ac2ff6ce8af9833ec",
+    "image_path": "assets/management_activities/04.jpg"
+  },
+  {
+    "id": "05",
+    "label": "Ảnh 5",
+    "filename": "05.jpg",
+    "source_name": "5 dưới BGH.jpg.jpg",
+    "mesh_name": "left_management_activities_photo_05",
+    "extra_meshes": [
+      "left_management_activities_frame_05"
+    ],
+    "width_px": 2560,
+    "height_px": 1920,
+    "texture_filename": "photo_05.jpg",
+    "sha256": "50428cdbb70780c8dab331dc1e9fc62e817b98b196417b1b5c4ee1f7d4687e19",
+    "image_path": "assets/management_activities/05.jpg"
+  },
+  {
+    "id": "06",
+    "label": "Ảnh 6",
+    "filename": "06.jpg",
+    "source_name": "6.  dưới BGH.jpg.jpg",
+    "mesh_name": "left_management_activities_photo_06",
+    "extra_meshes": [
+      "left_management_activities_frame_06"
+    ],
+    "width_px": 2048,
+    "height_px": 1365,
+    "texture_filename": "photo_06.jpg",
+    "sha256": "007ffc5ac03cd7a3e8ab7fc0059e714c58b570f5496c103616fdc8ac7f348098",
+    "image_path": "assets/management_activities/06.jpg"
+  },
+  {
+    "id": "07",
+    "label": "Ảnh 7",
+    "filename": "07.jpg",
+    "source_name": "7  dưới BGH.jpg.jpg",
+    "mesh_name": "left_management_activities_photo_07",
+    "extra_meshes": [
+      "left_management_activities_frame_07"
+    ],
+    "width_px": 2560,
+    "height_px": 1707,
+    "texture_filename": "photo_07.jpg",
+    "sha256": "acd0c12160c31df16fae8feb1453602af332df836f255b7554e759c06967d869",
+    "image_path": "assets/management_activities/07.jpg"
+  }
+]

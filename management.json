@@ -1,0 +1,98 @@
+[
+  {
+    "id": "01",
+    "label": "Thầy Nguyễn Văn Hiếu – Hiệu trưởng",
+    "name": "Thầy Nguyễn Văn Hiếu",
+    "role": "Hiệu trưởng",
+    "years": "",
+    "filename": "01.jpg",
+    "source_name": "1.THẦY NGUYỄN VĂN HIẾU - HT.jpg",
+    "mesh_name": "left_management_photo_01",
+    "extra_meshes": [
+      "left_management_frame_01"
+    ],
+    "width_px": 577,
+    "height_px": 583,
+    "texture_filename": "portrait_01.jpg",
+    "crop_box": [
+      85,
+      0,
+      522,
+      583
+    ],
+    "sha256": "53992d686e7908c6a44cce865c503ec58419fb7ecac50356bd50db96806dfd55",
+    "image_path": "assets/management/01.jpg"
+  },
+  {
+    "id": "02",
+    "label": "Cô Lê Thị Bình – Phó Hiệu trưởng",
+    "name": "Cô Lê Thị Bình",
+    "role": "Phó Hiệu trưởng",
+    "years": "",
+    "filename": "02.jpg",
+    "source_name": "2.CÔ LÊ THỊ BÌNH - PHT.jpg",
+    "mesh_name": "left_management_photo_02",
+    "extra_meshes": [
+      "left_management_frame_02"
+    ],
+    "width_px": 2560,
+    "height_px": 1440,
+    "texture_filename": "portrait_02.jpg",
+    "crop_box": [
+      455,
+      150,
+      1400,
+      1410
+    ],
+    "sha256": "785192a8cf70dfea47fe2044ff7edcb64d26fc0b4417c20b2278adb71abee541",
+    "image_path": "assets/management/02.jpg"
+  },
+  {
+    "id": "03",
+    "label": "Cô Huỳnh Thị Nhân – Phó Hiệu trưởng",
+    "name": "Cô Huỳnh Thị Nhân",
+    "role": "Phó Hiệu trưởng",
+    "years": "",
+    "filename": "03.jpg",
+    "source_name": "3.CÔ HUỲNH THỊ NHÂN - PHT.jpg",
+    "mesh_name": "left_management_photo_03",
+    "extra_meshes": [
+      "left_management_frame_03"
+    ],
+    "width_px": 960,
+    "height_px": 1280,
+    "texture_filename": "portrait_03.jpg",
+    "crop_box": [
+      305,
+      760,
+      665,
+      1240
+    ],
+    "sha256": "8e445db651474e5b6493e70e741b1fa438d97236fbd38e1628e96f58d804f1b8",
+    "image_path": "assets/management/03.jpg"
+  },
+  {
+    "id": "04",
+    "label": "Cô Cao Thị Ngọc Hân – Phó Hiệu trưởng",
+    "name": "Cô Cao Thị Ngọc Hân",
+    "role": "Phó Hiệu trưởng",
+    "years": "",
+    "filename": "04.jpg",
+    "source_name": "4.CÔ CAO THỊ NGỌC HÂN - PHT.jpg",
+    "mesh_name": "left_management_photo_04",
+    "extra_meshes": [
+      "left_management_frame_04"
+    ],
+    "width_px": 2478,
+    "height_px": 2560,
+    "texture_filename": "portrait_04.jpg",
+    "crop_box": [
+      420,
+      850,
+      1620,
+      2450
+    ],
+    "sha256": "a617a050628da69e32ebcd8f2b5741e0a851bf970ec1e610927d8d3dd16dcc07",
+    "image_path": "assets/management/04.jpg"
+  }
+]
