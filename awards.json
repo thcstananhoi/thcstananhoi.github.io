@@ -1,0 +1,156 @@
+[
+  {
+    "id": "01",
+    "label": "Bằng công nhận Trường đạt chuẩn quốc gia Mức độ 1 – Chủ tịch UBND Thành phố Hồ Chí Minh, năm 2023",
+    "position": "Giữa, trái",
+    "filename": "01.jpg",
+    "mesh_name": "front_award_01",
+    "extra_meshes": [
+      "front_award_01_frame"
+    ],
+    "width_px": 1800,
+    "height_px": 1322,
+    "sha256": "a761fd4d5df86af469c45cc7d3dc555af23ca2d9be2b5fb5f440548cb1e2c21a",
+    "image_path": "assets/awards/01.jpg"
+  },
+  {
+    "id": "02",
+    "label": "Bằng khen của Thủ tướng Chính phủ – thành tích xuất sắc trong công tác giáo dục và đào tạo từ năm học 2018-2019 đến năm học 2022-2023",
+    "position": "Giữa",
+    "filename": "02.jpg",
+    "mesh_name": "front_award_02",
+    "extra_meshes": [
+      "front_award_02_frame"
+    ],
+    "width_px": 1800,
+    "height_px": 1368,
+    "sha256": "1c55549e18cb336232e79ffdb71c618af533e492ff5385558eb1ea5c88853e94",
+    "image_path": "assets/awards/02.jpg"
+  },
+  {
+    "id": "03",
+    "label": "Chứng nhận Trường đạt kiểm định chất lượng giáo dục – Giám đốc Sở Giáo dục và Đào tạo Thành phố Hồ Chí Minh, năm 2023",
+    "position": "Giữa, phải",
+    "filename": "03.jpg",
+    "mesh_name": "front_award_03",
+    "extra_meshes": [
+      "front_award_03_frame"
+    ],
+    "width_px": 1800,
+    "height_px": 1315,
+    "sha256": "01f9ac6de9448f438b8c51c98de53c58918a4cc860a648f3e24b6ecd244acd98",
+    "image_path": "assets/awards/03.jpg"
+  },
+  {
+    "id": "04",
+    "label": "Danh hiệu Tập thể Lao động xuất sắc năm học 2020-2021 – Chủ tịch UBND Thành phố Hồ Chí Minh",
+    "position": "Cột trái, hàng 1 (trên cùng)",
+    "filename": "04.jpg",
+    "mesh_name": "front_award_04",
+    "extra_meshes": [
+      "front_award_04_frame"
+    ],
+    "width_px": 1800,
+    "height_px": 1399,
+    "sha256": "e499626e093c792782ff310b11feb929323b833951706409efe50b00082efe5e",
+    "image_path": "assets/awards/04.jpg"
+  },
+  {
+    "id": "05",
+    "label": "Danh hiệu Tập thể Lao động xuất sắc năm học 2022-2023 – Chủ tịch UBND Thành phố Hồ Chí Minh",
+    "position": "Cột trái, hàng 2",
+    "filename": "05.jpg",
+    "mesh_name": "front_award_05",
+    "extra_meshes": [
+      "front_award_05_frame"
+    ],
+    "width_px": 1800,
+    "height_px": 1399,
+    "sha256": "bd5dd679b00e97e76f42c697ae2201eea741688188ec1898074c944a572cd2ab",
+    "image_path": "assets/awards/05.jpg"
+  },
+  {
+    "id": "06",
+    "label": "Bằng khen của Chủ tịch UBND Thành phố Hồ Chí Minh – công tác chuyển đổi số, đạt tiêu chuẩn trường học số, năm 2025",
+    "position": "Cột trái, hàng 3",
+    "filename": "06.jpg",
+    "mesh_name": "front_award_06",
+    "extra_meshes": [
+      "front_award_06_frame"
+    ],
+    "width_px": 1800,
+    "height_px": 1399,
+    "sha256": "599d05c7d51f246494153869a644b3bf8189a3b9fd8a517ff6a50eb5b9715079",
+    "image_path": "assets/awards/06.jpg"
+  },
+  {
+    "id": "07",
+    "label": "Danh hiệu Tập thể Lao động tiên tiến năm học 2023-2024 – Chủ tịch UBND huyện Củ Chi",
+    "position": "Cột trái, hàng 4 (dưới cùng)",
+    "filename": "07.jpg",
+    "mesh_name": "front_award_07",
+    "extra_meshes": [
+      "front_award_07_frame"
+    ],
+    "width_px": 1800,
+    "height_px": 1394,
+    "sha256": "c929ac847048c84f9c5f10a9ebdc74dbf2a3406263437ff9a9e45224bcef72cb",
+    "image_path": "assets/awards/07.jpg"
+  },
+  {
+    "id": "08",
+    "label": "Bằng khen của Chủ tịch UBND Thành phố Hồ Chí Minh – hoàn thành xuất sắc nhiệm vụ năm học 2012-2013 và 2013-2014",
+    "position": "Cột phải, hàng 1 (trên cùng)",
+    "filename": "08.jpg",
+    "mesh_name": "front_award_08",
+    "extra_meshes": [
+      "front_award_08_frame"
+    ],
+    "width_px": 1800,
+    "height_px": 1399,
+    "sha256": "5f1bbec64c5525ac9ee2253016d08e299a5af11b4cf7decacda1933b03f87ec8",
+    "image_path": "assets/awards/08.jpg"
+  },
+  {
+    "id": "09",
+    "label": "Giấy khen của Chủ tịch UBND thị trấn Củ Chi – cuộc thi viết “Thị trấn Củ Chi - 40 năm vững bước tự hào”, năm 2025",
+    "position": "Cột phải, hàng 2",
+    "filename": "09.jpg",
+    "mesh_name": "front_award_09",
+    "extra_meshes": [
+      "front_award_09_frame"
+    ],
+    "width_px": 1800,
+    "height_px": 1399,
+    "sha256": "844f7a026c492661a15d73d8d37e230d63211e3c46b835c97a5d0263d73434f0",
+    "image_path": "assets/awards/09.jpg"
+  },
+  {
+    "id": "10",
+    "label": "Bằng khen của Chủ tịch UBND Thành phố Hồ Chí Minh – hoàn thành xuất sắc nhiệm vụ 2 năm học liên tục 2020-2021, 2021-2022",
+    "position": "Cột phải, hàng 3",
+    "filename": "10.jpg",
+    "mesh_name": "front_award_10",
+    "extra_meshes": [
+      "front_award_10_frame"
+    ],
+    "width_px": 1800,
+    "height_px": 1399,
+    "sha256": "b483e84bba845d8e8f788251457d3c617ce252e0c41f537f67406af2bfa0be7b",
+    "image_path": "assets/awards/10.jpg"
+  },
+  {
+    "id": "11",
+    "label": "Giấy khen của Đảng bộ thị trấn Củ Chi – Chi bộ trường hoàn thành xuất sắc nhiệm vụ năm 2024",
+    "position": "Cột phải, hàng 4 (dưới cùng)",
+    "filename": "11.jpg",
+    "mesh_name": "front_award_11",
+    "extra_meshes": [
+      "front_award_11_frame"
+    ],
+    "width_px": 1800,
+    "height_px": 1399,
+    "sha256": "853a8225fe673f81bf051fedd46ec941a0ca304869d7d88ee2cf7b1cf44ce1a1",
+    "image_path": "assets/awards/11.jpg"
+  }
+]
