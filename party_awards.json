@@ -1,0 +1,107 @@
+[
+  {
+    "id": "01",
+    "label": "Giấy khen của Chủ tịch UBND xã Tân An Hội: Chi bộ Trường THCS Thị Trấn 2 – tập thể điển hình “Dân vận khéo” năm 2025",
+    "filename": "01.jpg",
+    "source_name": "1.jpg",
+    "mesh_name": "right_party_award_photo_01",
+    "extra_meshes": [
+      "right_party_award_frame_01"
+    ],
+    "width_px": 2360,
+    "height_px": 1614,
+    "texture_filename": "photo_01.jpg",
+    "sheet_box": [
+      53,
+      6,
+      2281,
+      1586
+    ],
+    "sha256": "aa5fc3dc008af3870aad830f4823a68c846306484548314724885270fd84c8e6",
+    "image_path": "assets/party_awards/01.jpg"
+  },
+  {
+    "id": "02",
+    "label": "Giấy khen của Ban Chấp hành Đảng bộ thị trấn Củ Chi: Chi bộ Trường THCS Thị Trấn 2 đạt giải I – bảng B, Hội thi kể chuyện gương điển hình học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh năm 2024",
+    "filename": "02.jpg",
+    "source_name": "2.jpg",
+    "mesh_name": "right_party_award_photo_02",
+    "extra_meshes": [
+      "right_party_award_frame_02"
+    ],
+    "width_px": 2240,
+    "height_px": 1610,
+    "texture_filename": "photo_02.jpg",
+    "sheet_box": [
+      0,
+      14,
+      2228,
+      1610
+    ],
+    "sha256": "cef6dfc27facd203c087281b9d2f6c68ffbea7e9764df3ed9c9f4be719414a34",
+    "image_path": "assets/party_awards/02.jpg"
+  },
+  {
+    "id": "03",
+    "label": "Giấy khen của Chủ tịch UBND huyện Củ Chi: Chi bộ Trường THCS Thị Trấn 2 – thành tích xuất sắc trong học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh giai đoạn 2016–2025",
+    "filename": "03.jpg",
+    "source_name": "3.jpg",
+    "mesh_name": "right_party_award_photo_03",
+    "extra_meshes": [
+      "right_party_award_frame_03"
+    ],
+    "width_px": 2200,
+    "height_px": 1556,
+    "texture_filename": "photo_03.jpg",
+    "sheet_box": [
+      27,
+      0,
+      2118,
+      1556
+    ],
+    "sha256": "1db20805f16788a22e1fe057b7b82f1c3362afe0078992ae2b4729ecc59653e3",
+    "image_path": "assets/party_awards/03.jpg"
+  },
+  {
+    "id": "04",
+    "label": "Giấy khen của Ban Chấp hành Đảng bộ thị trấn Củ Chi: Chi bộ Trường THCS Thị Trấn 2 – thành tích xuất sắc trong học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh giai đoạn 2016–2025",
+    "filename": "04.jpg",
+    "source_name": "4.jpg",
+    "mesh_name": "right_party_award_photo_04",
+    "extra_meshes": [
+      "right_party_award_frame_04"
+    ],
+    "width_px": 2268,
+    "height_px": 1576,
+    "texture_filename": "photo_04.jpg",
+    "sheet_box": [
+      82,
+      0,
+      2120,
+      1544
+    ],
+    "sha256": "f77e5b4edb8dfbb58129ca8dad907e5e96c6a764ef3321758ae8ad8b1335b4aa",
+    "image_path": "assets/party_awards/04.jpg"
+  },
+  {
+    "id": "05",
+    "label": "Giấy khen của Chủ tịch UBND huyện Củ Chi: Chi bộ Trường THCS Thị Trấn 2 – thực hiện tốt nhiệm vụ “Xây dựng Không gian văn hóa Hồ Chí Minh” giai đoạn 2022–2024",
+    "filename": "05.jpg",
+    "source_name": "5.jpg",
+    "mesh_name": "right_party_award_photo_05",
+    "extra_meshes": [
+      "right_party_award_frame_05"
+    ],
+    "width_px": 2104,
+    "height_px": 1548,
+    "texture_filename": "photo_05.jpg",
+    "sheet_box": [
+      58,
+      0,
+      2024,
+      1548
+    ],
+    "sha256": "24ba81722bd593457bd0a64698e664a05fd6ec8f09c4b41ad5b2eb922a484f89",
+    "image_path": "assets/party_awards/05.jpg"
+  }
+]

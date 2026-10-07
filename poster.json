@@ -1,0 +1,22 @@
+[
+  {
+    "id": "01",
+    "label": "Truyền thống nhà trường – Trường THCS Thị Trấn 2",
+    "filename": "poster.jpg",
+    "source_name": "TRUYỀN THỐNG TRƯỜNG THCS TT2 (1).pdf",
+    "source_sha256": "cdf2b97af52ae29b31bacc59e3c6e499f46bd0fd96f4185e0015f77d00ae5d2e",
+    "mesh_name": "right_history_print",
+    "extra_meshes": [
+      "right_history_panel"
+    ],
+    "width_px": 2000,
+    "height_px": 4001,
+    "texture_filename": "texture.jpg",
+    "size_m": [
+      1.2,
+      2.4
+    ],
+    "sha256": "cd39bc3a2d477a43427e06ddf2b35aeceb2500a8278348c4098f51e3611fb57f",
+    "image_path": "assets/poster/poster.jpg"
+  }
+]
