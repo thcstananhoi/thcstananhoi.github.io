@@ -3,7 +3,9 @@ https://sketchfab.com/3d-models/president-ho-chi-minh-statue-12577a979a2c4828ab0
 License: CC BY-NC-SA 4.0
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 Downloaded through the author-enabled official Sketchfab download.
-Changes for this room: rigid orientation, uniform proportional scaling and placement only.
-Statue isolated from the scanned museum plinth and sign using original triangles.
-Exposed torso cut and underside closed in bronze; original face, head and back preserved.
-Mobile web version: material images proportionally resized; original geometry and UVs preserved.
+Changes for this room: rigid orientation, uniform proportional scaling and placement; local extraction/shoulder repair is documented below.
+Statue isolated from the museum plinth and sign. Original head, face, neck and source triangles away from the low shoulder cut are preserved.
+Only 94 low torso triangles crossing X=-0.070 were precisely clipped to remove cut-edge spikes.
+The exposed shoulder was closed along its actual boundary, with a gently convex profile and native UV/PBR transfer from the intact opposite shoulder mirrored around source X=-0.260. Each patch triangle uses one retained shoulder donor facet. The author's three texture JPEGs are byte-identical; no repainting or raster baking.
+The generated underside closure sits inside the room pedestal. The original head fitting transform is unchanged.
+Mobile web version: material images proportionally resized; prepared geometry and UVs preserved.
