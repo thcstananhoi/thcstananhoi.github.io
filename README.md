@@ -9,10 +9,12 @@ Mở trang là mô hình tự tải. Chọn **Bảng chuyên môn**, rồi nhấ
 - Kéo chuột trái để xoay (khi đứng trong phòng: quay nhìn quanh tại chỗ, cảnh đi theo con trỏ); cuộn để thu phóng; kéo chuột phải để di chuyển.
 - Giữ **Shift** và lăn chuột: camera tự về giữa phòng rồi quay tại chỗ, lăn tiếp để nhìn quanh toàn bộ phòng.
 - Trên điện thoại: kéo một ngón tay để xoay, dùng hai ngón tay để thu phóng và di chuyển.
-- Có các góc Tổng thể, Trong phòng, Nhìn từ trên, Bảng chuyên môn, Bằng khen, Ban giám hiệu, Công đoàn, Tường sau, Tượng Bác và QR, Truyền thống; có thể bật trần hoặc mở mặt cắt. Chọn Tường sau rồi bấm ảnh để xem bản gốc và chuyển qua đủ 18 ảnh.
+- Có các góc Tổng thể, Trong phòng, Nhìn từ trên, Bảng chuyên môn, Bằng khen, Ban giám hiệu, Công đoàn, Tường sau, Truyền thống; có thể bật trần hoặc mở mặt cắt. Chọn Tường sau rồi bấm ảnh để xem bản gốc và chuyển qua đủ 18 ảnh.
 - Bảng điều khiển và hướng dẫn thao tác được thu gọn khi mở trang: nhấp nút **☰** (góc trên) hoặc nút hình con chuột (giữa cạnh dưới) để hiện, nút **×** để thu gọn lại.
 
 Kích thước và tỷ lệ phòng được ước lượng từ ảnh, chưa được đo thực tế.
+
+Điện thoại, iPad và Safari tự tải mô hình nhẹ `model-mobile.glb`. Hình học và UV của tượng giữ nguyên; ảnh vật liệu trong mô hình được giảm kích thước để giảm bộ nhớ texture ước tính từ khoảng 1.372 MiB xuống 150 MiB. Chế độ này cũng giảm độ phân giải render và tắt khử răng cưa MSAA. Ảnh tư liệu khi mở xem lớn vẫn dùng bản gốc. Máy tính với trình duyệt khác tiếp tục tải mô hình đầy đủ. Số liệu và kiểm tra bảo toàn hình học nằm trong `mobile_optimization.json`.
 
 ## Chạy và cập nhật
 
@@ -23,15 +25,16 @@ Các file cần giữ cùng nhau:
 - `index.html`: giao diện.
 - `app.js`: trình xem 3D, đã đóng gói Three.js, không phụ thuộc CDN.
 - `assets/model.glb`: mô hình và các texture.
+- `assets/model-mobile.glb`: cùng hình học, texture tối ưu cho thiết bị di động và Safari.
 - `gallery.json` và `assets/gallery/01.jpg` đến `08.jpg`: danh sách và ảnh gốc.
 - `awards.json` và `assets/awards/01.jpg` đến `11.jpg`: danh sách và ảnh bằng khen.
 - `management.json` và `assets/management/01.jpg` đến `11.jpg`: Ban giám hiệu, ảnh gốc, tên và nhiệm kỳ từ dữ liệu cung cấp.
 - `union.json` và `assets/union/01.png`, `03.png` và `02.jpg` và các JPG từ `04.jpg` đến `17.jpg`: Ban chấp hành Công đoàn; cô Mai Thị Hoa ở hàng 1, cột 1, Chủ tịch Công đoàn, nhiệm kỳ 2000–2003; thầy Lê Chí Thành ở hàng 1, cột 3, Chủ tịch Công đoàn, nhiệm kỳ 2010–2017.
 - `management_activities.json`, `union_activities.json` và `assets/management_activities/`, `assets/union_activities/`: ảnh gốc phần Các hoạt động nổi bật của hai bảng.
 - `teacher_activities.json` và `assets/teacher_activities/`: 18 ảnh gốc JPG/PNG của tường sau.
-- `archive_qr.json` và `assets/archive_qr/01.png`: mã QR cho bảng Kho tư liệu số Thị Trấn 2 bên trái tượng Bác; chọn Tượng Bác và QR, bấm mã để xem lớn hoặc quét.
+- `archive_qr.json` và `assets/archive_qr/01.png`: mã QR cho bảng Kho tư liệu số Thị Trấn 2 bên trái tượng Bác; xoay tới bảng rồi bấm mã để xem lớn hoặc quét.
 - `poster.json` và `assets/poster/poster.jpg`: poster Truyền thống nhà trường cỡ lớn.
-- `party_awards.json` và `assets/party_awards/01.jpg` đến `05.jpg`: giấy khen của Chi bộ, bản quét gốc.
+- `party_awards.json`, `assets/party_awards/01.jpg` đến `05.jpg` và `06.png` đến `09.png`: 9 giấy khen của Chi bộ, bản quét gốc.
 
 Để xem tại máy, phục vụ thư mục này bằng một HTTP server, ví dụ `python -m http.server 8000`, rồi mở `http://localhost:8000/`.
 

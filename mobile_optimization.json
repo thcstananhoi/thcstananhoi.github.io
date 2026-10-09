@@ -1,0 +1,5872 @@
+{
+  "source_file": "D:\\T-Maths\\TT2-PhongTruyenThong\\data\\github-pages\\assets\\model.glb",
+  "mobile_file": "D:\\T-Maths\\TT2-PhongTruyenThong\\data\\github-pages\\assets\\model-mobile.glb",
+  "source_filename": "model.glb",
+  "mobile_filename": "model-mobile.glb",
+  "source_sha256": "5160973bc724d25b915371a6cd7b9f5a328b36a108c5ed5db9eb3aa979696907",
+  "mobile_sha256": "a6801d0c650e6ec0fe4e802858861345a469b7c0332ca7e520c3cf8970d2eb6f",
+  "source_encoded_bytes": 37585640,
+  "mobile_encoded_bytes": 12704432,
+  "image_count": 182,
+  "resized_image_count": 113,
+  "source_decoded_RGBA8_MiB": 1028.7421264648438,
+  "mobile_decoded_RGBA8_MiB": 112.29920959472656,
+  "source_GPU_RGBA8_with_mipmaps_MiB": 1371.5593070983887,
+  "mobile_GPU_RGBA8_with_mipmaps_MiB": 149.6519432067871,
+  "texture_GPU_budget_MiB": 160,
+  "geometry_and_non_image_buffer_views_unchanged": true,
+  "protected_JSON_structures_unchanged": true,
+  "desktop_file_unchanged": true,
+  "verified_non_image_buffer_view_count": 1028,
+  "verified_non_image_buffer_bytes": 1764912,
+  "groups": {
+    "room_thumbnail": {
+      "images": 121,
+      "source_GPU_RGBA8_with_mipmaps_bytes": 271858776,
+      "mobile_GPU_RGBA8_with_mipmaps_bytes": 86009940
+    },
+    "text_QR_poster": {
+      "images": 58,
+      "source_GPU_RGBA8_with_mipmaps_bytes": 92583576,
+      "mobile_GPU_RGBA8_with_mipmaps_bytes": 37357068
+    },
+    "statue_colour": {
+      "images": 1,
+      "source_GPU_RGBA8_with_mipmaps_bytes": 357913940,
+      "mobile_GPU_RGBA8_with_mipmaps_bytes": 22369620
+    },
+    "statue_data_map": {
+      "images": 2,
+      "source_GPU_RGBA8_with_mipmaps_bytes": 715827880,
+      "mobile_GPU_RGBA8_with_mipmaps_bytes": 11184808
+    }
+  },
+  "images": [
+    {
+      "index": 0,
+      "uses": [
+        {
+          "material": "Chan_tuong",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "aa894ceef62dc8ddbe90db97134e419df158d92c17a33c08ce6f2b5665cdd4fd",
+      "mobile_image_sha256": "aa894ceef62dc8ddbe90db97134e419df158d92c17a33c08ce6f2b5665cdd4fd",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 1,
+      "uses": [
+        {
+          "material": "photo_floor_tile.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "mobile_dimensions": [
+        480,
+        480
+      ],
+      "source_encoded_bytes": 26942,
+      "mobile_encoded_bytes": 22895,
+      "source_image_sha256": "27ba1ce1afb9ab418513247cdfc739b19f4a14f0f1db5869cbfd544439f2be80",
+      "mobile_image_sha256": "92ff4bea76be459b4e987e27deedf9bc0032ca0375430b81560a3cbc8be8da40",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1048576,
+        "GPU_RGBA8_with_mipmaps_bytes": 1398100
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 921600,
+        "GPU_RGBA8_with_mipmaps_bytes": 1228736
+      },
+      "resized": true
+    },
+    {
+      "index": 2,
+      "uses": [
+        {
+          "material": "Son_trang_nga",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "ecc8769c73c337fdc1de883743a3231e439dbfed47542b9972e1639e4b6b4556",
+      "mobile_image_sha256": "ecc8769c73c337fdc1de883743a3231e439dbfed47542b9972e1639e4b6b4556",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 3,
+      "uses": [
+        {
+          "material": "Lam_go_be",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "f8520120a624f10b28abffa7c97f9467ce8b743e822f785feb4297e85af62879",
+      "mobile_image_sha256": "f8520120a624f10b28abffa7c97f9467ce8b743e822f785feb4297e85af62879",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 4,
+      "uses": [
+        {
+          "material": "Khe_lam",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "0bc779ea0d136de457fe309a7a6e7ff6edd6752377a0bafa3c9d4a6e9a6043ee",
+      "mobile_image_sha256": "0bc779ea0d136de457fe309a7a6e7ff6edd6752377a0bafa3c9d4a6e9a6043ee",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 5,
+      "uses": [
+        {
+          "material": "Kinh_cua",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "ce877f8d6113ff955175eaea84ea5e989a1a5eba149b0ef5634e330529a4b071",
+      "mobile_image_sha256": "ce877f8d6113ff955175eaea84ea5e989a1a5eba149b0ef5634e330529a4b071",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 6,
+      "uses": [
+        {
+          "material": "Khung_nhom_den",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "88c63269a55a440b8185bf5a549d76931ee3a980c6a6e03757b5a9cd79b07204",
+      "mobile_image_sha256": "88c63269a55a440b8185bf5a549d76931ee3a980c6a6e03757b5a9cd79b07204",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 7,
+      "uses": [
+        {
+          "material": "Ong_den",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "35630049b30ebca3453f30ed77a17aa8a9591c7a2515919b3a953c1603cd41a8",
+      "mobile_image_sha256": "35630049b30ebca3453f30ed77a17aa8a9591c7a2515919b3a953c1603cd41a8",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 8,
+      "uses": [
+        {
+          "material": "photo_front_banner.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        2304,
+        160
+      ],
+      "mobile_dimensions": [
+        1024,
+        71
+      ],
+      "source_encoded_bytes": 122973,
+      "mobile_encoded_bytes": 119661,
+      "source_image_sha256": "c66a15fb48e1fb897092238a548a0a4566a2539403fadec2cab53584b56dcb1e",
+      "mobile_image_sha256": "f838882432b4f8d7159a0c3f0cfe7ff90ae03d59786aaa2ea89f59ece77e8344",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1474560,
+        "GPU_RGBA8_with_mipmaps_bytes": 1966024
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 290816,
+        "GPU_RGBA8_with_mipmaps_bytes": 385404
+      },
+      "resized": true
+    },
+    {
+      "index": 9,
+      "uses": [
+        {
+          "material": "photo_front_flags.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        960,
+        320
+      ],
+      "mobile_dimensions": [
+        480,
+        160
+      ],
+      "source_encoded_bytes": 67390,
+      "mobile_encoded_bytes": 23204,
+      "source_image_sha256": "4a600b88f8dd173a99821b765623c8b01deb7d9bbb3e29e7e37899e83ebf928a",
+      "mobile_image_sha256": "f12eeaa9b8afe913e4a1192041432d302818123650052a78d974bce7e302724d",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638372
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 307200,
+        "GPU_RGBA8_with_mipmaps_bytes": 409572
+      },
+      "resized": true
+    },
+    {
+      "index": 10,
+      "uses": [
+        {
+          "material": "photo_front_title.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        1920,
+        533
+      ],
+      "mobile_dimensions": [
+        1024,
+        284
+      ],
+      "source_encoded_bytes": 1345076,
+      "mobile_encoded_bytes": 330054,
+      "source_image_sha256": "eca4bc1e86beddbc3e85b77c97fdcc762695bb581afdeee9045b0979d97c7b88",
+      "mobile_image_sha256": "ef2bd60d054f001604831fa4062456d3bde581c241089d0e93179320bdb04c31",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 4093440,
+        "GPU_RGBA8_with_mipmaps_bytes": 5454552
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 1163264,
+        "GPU_RGBA8_with_mipmaps_bytes": 1550428
+      },
+      "resized": true
+    },
+    {
+      "index": 11,
+      "uses": [
+        {
+          "material": "Go_vien",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "35efaac5bef2f1cbb22437fbed30f821f48b75bf5ab4eb42e286a7ac8cc07a5a",
+      "mobile_image_sha256": "35efaac5bef2f1cbb22437fbed30f821f48b75bf5ab4eb42e286a7ac8cc07a5a",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 12,
+      "uses": [
+        {
+          "material": "photo_front_award_01.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        1280,
+        940
+      ],
+      "mobile_dimensions": [
+        480,
+        352
+      ],
+      "source_encoded_bytes": 315212,
+      "mobile_encoded_bytes": 59701,
+      "source_image_sha256": "f80c667c4058c503941a0db99c881fa1b9498f8500bfc50bf50d65cddcd9849c",
+      "mobile_image_sha256": "1f396c1a0b8d51cd678205f0fa54da3d57ce0f80f1fc47c2c30ca0a13108dddd",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 4812800,
+        "GPU_RGBA8_with_mipmaps_bytes": 6416352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 675840,
+        "GPU_RGBA8_with_mipmaps_bytes": 901068
+      },
+      "resized": true
+    },
+    {
+      "index": 13,
+      "uses": [
+        {
+          "material": "photo_front_award_02.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        1600,
+        1216
+      ],
+      "mobile_dimensions": [
+        480,
+        365
+      ],
+      "source_encoded_bytes": 676887,
+      "mobile_encoded_bytes": 82617,
+      "source_image_sha256": "57aa8075b2733b0a84b1e152b46e6574d81018befef96fdd8f6b087fd89ab7bd",
+      "mobile_image_sha256": "cc83ce6ccf2b0a7f4fce085f73c41f7a84f4fdf93c3f83691f2371c0159d1e6b",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 7782400,
+        "GPU_RGBA8_with_mipmaps_bytes": 10376456
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 700800,
+        "GPU_RGBA8_with_mipmaps_bytes": 933468
+      },
+      "resized": true
+    },
+    {
+      "index": 14,
+      "uses": [
+        {
+          "material": "photo_front_award_03.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        1280,
+        935
+      ],
+      "mobile_dimensions": [
+        480,
+        351
+      ],
+      "source_encoded_bytes": 379539,
+      "mobile_encoded_bytes": 71335,
+      "source_image_sha256": "fcafd32428dde62cde7c571bd9ee1902c25cd9f5f7baa7651d74678eabae4bc0",
+      "mobile_image_sha256": "3e60df479128e47b0dd513597741ef3e118aa3c3a1e33350b7c28a5da66f2352",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 4787200,
+        "GPU_RGBA8_with_mipmaps_bytes": 6379872
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 673920,
+        "GPU_RGBA8_with_mipmaps_bytes": 897288
+      },
+      "resized": true
+    },
+    {
+      "index": 15,
+      "uses": [
+        {
+          "material": "photo_front_award_04.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        900,
+        700
+      ],
+      "mobile_dimensions": [
+        480,
+        373
+      ],
+      "source_encoded_bytes": 243789,
+      "mobile_encoded_bytes": 82879,
+      "source_image_sha256": "6c49700b48229e53fe14a16aa33491d1fb9282d889ff3070ad2af43a6e1eb10a",
+      "mobile_image_sha256": "868254840f7b1d23946fe74acefa1c1222a44d459fc16c190e4c49cccad48d53",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2520000,
+        "GPU_RGBA8_with_mipmaps_bytes": 3359188
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 716160,
+        "GPU_RGBA8_with_mipmaps_bytes": 953988
+      },
+      "resized": true
+    },
+    {
+      "index": 16,
+      "uses": [
+        {
+          "material": "photo_front_award_05.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        900,
+        700
+      ],
+      "mobile_dimensions": [
+        480,
+        373
+      ],
+      "source_encoded_bytes": 254412,
+      "mobile_encoded_bytes": 86028,
+      "source_image_sha256": "446f248302d69e127705dbaf1156093a9e4d65ad08aa264ed977b5ee6c931579",
+      "mobile_image_sha256": "3c30aba2adac6be931a61d6a18832d97635ed09a5c9bf472105fae189eeb86a0",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2520000,
+        "GPU_RGBA8_with_mipmaps_bytes": 3359188
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 716160,
+        "GPU_RGBA8_with_mipmaps_bytes": 953988
+      },
+      "resized": true
+    },
+    {
+      "index": 17,
+      "uses": [
+        {
+          "material": "photo_front_award_06.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        900,
+        700
+      ],
+      "mobile_dimensions": [
+        480,
+        373
+      ],
+      "source_encoded_bytes": 254505,
+      "mobile_encoded_bytes": 87956,
+      "source_image_sha256": "33105288550acf1520eab3807fe017a7e47f71d88710f2121cb54050479d70ab",
+      "mobile_image_sha256": "fb77cd5186fa02437747ba2508592fa629038658c537e20de991b74a90e93fc9",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2520000,
+        "GPU_RGBA8_with_mipmaps_bytes": 3359188
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 716160,
+        "GPU_RGBA8_with_mipmaps_bytes": 953988
+      },
+      "resized": true
+    },
+    {
+      "index": 18,
+      "uses": [
+        {
+          "material": "photo_front_award_07.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        900,
+        697
+      ],
+      "mobile_dimensions": [
+        480,
+        372
+      ],
+      "source_encoded_bytes": 211303,
+      "mobile_encoded_bytes": 73160,
+      "source_image_sha256": "648af254b1a01cb20defb062750d06dfdd33c40909593a2cf7d573342694efc3",
+      "mobile_image_sha256": "9f4d884c1a8bc325f6148d24377a60ab209fc9f5e33212533ff8aad0eac93714",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2509200,
+        "GPU_RGBA8_with_mipmaps_bytes": 3343888
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 714240,
+        "GPU_RGBA8_with_mipmaps_bytes": 952068
+      },
+      "resized": true
+    },
+    {
+      "index": 19,
+      "uses": [
+        {
+          "material": "photo_front_award_08.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        900,
+        700
+      ],
+      "mobile_dimensions": [
+        480,
+        373
+      ],
+      "source_encoded_bytes": 238831,
+      "mobile_encoded_bytes": 80000,
+      "source_image_sha256": "aa4015981aca22914468f075ccdbc6a36f882ac4710e8c7d15804cf6dbd8881e",
+      "mobile_image_sha256": "fcccc866c9dbbd8da28afd2ce8be6dccb2dd3b4cbd1afba7b9d4d503f4a1fe62",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2520000,
+        "GPU_RGBA8_with_mipmaps_bytes": 3359188
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 716160,
+        "GPU_RGBA8_with_mipmaps_bytes": 953988
+      },
+      "resized": true
+    },
+    {
+      "index": 20,
+      "uses": [
+        {
+          "material": "photo_front_award_09.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        900,
+        700
+      ],
+      "mobile_dimensions": [
+        480,
+        373
+      ],
+      "source_encoded_bytes": 248710,
+      "mobile_encoded_bytes": 86135,
+      "source_image_sha256": "9d9fd8b8c5281349cb6ac5de8b3893a80fc60cf400f896e69ba14f695c5f8987",
+      "mobile_image_sha256": "a0f083b2372692da736a252bf504b272799a6e9f21fba66beb0e7fa0d2392e2e",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2520000,
+        "GPU_RGBA8_with_mipmaps_bytes": 3359188
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 716160,
+        "GPU_RGBA8_with_mipmaps_bytes": 953988
+      },
+      "resized": true
+    },
+    {
+      "index": 21,
+      "uses": [
+        {
+          "material": "photo_front_award_10.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        900,
+        700
+      ],
+      "mobile_dimensions": [
+        480,
+        373
+      ],
+      "source_encoded_bytes": 249057,
+      "mobile_encoded_bytes": 84614,
+      "source_image_sha256": "f553933846d4b4178a21cda729e79c96bde6e1a0802c5ceaee71b467fa62059c",
+      "mobile_image_sha256": "dee2de25754b91d5d001c98dbbac1d281ff90f448b816babe7b041461423399e",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2520000,
+        "GPU_RGBA8_with_mipmaps_bytes": 3359188
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 716160,
+        "GPU_RGBA8_with_mipmaps_bytes": 953988
+      },
+      "resized": true
+    },
+    {
+      "index": 22,
+      "uses": [
+        {
+          "material": "photo_front_award_11.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        900,
+        700
+      ],
+      "mobile_dimensions": [
+        480,
+        373
+      ],
+      "source_encoded_bytes": 274469,
+      "mobile_encoded_bytes": 92244,
+      "source_image_sha256": "3b6497e88df182cbd269805d23ec53a63630ca56576d0f0621b483f73fd12389",
+      "mobile_image_sha256": "5133c189b43e346441e9566e5277adf12accf8bc9aeeced01028477f584226e0",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2520000,
+        "GPU_RGBA8_with_mipmaps_bytes": 3359188
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 716160,
+        "GPU_RGBA8_with_mipmaps_bytes": 953988
+      },
+      "resized": true
+    },
+    {
+      "index": 23,
+      "uses": [
+        {
+          "material": "photo_back_panel.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        2080,
+        1100
+      ],
+      "mobile_dimensions": [
+        480,
+        254
+      ],
+      "source_encoded_bytes": 686247,
+      "mobile_encoded_bytes": 50714,
+      "source_image_sha256": "cef9b1ae594b40c8131c61ae2266e129ba0c09baeff1565e100cd5baf19ee71b",
+      "mobile_image_sha256": "3c217444a2ec41c86af25b79628254d00997f994c6e021ca0304434bb3000721",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 9152000,
+        "GPU_RGBA8_with_mipmaps_bytes": 12201540
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 487680,
+        "GPU_RGBA8_with_mipmaps_bytes": 649600
+      },
+      "resized": true
+    },
+    {
+      "index": 24,
+      "uses": [
+        {
+          "material": "photo_side_management.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        800,
+        1024
+      ],
+      "mobile_dimensions": [
+        375,
+        480
+      ],
+      "source_encoded_bytes": 57816,
+      "mobile_encoded_bytes": 18237,
+      "source_image_sha256": "3644e525dbefdedc64f384ec3a0e7980e298e929f679f1ce4874888079145ebb",
+      "mobile_image_sha256": "4846111b029279f6a41d7dd714cf78edc52c716ba647e83c4ddf4bd87879db45",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 3276800,
+        "GPU_RGBA8_with_mipmaps_bytes": 4369020
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 720000,
+        "GPU_RGBA8_with_mipmaps_bytes": 958788
+      },
+      "resized": true
+    },
+    {
+      "index": 25,
+      "uses": [
+        {
+          "material": "photo_side_union.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        800,
+        1024
+      ],
+      "mobile_dimensions": [
+        375,
+        480
+      ],
+      "source_encoded_bytes": 54684,
+      "mobile_encoded_bytes": 16113,
+      "source_image_sha256": "2fb4b8b1cc2e0ec18281065c6771da8e8a37131aae25fa04904a139bf2d814a1",
+      "mobile_image_sha256": "3d53ecc85aa8e58a07a0323204adbe7895a087a9dacc8b9c50e4d11645c9f873",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 3276800,
+        "GPU_RGBA8_with_mipmaps_bytes": 4369020
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 720000,
+        "GPU_RGBA8_with_mipmaps_bytes": 958788
+      },
+      "resized": true
+    },
+    {
+      "index": 26,
+      "uses": [
+        {
+          "material": "photo_side_archive.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        480,
+        1024
+      ],
+      "mobile_dimensions": [
+        225,
+        480
+      ],
+      "source_encoded_bytes": 56963,
+      "mobile_encoded_bytes": 17474,
+      "source_image_sha256": "bfba028e40b07a5e948588d4ba4cd4d8694ee25070e8ad32eb9c5d786cde4ead",
+      "mobile_image_sha256": "fd85858bce833e390fe41f3821473844f56d294f600d0e3a20465873863be442",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1966080,
+        "GPU_RGBA8_with_mipmaps_bytes": 2621372
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 432000,
+        "GPU_RGBA8_with_mipmaps_bytes": 575320
+      },
+      "resized": true
+    },
+    {
+      "index": 27,
+      "uses": [
+        {
+          "material": "photo_side_department_clean.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        800,
+        1024
+      ],
+      "mobile_dimensions": [
+        375,
+        480
+      ],
+      "source_encoded_bytes": 34255,
+      "mobile_encoded_bytes": 10817,
+      "source_image_sha256": "dcaadf5de8e42aced656221dcd7b2760d1b1a50ff2d8bdccc55ccb82efdb51da",
+      "mobile_image_sha256": "c3e61a18d341520d453c5e5cae8af36eaa2eec493044d0b990eb11bef4894d54",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 3276800,
+        "GPU_RGBA8_with_mipmaps_bytes": 4369020
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 720000,
+        "GPU_RGBA8_with_mipmaps_bytes": 958788
+      },
+      "resized": true
+    },
+    {
+      "index": 28,
+      "uses": [
+        {
+          "material": "photo_board_right_gallery_title.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        3400,
+        320
+      ],
+      "mobile_dimensions": [
+        1024,
+        96
+      ],
+      "source_encoded_bytes": 65924,
+      "mobile_encoded_bytes": 33538,
+      "source_image_sha256": "965ed30ebe732b254db9f32258e6aed27a847adb1113fcf135f6f335d1571945",
+      "mobile_image_sha256": "1c6fcac0d2bfb1ed86256a68025ce1d08f4ba3bcff2b13bbccaad1bca798d801",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 4352000,
+        "GPU_RGBA8_with_mipmaps_bytes": 5802560
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 393216,
+        "GPU_RGBA8_with_mipmaps_bytes": 524284
+      },
+      "resized": true
+    },
+    {
+      "index": 29,
+      "uses": [
+        {
+          "material": "Vien_khung_vang",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "f35d87772d0293d3777d1016b3dbfe669871fb8d0ac1dc12199b83a32ff1ac7a",
+      "mobile_image_sha256": "f35d87772d0293d3777d1016b3dbfe669871fb8d0ac1dc12199b83a32ff1ac7a",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 30,
+      "uses": [
+        {
+          "material": "photo_gallery_thumb_01.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        960,
+        640
+      ],
+      "mobile_dimensions": [
+        480,
+        320
+      ],
+      "source_encoded_bytes": 172534,
+      "mobile_encoded_bytes": 60535,
+      "source_image_sha256": "1bd70befe9e2a13df3548059b397d24ec739525245e3f113d4380ed82720065a",
+      "mobile_image_sha256": "ee0c1e2aca2f21a1ad44e297384d158354514306acf095bf062fed42dfb06d48",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2457600,
+        "GPU_RGBA8_with_mipmaps_bytes": 3276768
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 614400,
+        "GPU_RGBA8_with_mipmaps_bytes": 819168
+      },
+      "resized": true
+    },
+    {
+      "index": 31,
+      "uses": [
+        {
+          "material": "photo_board_right_gallery_label_01.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        1240,
+        150
+      ],
+      "mobile_dimensions": [
+        1024,
+        124
+      ],
+      "source_encoded_bytes": 14496,
+      "mobile_encoded_bytes": 21652,
+      "source_image_sha256": "debe07b4751a2c00f8f569bb87c63b3f5301a3cf55dcd1bd471c3bf3b51eb809",
+      "mobile_image_sha256": "e21e6185af78aed11332a7f313b239075c37c22273681c25b5599989cabfb941",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 744000,
+        "GPU_RGBA8_with_mipmaps_bytes": 990636
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 507904,
+        "GPU_RGBA8_with_mipmaps_bytes": 676604
+      },
+      "resized": true
+    },
+    {
+      "index": 32,
+      "uses": [
+        {
+          "material": "photo_gallery_thumb_02.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        960,
+        640
+      ],
+      "mobile_dimensions": [
+        480,
+        320
+      ],
+      "source_encoded_bytes": 235997,
+      "mobile_encoded_bytes": 72790,
+      "source_image_sha256": "9063792bbedae50c8c2460467949da9113b2a24562a3e48ebeacf6feee3d06b1",
+      "mobile_image_sha256": "fed3be2fbe02da8a98bbe4117ae9c588f2ffc85942be3fd89c81ed4aea1432e8",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2457600,
+        "GPU_RGBA8_with_mipmaps_bytes": 3276768
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 614400,
+        "GPU_RGBA8_with_mipmaps_bytes": 819168
+      },
+      "resized": true
+    },
+    {
+      "index": 33,
+      "uses": [
+        {
+          "material": "photo_board_right_gallery_label_02.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        1240,
+        150
+      ],
+      "mobile_dimensions": [
+        1024,
+        124
+      ],
+      "source_encoded_bytes": 15513,
+      "mobile_encoded_bytes": 35583,
+      "source_image_sha256": "dca4a836b9b6b108e002e4f36f3f7319431147806f4ca938b840a25e45d853c2",
+      "mobile_image_sha256": "3117449d60d2deb0c5022b9fc6eaa453611cbcaee3f13ec3342676fe4c1a0436",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 744000,
+        "GPU_RGBA8_with_mipmaps_bytes": 990636
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 507904,
+        "GPU_RGBA8_with_mipmaps_bytes": 676604
+      },
+      "resized": true
+    },
+    {
+      "index": 34,
+      "uses": [
+        {
+          "material": "photo_gallery_thumb_03.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        960,
+        640
+      ],
+      "mobile_dimensions": [
+        480,
+        320
+      ],
+      "source_encoded_bytes": 227607,
+      "mobile_encoded_bytes": 70175,
+      "source_image_sha256": "493187f345ca5eaab45c1bf9462a1ec7b6f6b36cb1686958d9243cb2b1e31f60",
+      "mobile_image_sha256": "77dc35063b2602c36c47517687a24ec742cae41d96a11c35fcc2a4fea0fd8fe6",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2457600,
+        "GPU_RGBA8_with_mipmaps_bytes": 3276768
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 614400,
+        "GPU_RGBA8_with_mipmaps_bytes": 819168
+      },
+      "resized": true
+    },
+    {
+      "index": 35,
+      "uses": [
+        {
+          "material": "photo_board_right_gallery_label_03.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        1240,
+        150
+      ],
+      "mobile_dimensions": [
+        1024,
+        124
+      ],
+      "source_encoded_bytes": 10884,
+      "mobile_encoded_bytes": 15558,
+      "source_image_sha256": "da615608db31f69880e07790a4381e229740e157a07a8003b0228c1756dd1707",
+      "mobile_image_sha256": "c1a5291580fcfc8fef8694b5f4f054c27ca7206553891bfb4d87f728d3b3bac3",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 744000,
+        "GPU_RGBA8_with_mipmaps_bytes": 990636
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 507904,
+        "GPU_RGBA8_with_mipmaps_bytes": 676604
+      },
+      "resized": true
+    },
+    {
+      "index": 36,
+      "uses": [
+        {
+          "material": "photo_gallery_thumb_04.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        960,
+        640
+      ],
+      "mobile_dimensions": [
+        480,
+        320
+      ],
+      "source_encoded_bytes": 115770,
+      "mobile_encoded_bytes": 36820,
+      "source_image_sha256": "4bacff81b1eda92b6d514387abe3fdb68289e8a565b6ba0156766cac0b5e91f1",
+      "mobile_image_sha256": "12326a162337f25be1bb12a79f61892fce824ef1c9c8eca33f6d18ffcf435ed8",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2457600,
+        "GPU_RGBA8_with_mipmaps_bytes": 3276768
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 614400,
+        "GPU_RGBA8_with_mipmaps_bytes": 819168
+      },
+      "resized": true
+    },
+    {
+      "index": 37,
+      "uses": [
+        {
+          "material": "photo_board_right_gallery_label_04.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        1240,
+        150
+      ],
+      "mobile_dimensions": [
+        1024,
+        124
+      ],
+      "source_encoded_bytes": 7136,
+      "mobile_encoded_bytes": 10023,
+      "source_image_sha256": "8049182eb3b7c998450aa06863357cca1bc36e82320749e8e5f0bbe8541e995d",
+      "mobile_image_sha256": "406b2f9be9a1c1229adcb1f5071b74e1d3542bd09905402b0980cc642d94584f",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 744000,
+        "GPU_RGBA8_with_mipmaps_bytes": 990636
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 507904,
+        "GPU_RGBA8_with_mipmaps_bytes": 676604
+      },
+      "resized": true
+    },
+    {
+      "index": 38,
+      "uses": [
+        {
+          "material": "photo_gallery_thumb_05.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        960,
+        640
+      ],
+      "mobile_dimensions": [
+        480,
+        320
+      ],
+      "source_encoded_bytes": 153543,
+      "mobile_encoded_bytes": 51305,
+      "source_image_sha256": "57ebfe7b38689865b986745488a216dcd79e8b09fc6fe43da4deb1b20b44bdc5",
+      "mobile_image_sha256": "abd3aac787380cd63356d509a116333e9132d7e974e12a6ce4d51d9fb05ff3c6",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2457600,
+        "GPU_RGBA8_with_mipmaps_bytes": 3276768
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 614400,
+        "GPU_RGBA8_with_mipmaps_bytes": 819168
+      },
+      "resized": true
+    },
+    {
+      "index": 39,
+      "uses": [
+        {
+          "material": "photo_board_right_gallery_label_05.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        1240,
+        150
+      ],
+      "mobile_dimensions": [
+        1024,
+        124
+      ],
+      "source_encoded_bytes": 7820,
+      "mobile_encoded_bytes": 10211,
+      "source_image_sha256": "a41a130411fec6ae9a30bd9ab050e1334e9167e7e1ec589df79970c564827d2c",
+      "mobile_image_sha256": "1ff73dc2c084bed4318c2ffbc88ff2bf3a8adc6ec845ea38ecfacef55b0897ea",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 744000,
+        "GPU_RGBA8_with_mipmaps_bytes": 990636
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 507904,
+        "GPU_RGBA8_with_mipmaps_bytes": 676604
+      },
+      "resized": true
+    },
+    {
+      "index": 40,
+      "uses": [
+        {
+          "material": "photo_gallery_thumb_06.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        960,
+        640
+      ],
+      "mobile_dimensions": [
+        480,
+        320
+      ],
+      "source_encoded_bytes": 203034,
+      "mobile_encoded_bytes": 64991,
+      "source_image_sha256": "ad33690bb7b127645b9bac594da57d3992339f4a33636f50c5b7508980e7fd42",
+      "mobile_image_sha256": "cc2ba54abb014642491f5b014abcbcea42a7df243303d998b3e935d77ab3182a",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2457600,
+        "GPU_RGBA8_with_mipmaps_bytes": 3276768
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 614400,
+        "GPU_RGBA8_with_mipmaps_bytes": 819168
+      },
+      "resized": true
+    },
+    {
+      "index": 41,
+      "uses": [
+        {
+          "material": "photo_board_right_gallery_label_06.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        1240,
+        150
+      ],
+      "mobile_dimensions": [
+        1024,
+        124
+      ],
+      "source_encoded_bytes": 17412,
+      "mobile_encoded_bytes": 23350,
+      "source_image_sha256": "ab0370f8d20918081292c1804eefd94a5fb8d1b0401cf268ce2b3d8500f63df5",
+      "mobile_image_sha256": "d0005596cc0e230406d12569891ccbdfcbaacf580de7e80bc4aeef8a6727fd90",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 744000,
+        "GPU_RGBA8_with_mipmaps_bytes": 990636
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 507904,
+        "GPU_RGBA8_with_mipmaps_bytes": 676604
+      },
+      "resized": true
+    },
+    {
+      "index": 42,
+      "uses": [
+        {
+          "material": "photo_gallery_thumb_07.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        960,
+        640
+      ],
+      "mobile_dimensions": [
+        480,
+        320
+      ],
+      "source_encoded_bytes": 198358,
+      "mobile_encoded_bytes": 62504,
+      "source_image_sha256": "9f69a2bae23bf0119128a4e47bb7a61edb2af5fb7d7cd649d28539f0f1f8b850",
+      "mobile_image_sha256": "88c2b7654168cdf91a1eb7aa5c47ebefc57800f5346c3209604a9095da879964",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2457600,
+        "GPU_RGBA8_with_mipmaps_bytes": 3276768
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 614400,
+        "GPU_RGBA8_with_mipmaps_bytes": 819168
+      },
+      "resized": true
+    },
+    {
+      "index": 43,
+      "uses": [
+        {
+          "material": "photo_board_right_gallery_label_07.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        1240,
+        150
+      ],
+      "mobile_dimensions": [
+        1024,
+        124
+      ],
+      "source_encoded_bytes": 10968,
+      "mobile_encoded_bytes": 17711,
+      "source_image_sha256": "c1f789612ad5214ea74f4ff464a13a8861509cbac04469906b5d88be6be3d5c3",
+      "mobile_image_sha256": "692bbd6bd6a31e45d104564e0d068b31b2210b838ec86ffcfc66fa145ed95c57",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 744000,
+        "GPU_RGBA8_with_mipmaps_bytes": 990636
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 507904,
+        "GPU_RGBA8_with_mipmaps_bytes": 676604
+      },
+      "resized": true
+    },
+    {
+      "index": 44,
+      "uses": [
+        {
+          "material": "photo_gallery_thumb_08.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        960,
+        640
+      ],
+      "mobile_dimensions": [
+        480,
+        320
+      ],
+      "source_encoded_bytes": 198141,
+      "mobile_encoded_bytes": 59306,
+      "source_image_sha256": "7dc832f05d3a7031aa0a0eafa6a2882e099a4b610170f8d676676a707826a19a",
+      "mobile_image_sha256": "2b2cf07f7a787fab646b60257f49fa3fbef738bc658db1c53defbb61c43d87cb",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2457600,
+        "GPU_RGBA8_with_mipmaps_bytes": 3276768
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 614400,
+        "GPU_RGBA8_with_mipmaps_bytes": 819168
+      },
+      "resized": true
+    },
+    {
+      "index": 45,
+      "uses": [
+        {
+          "material": "photo_board_right_gallery_label_08.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        1240,
+        150
+      ],
+      "mobile_dimensions": [
+        1024,
+        124
+      ],
+      "source_encoded_bytes": 9376,
+      "mobile_encoded_bytes": 13632,
+      "source_image_sha256": "586679d9f541bec157169b5564988528895f2f3791da179be5c3d0f76cd981e2",
+      "mobile_image_sha256": "323ac6d9358361295dc03b7988851b28be39eb033cb112e855b0129bbb8b8b09",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 744000,
+        "GPU_RGBA8_with_mipmaps_bytes": 990636
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 507904,
+        "GPU_RGBA8_with_mipmaps_bytes": 676604
+      },
+      "resized": true
+    },
+    {
+      "index": 46,
+      "uses": [
+        {
+          "material": "photo_management_portrait_01.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 47612,
+      "mobile_encoded_bytes": 55842,
+      "source_image_sha256": "4e07e4c93787e5391eb41ce335d3fa5b85b24d98a5c6ca72887672ab7ad8fb94",
+      "mobile_image_sha256": "9d402a56b9f81a50d253d77482f3d1bb50a5bd9459b692026795cdb8fbe41183",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 47,
+      "uses": [
+        {
+          "material": "photo_board_left_management_label_01.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        870,
+        124
+      ],
+      "mobile_dimensions": [
+        870,
+        124
+      ],
+      "source_encoded_bytes": 15026,
+      "mobile_encoded_bytes": 15026,
+      "source_image_sha256": "bf6a19a8ff0978e3d95d7184e2aacb0b55ef97d516ef77fc69726aa6e248df27",
+      "mobile_image_sha256": "bf6a19a8ff0978e3d95d7184e2aacb0b55ef97d516ef77fc69726aa6e248df27",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "resized": false
+    },
+    {
+      "index": 48,
+      "uses": [
+        {
+          "material": "photo_management_portrait_02.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 48500,
+      "mobile_encoded_bytes": 56299,
+      "source_image_sha256": "1de372dd4b7f28de585549698fe212b19d4df1a746337d73ec5f031a9d136037",
+      "mobile_image_sha256": "3d55406e565870e6240ea80e22b2f717b938707b3a500de863ab5bfa02a507c8",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 49,
+      "uses": [
+        {
+          "material": "photo_board_left_management_label_02.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        870,
+        124
+      ],
+      "mobile_dimensions": [
+        870,
+        124
+      ],
+      "source_encoded_bytes": 14345,
+      "mobile_encoded_bytes": 14345,
+      "source_image_sha256": "67f2a5894b88cc61a952c5864a0de10276f88914655a2d9fdccd12ddeb7cfe04",
+      "mobile_image_sha256": "67f2a5894b88cc61a952c5864a0de10276f88914655a2d9fdccd12ddeb7cfe04",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "resized": false
+    },
+    {
+      "index": 50,
+      "uses": [
+        {
+          "material": "photo_management_portrait_03.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 33440,
+      "mobile_encoded_bytes": 38064,
+      "source_image_sha256": "c937011bf8f67e12a378dc55c137964f1322ca7ff1c66c3455eec97e633b7768",
+      "mobile_image_sha256": "3454378436968a266d8def193475bd984795e535403580a123b422d199e3bf66",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 51,
+      "uses": [
+        {
+          "material": "photo_board_left_management_label_03.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        870,
+        124
+      ],
+      "mobile_dimensions": [
+        870,
+        124
+      ],
+      "source_encoded_bytes": 12128,
+      "mobile_encoded_bytes": 12128,
+      "source_image_sha256": "93a623229e288745f692b5c0877aa5affc1c1edf04e5d9c442b7fc3bb608c53d",
+      "mobile_image_sha256": "93a623229e288745f692b5c0877aa5affc1c1edf04e5d9c442b7fc3bb608c53d",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "resized": false
+    },
+    {
+      "index": 52,
+      "uses": [
+        {
+          "material": "photo_management_portrait_04.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 34304,
+      "mobile_encoded_bytes": 42047,
+      "source_image_sha256": "824046acc464dd08dd079caaa8664f23765853c0c0ff073df1896c742933e2cc",
+      "mobile_image_sha256": "f9561476e62dd0392e1883794af95cfc03da2ffce2b12ea4248624b3cd1bcf65",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 53,
+      "uses": [
+        {
+          "material": "photo_board_left_management_label_04.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        870,
+        124
+      ],
+      "mobile_dimensions": [
+        870,
+        124
+      ],
+      "source_encoded_bytes": 14584,
+      "mobile_encoded_bytes": 14584,
+      "source_image_sha256": "964b1192732877057f272e70ad5383c24dfd07245cfd63cc715a59c8e3ccf033",
+      "mobile_image_sha256": "964b1192732877057f272e70ad5383c24dfd07245cfd63cc715a59c8e3ccf033",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "resized": false
+    },
+    {
+      "index": 54,
+      "uses": [
+        {
+          "material": "photo_management_portrait_05.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 54124,
+      "mobile_encoded_bytes": 60330,
+      "source_image_sha256": "3baee4dac91ee4fc95baa6cae76b260b644500b13e7e95c48d27584a5d220e2c",
+      "mobile_image_sha256": "5df5a6a133d33a164b7eb870bc5a279d1b9c84e30182471ac6d324fcb3721789",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 55,
+      "uses": [
+        {
+          "material": "photo_board_left_management_label_05.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        870,
+        124
+      ],
+      "mobile_dimensions": [
+        870,
+        124
+      ],
+      "source_encoded_bytes": 16593,
+      "mobile_encoded_bytes": 16593,
+      "source_image_sha256": "29b400650588560f3f1398772e943e2b1acb1274c5088355d50143ce0a9ee080",
+      "mobile_image_sha256": "29b400650588560f3f1398772e943e2b1acb1274c5088355d50143ce0a9ee080",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "resized": false
+    },
+    {
+      "index": 56,
+      "uses": [
+        {
+          "material": "photo_management_portrait_06.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 22112,
+      "mobile_encoded_bytes": 24959,
+      "source_image_sha256": "310ddf04146d897cca568e9bff95b6d5815fcfc1eac76502b8d86f376ad3bfda",
+      "mobile_image_sha256": "2ea3ec32b86be25b840d64f43804a40f9155607f57956b75690bdbadc92da06a",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 57,
+      "uses": [
+        {
+          "material": "photo_board_left_management_label_06.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        870,
+        124
+      ],
+      "mobile_dimensions": [
+        870,
+        124
+      ],
+      "source_encoded_bytes": 15480,
+      "mobile_encoded_bytes": 15480,
+      "source_image_sha256": "e2ba37138681f49c9e66ca0d4fd7f3b0086f9260386962152b4951b9c8de99b0",
+      "mobile_image_sha256": "e2ba37138681f49c9e66ca0d4fd7f3b0086f9260386962152b4951b9c8de99b0",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "resized": false
+    },
+    {
+      "index": 58,
+      "uses": [
+        {
+          "material": "photo_management_portrait_07.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 55596,
+      "mobile_encoded_bytes": 63342,
+      "source_image_sha256": "38568ed54249474867697700d14beda7e8e43ca39a6970b443be6fe6b05e6cd8",
+      "mobile_image_sha256": "02b9a9d0154a701174fea7f67fb4b0bb5869d2e30942d0bbeb3d1adac42df680",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 59,
+      "uses": [
+        {
+          "material": "photo_board_left_management_label_07.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        870,
+        124
+      ],
+      "mobile_dimensions": [
+        870,
+        124
+      ],
+      "source_encoded_bytes": 13540,
+      "mobile_encoded_bytes": 13540,
+      "source_image_sha256": "97a84fbd6f03f86e7493d273f7c5225b3a4c4699294326a5aefa9f1bf0e88903",
+      "mobile_image_sha256": "97a84fbd6f03f86e7493d273f7c5225b3a4c4699294326a5aefa9f1bf0e88903",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "resized": false
+    },
+    {
+      "index": 60,
+      "uses": [
+        {
+          "material": "photo_management_portrait_08.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 54620,
+      "mobile_encoded_bytes": 60044,
+      "source_image_sha256": "e57b42a7cb392518b8e8922ffecbd4bab3972578b30b62ea29d3461a2b5cd2db",
+      "mobile_image_sha256": "36897c8ea5ec794b5e8f14bbe425c73f325560bfe4b10c85ac910875d649d664",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 61,
+      "uses": [
+        {
+          "material": "photo_board_left_management_label_08.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        870,
+        124
+      ],
+      "mobile_dimensions": [
+        870,
+        124
+      ],
+      "source_encoded_bytes": 10652,
+      "mobile_encoded_bytes": 10652,
+      "source_image_sha256": "03993c27c0184bbbd4c3c751556b9c5fcce31fd89d5d39b27621f96ea2179196",
+      "mobile_image_sha256": "03993c27c0184bbbd4c3c751556b9c5fcce31fd89d5d39b27621f96ea2179196",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "resized": false
+    },
+    {
+      "index": 62,
+      "uses": [
+        {
+          "material": "photo_management_portrait_09.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 65868,
+      "mobile_encoded_bytes": 74171,
+      "source_image_sha256": "dd56f1835f85a1c25ea4cac8d5e05bdbc34ff6e13cac8570e716a0aa47ccf146",
+      "mobile_image_sha256": "64831ac5d1df780122dbd76dd96d4f472aea0cea51bce56c57cfa2e5c3686ad6",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 63,
+      "uses": [
+        {
+          "material": "photo_board_left_management_label_09.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        870,
+        124
+      ],
+      "mobile_dimensions": [
+        870,
+        124
+      ],
+      "source_encoded_bytes": 13824,
+      "mobile_encoded_bytes": 13824,
+      "source_image_sha256": "1463702ed927fd1e3955dd77100eb8ab736e4766de09fadc142269a06f382a3f",
+      "mobile_image_sha256": "1463702ed927fd1e3955dd77100eb8ab736e4766de09fadc142269a06f382a3f",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "resized": false
+    },
+    {
+      "index": 64,
+      "uses": [
+        {
+          "material": "photo_management_portrait_10.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 60836,
+      "mobile_encoded_bytes": 67509,
+      "source_image_sha256": "757c6b831b334096696ef80c388a4a9859ec6c29b744dc4bde8cc52eb9645202",
+      "mobile_image_sha256": "43fd06446e84bd44c5ae50859af3933229650a0d447b608de297fb42c82e3338",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 65,
+      "uses": [
+        {
+          "material": "photo_board_left_management_label_10.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        870,
+        124
+      ],
+      "mobile_dimensions": [
+        870,
+        124
+      ],
+      "source_encoded_bytes": 14190,
+      "mobile_encoded_bytes": 14190,
+      "source_image_sha256": "207d6f856df7c7f3e2438130443ec480a08df63a3940edc72254510757d26067",
+      "mobile_image_sha256": "207d6f856df7c7f3e2438130443ec480a08df63a3940edc72254510757d26067",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "resized": false
+    },
+    {
+      "index": 66,
+      "uses": [
+        {
+          "material": "photo_management_portrait_11.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 38404,
+      "mobile_encoded_bytes": 44116,
+      "source_image_sha256": "7ac82de849d2e93b8ba66b2e7f7370c371993f2e8741e339489f8c1925c4f9a7",
+      "mobile_image_sha256": "5b83495db812358b334b3421a526e84e3ad30236499bd8044b4ccef648eaafaf",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 67,
+      "uses": [
+        {
+          "material": "photo_board_left_management_label_11.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        870,
+        124
+      ],
+      "mobile_dimensions": [
+        870,
+        124
+      ],
+      "source_encoded_bytes": 11696,
+      "mobile_encoded_bytes": 11696,
+      "source_image_sha256": "d8c6ad81ca84cc3bc94f4084ecf986eba54927b795c6f5136d0d36ba9097c6f2",
+      "mobile_image_sha256": "d8c6ad81ca84cc3bc94f4084ecf986eba54927b795c6f5136d0d36ba9097c6f2",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 431520,
+        "GPU_RGBA8_with_mipmaps_bytes": 574716
+      },
+      "resized": false
+    },
+    {
+      "index": 68,
+      "uses": [
+        {
+          "material": "photo_union_portrait_01.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 28604,
+      "mobile_encoded_bytes": 43971,
+      "source_image_sha256": "ac1ccc2d710c24057f48ac25ee08ee5bd4df2dd692b9c59a3ec69ff5e16d52bb",
+      "mobile_image_sha256": "f1ea624790fab0ffbb88b0c74a297f628341674ebaddc8e6779ca9afa0fcf3fc",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 69,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_01.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 9388,
+      "mobile_encoded_bytes": 9388,
+      "source_image_sha256": "44ec9de9935c32907af3a35aa325745f136a7bdf09c7298887aaaf9128e75ea9",
+      "mobile_image_sha256": "44ec9de9935c32907af3a35aa325745f136a7bdf09c7298887aaaf9128e75ea9",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 70,
+      "uses": [
+        {
+          "material": "photo_union_portrait_02.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 35868,
+      "mobile_encoded_bytes": 52115,
+      "source_image_sha256": "522b2dd940da008c32685fc1bee3a6a2fe339fce06a21cf5e6dafe4771c5bd4d",
+      "mobile_image_sha256": "87d9c2f14efb069f7d545af700392659a8a1053c23984f32fce1e77c07256b8f",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 71,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_02.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 8596,
+      "mobile_encoded_bytes": 8596,
+      "source_image_sha256": "fa883dda60fe7de9af4a43e6f4e7d05be9e57909d9e72adb0a8a2715fceef3f3",
+      "mobile_image_sha256": "fa883dda60fe7de9af4a43e6f4e7d05be9e57909d9e72adb0a8a2715fceef3f3",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 72,
+      "uses": [
+        {
+          "material": "photo_union_portrait_03.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 35356,
+      "mobile_encoded_bytes": 53587,
+      "source_image_sha256": "035d308d1365781bf9385fbe20d19d197369684cea11ceae5c893e719ccee71a",
+      "mobile_image_sha256": "682b0f34705147664d5ce4c1843ea70bbd37f05c02532825b35f4a6ea42a5f15",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 73,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_03.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 12252,
+      "mobile_encoded_bytes": 12252,
+      "source_image_sha256": "60d1ab49786e097c39915e49945a4bfed20362a80afaa2cf898945d040e7a03f",
+      "mobile_image_sha256": "60d1ab49786e097c39915e49945a4bfed20362a80afaa2cf898945d040e7a03f",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 74,
+      "uses": [
+        {
+          "material": "photo_union_portrait_04.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 57240,
+      "mobile_encoded_bytes": 83963,
+      "source_image_sha256": "f0be7614ad0ebec61d38d5b8f8b37309b16d8f658ba9bb993ead958bfe8a1e8f",
+      "mobile_image_sha256": "f2d8e9034091440f216cac48eb1760a165e33a81f6a21badec8a185224d42631",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 75,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_04.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 13596,
+      "mobile_encoded_bytes": 13596,
+      "source_image_sha256": "7008546e1ff16cfa607ede0f83ce6c18e0a072a9def3e51a690a19318231d844",
+      "mobile_image_sha256": "7008546e1ff16cfa607ede0f83ce6c18e0a072a9def3e51a690a19318231d844",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 76,
+      "uses": [
+        {
+          "material": "photo_union_portrait_05.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 32876,
+      "mobile_encoded_bytes": 51229,
+      "source_image_sha256": "3f180fe23f27b2c465e574dbdc6ccb046eb6511c86f8da7ed75b2fc0a1e213b4",
+      "mobile_image_sha256": "f6baf9dcc8d278d8cd5108382dc64ab0b10518f4739ae55a4b6c5e5325ade9aa",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 77,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_05.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 9780,
+      "mobile_encoded_bytes": 9780,
+      "source_image_sha256": "e51f6d8648d4ac2e0e804f83cab435b1595df6b7b37b8d603ece4b3f022cf553",
+      "mobile_image_sha256": "e51f6d8648d4ac2e0e804f83cab435b1595df6b7b37b8d603ece4b3f022cf553",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 78,
+      "uses": [
+        {
+          "material": "photo_union_portrait_06.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 20428,
+      "mobile_encoded_bytes": 31656,
+      "source_image_sha256": "42f678658018ca8c5e89ba1043f14a3cc369f6aa201ce29379a87c804eab1057",
+      "mobile_image_sha256": "ebe5201810ea11a70b0b64f478f2516535b94aa8d9a7d630a44e18c280237240",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 79,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_06.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 8964,
+      "mobile_encoded_bytes": 8964,
+      "source_image_sha256": "7b538ddd8daa5a0f66289ff3af3c68f678abaec40c149b4d4bcb5290291e1adb",
+      "mobile_image_sha256": "7b538ddd8daa5a0f66289ff3af3c68f678abaec40c149b4d4bcb5290291e1adb",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 80,
+      "uses": [
+        {
+          "material": "photo_union_portrait_07.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 31620,
+      "mobile_encoded_bytes": 49290,
+      "source_image_sha256": "cb28582e445ed0ce238b9876478f8c4edbfd22ea58e5b78a4f053030853e0ac5",
+      "mobile_image_sha256": "48b97ef9d1cad78acb56bb1c442e9d77034fee5ec26383c64717dc0d2a850e2c",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 81,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_07.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 8788,
+      "mobile_encoded_bytes": 8788,
+      "source_image_sha256": "c90e0a60d15df820fa62feeb796e0a07db22de18bbe479d5485da2ffbd80a042",
+      "mobile_image_sha256": "c90e0a60d15df820fa62feeb796e0a07db22de18bbe479d5485da2ffbd80a042",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 82,
+      "uses": [
+        {
+          "material": "photo_union_portrait_08.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 44400,
+      "mobile_encoded_bytes": 70878,
+      "source_image_sha256": "98119bfc38ccb2431156e0c7c27765dab8db7c16fbeb6d54432f702e76c1758e",
+      "mobile_image_sha256": "6e6967de19f581ca985401315ecb2b5a81e9b2feaa875027272981f49ee43f5d",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 83,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_08.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 11493,
+      "mobile_encoded_bytes": 11493,
+      "source_image_sha256": "10afb6877d8997f4ae9b448f8881f45d102fc73bfc4a74ae93e06e0b767523fd",
+      "mobile_image_sha256": "10afb6877d8997f4ae9b448f8881f45d102fc73bfc4a74ae93e06e0b767523fd",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 84,
+      "uses": [
+        {
+          "material": "photo_union_portrait_09.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 29132,
+      "mobile_encoded_bytes": 47608,
+      "source_image_sha256": "bb5e5d39c42a1c086358317373ee51a62e942e946ad42be41c5c4eae916803f2",
+      "mobile_image_sha256": "62b3e1b05113f33d81429a3883453a3d36a75b9d0d74e18ff58257e69633c8e9",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 85,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_09.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 13282,
+      "mobile_encoded_bytes": 13282,
+      "source_image_sha256": "37bb4cfbb0654e9be7747f4247cf96260f8931d8c3a89ba176ac72512a7a69c0",
+      "mobile_image_sha256": "37bb4cfbb0654e9be7747f4247cf96260f8931d8c3a89ba176ac72512a7a69c0",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 86,
+      "uses": [
+        {
+          "material": "photo_union_portrait_10.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 27408,
+      "mobile_encoded_bytes": 41906,
+      "source_image_sha256": "2c97b82f0c2c998b36e854a0f503daf2e57fdcb09cbd502881641ceabc6ab213",
+      "mobile_image_sha256": "b38fc9b9c5a5fdb262de17d3d11d5868368cc7c0975078d47e40abf8fc798c89",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 87,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_10.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 11768,
+      "mobile_encoded_bytes": 11768,
+      "source_image_sha256": "b475002a85792fb085773af1ab6a44284688a6da5acd06a5503bf380d910892f",
+      "mobile_image_sha256": "b475002a85792fb085773af1ab6a44284688a6da5acd06a5503bf380d910892f",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 88,
+      "uses": [
+        {
+          "material": "photo_union_portrait_11.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 18824,
+      "mobile_encoded_bytes": 30535,
+      "source_image_sha256": "cbb1abb4083d8346f2ced1ffffd36e62f5710a6b6a9045f67128e5cf063321c6",
+      "mobile_image_sha256": "5c7677c2f2136150932462a82938f1644a8386a6680311be78abcc27884f37c4",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 89,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_11.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 15548,
+      "mobile_encoded_bytes": 15548,
+      "source_image_sha256": "e2ab195db17f4482fba8b3ccc64c59ba2ad6748a3c0527c2eb7678d6d6d183b7",
+      "mobile_image_sha256": "e2ab195db17f4482fba8b3ccc64c59ba2ad6748a3c0527c2eb7678d6d6d183b7",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 90,
+      "uses": [
+        {
+          "material": "photo_union_portrait_12.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 34640,
+      "mobile_encoded_bytes": 50438,
+      "source_image_sha256": "ef4fea4b62f0bf39273715349de19dc05f91b42e28e1c41db93f898c0cd6a937",
+      "mobile_image_sha256": "d501bb4b39933b205c20dcf00f143684ff4123365bf933381ca2eda75f0a2ddf",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 91,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_12.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 10900,
+      "mobile_encoded_bytes": 10900,
+      "source_image_sha256": "20d2a0337645c88439d94737742404bc7919f27fe7b2fab61c4b3674a5c799d6",
+      "mobile_image_sha256": "20d2a0337645c88439d94737742404bc7919f27fe7b2fab61c4b3674a5c799d6",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 92,
+      "uses": [
+        {
+          "material": "photo_union_portrait_13.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 27464,
+      "mobile_encoded_bytes": 44906,
+      "source_image_sha256": "41a7bb6f77a293b1b550752af112249843b6373612b1eef1375434c42af47963",
+      "mobile_image_sha256": "441422618ecd0f02712bb26b7c065bfb7f2a75d0911bb1c0b13df31cc5539841",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 93,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_13.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 13960,
+      "mobile_encoded_bytes": 13960,
+      "source_image_sha256": "89d221f1539665cb6161664d65a7a30382045ea3e6eabec4d3cba12fe6606ab7",
+      "mobile_image_sha256": "89d221f1539665cb6161664d65a7a30382045ea3e6eabec4d3cba12fe6606ab7",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 94,
+      "uses": [
+        {
+          "material": "photo_union_portrait_14.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 25096,
+      "mobile_encoded_bytes": 38374,
+      "source_image_sha256": "9fd2e04e78485d47f07c0090a98a46dd16b9cecfa703f40b9d34a6bee32b6d22",
+      "mobile_image_sha256": "a493a401dcee29bf40271a0e8f06d3bde3891e8044031ea6a711578d50428f0e",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 95,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_14.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 11136,
+      "mobile_encoded_bytes": 11136,
+      "source_image_sha256": "c8db9e46d39f64d914151542fb9fc5460e91afd4f5c545e9cc0eaaca2d2f6027",
+      "mobile_image_sha256": "c8db9e46d39f64d914151542fb9fc5460e91afd4f5c545e9cc0eaaca2d2f6027",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 96,
+      "uses": [
+        {
+          "material": "photo_union_portrait_15.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 27888,
+      "mobile_encoded_bytes": 45600,
+      "source_image_sha256": "89cd9e06d40d2d0c4dc8dc165d45f66f04e4c3354c3590ac7606816b44414740",
+      "mobile_image_sha256": "49be2019071decf6698645c8a699f04e00ac83242b2c91656d7bacf163393f89",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 97,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_15.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 14803,
+      "mobile_encoded_bytes": 14803,
+      "source_image_sha256": "cdeff54bafd8c7a31f41d7450c622991f56d359dcf98cbd6c1b54f2c02666e9f",
+      "mobile_image_sha256": "cdeff54bafd8c7a31f41d7450c622991f56d359dcf98cbd6c1b54f2c02666e9f",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 98,
+      "uses": [
+        {
+          "material": "photo_union_portrait_16.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 28012,
+      "mobile_encoded_bytes": 41753,
+      "source_image_sha256": "cb1f07202aed6470bd134622f9a146291ecd84556644daf29d578370de92a7e2",
+      "mobile_image_sha256": "a0958666cb2935138f7108d00d7c5f8d7ba7891adefd52c110320e76349f1e75",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 99,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_16.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 10449,
+      "mobile_encoded_bytes": 10449,
+      "source_image_sha256": "1803bc46eea7f10f3ca712ff1a1b8d492a24ec869885ae531895505ef71b2c4d",
+      "mobile_image_sha256": "1803bc46eea7f10f3ca712ff1a1b8d492a24ec869885ae531895505ef71b2c4d",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 100,
+      "uses": [
+        {
+          "material": "photo_union_portrait_17.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        390,
+        520
+      ],
+      "mobile_dimensions": [
+        360,
+        480
+      ],
+      "source_encoded_bytes": 35452,
+      "mobile_encoded_bytes": 55671,
+      "source_image_sha256": "26b23832faba50f8c9881c35d2fcf77996137f6732190c1fbeae6c90b782e5c7",
+      "mobile_image_sha256": "75893b9db16821f51a10469ac28c89bcb8b90b9fe9a084a68ec3813b14d25fe9",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 811200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1081012
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 101,
+      "uses": [
+        {
+          "material": "photo_board_left_union_label_17.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        660,
+        124
+      ],
+      "mobile_dimensions": [
+        660,
+        124
+      ],
+      "source_encoded_bytes": 10812,
+      "mobile_encoded_bytes": 10812,
+      "source_image_sha256": "73e85b848e40e8998583bf642b1e49b6cbf0c3ded2af668a228d2536e737ef01",
+      "mobile_image_sha256": "73e85b848e40e8998583bf642b1e49b6cbf0c3ded2af668a228d2536e737ef01",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 327360,
+        "GPU_RGBA8_with_mipmaps_bytes": 436040
+      },
+      "resized": false
+    },
+    {
+      "index": 102,
+      "uses": [
+        {
+          "material": "photo_management_activities_photo_01.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        402,
+        480
+      ],
+      "mobile_dimensions": [
+        402,
+        480
+      ],
+      "source_encoded_bytes": 37940,
+      "mobile_encoded_bytes": 37940,
+      "source_image_sha256": "d2996c6d27f1170d8e31f2e491e28fa536997eefb06a8c3803c211d6ba0bd42a",
+      "mobile_image_sha256": "d2996c6d27f1170d8e31f2e491e28fa536997eefb06a8c3803c211d6ba0bd42a",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 771840,
+        "GPU_RGBA8_with_mipmaps_bytes": 1028728
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 771840,
+        "GPU_RGBA8_with_mipmaps_bytes": 1028728
+      },
+      "resized": false
+    },
+    {
+      "index": 103,
+      "uses": [
+        {
+          "material": "photo_board_left_management_activities_label_01.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        468,
+        150
+      ],
+      "mobile_dimensions": [
+        468,
+        150
+      ],
+      "source_encoded_bytes": 10968,
+      "mobile_encoded_bytes": 10968,
+      "source_image_sha256": "0053a6ccd02eafff8193b4bb045f26fb5018692ba4573e8b7385cab5f3a8e295",
+      "mobile_image_sha256": "0053a6ccd02eafff8193b4bb045f26fb5018692ba4573e8b7385cab5f3a8e295",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 280800,
+        "GPU_RGBA8_with_mipmaps_bytes": 373832
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 280800,
+        "GPU_RGBA8_with_mipmaps_bytes": 373832
+      },
+      "resized": false
+    },
+    {
+      "index": 104,
+      "uses": [
+        {
+          "material": "photo_management_activities_photo_02.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        400,
+        480
+      ],
+      "mobile_dimensions": [
+        400,
+        480
+      ],
+      "source_encoded_bytes": 37156,
+      "mobile_encoded_bytes": 37156,
+      "source_image_sha256": "c72634d6da47bcdeb48f5b96be7ab37d9a88393add5b842af01707aad3ff05e6",
+      "mobile_image_sha256": "c72634d6da47bcdeb48f5b96be7ab37d9a88393add5b842af01707aad3ff05e6",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 768000,
+        "GPU_RGBA8_with_mipmaps_bytes": 1023928
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 768000,
+        "GPU_RGBA8_with_mipmaps_bytes": 1023928
+      },
+      "resized": false
+    },
+    {
+      "index": 105,
+      "uses": [
+        {
+          "material": "photo_board_left_management_activities_label_02.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        465,
+        150
+      ],
+      "mobile_dimensions": [
+        465,
+        150
+      ],
+      "source_encoded_bytes": 15244,
+      "mobile_encoded_bytes": 15244,
+      "source_image_sha256": "3769a62f7a79cf0d3d98b872b49d51fec4e932d92e1f4fc7e001deae696ddf0d",
+      "mobile_image_sha256": "3769a62f7a79cf0d3d98b872b49d51fec4e932d92e1f4fc7e001deae696ddf0d",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 279000,
+        "GPU_RGBA8_with_mipmaps_bytes": 371284
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 279000,
+        "GPU_RGBA8_with_mipmaps_bytes": 371284
+      },
+      "resized": false
+    },
+    {
+      "index": 106,
+      "uses": [
+        {
+          "material": "photo_management_activities_photo_03.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 55964,
+      "mobile_encoded_bytes": 62861,
+      "source_image_sha256": "63a261ebf934a4da7185e6a02c84dd45ced8dfa485f9fdaa078847270ede9e90",
+      "mobile_image_sha256": "ac09a5c12ead901c003d98a38a28e2fb840c0be1e4f1ee8bfb949fbb3b0b28d2",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 107,
+      "uses": [
+        {
+          "material": "photo_board_left_management_activities_label_03.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        730,
+        150
+      ],
+      "mobile_dimensions": [
+        730,
+        150
+      ],
+      "source_encoded_bytes": 12370,
+      "mobile_encoded_bytes": 12370,
+      "source_image_sha256": "2d0cd95b4b6e62a706821cc8dc9c313a2d89000acfe431a9af28cff3cc6fc3ba",
+      "mobile_image_sha256": "2d0cd95b4b6e62a706821cc8dc9c313a2d89000acfe431a9af28cff3cc6fc3ba",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 438000,
+        "GPU_RGBA8_with_mipmaps_bytes": 583080
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 438000,
+        "GPU_RGBA8_with_mipmaps_bytes": 583080
+      },
+      "resized": false
+    },
+    {
+      "index": 108,
+      "uses": [
+        {
+          "material": "photo_management_activities_photo_04.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        641,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        359
+      ],
+      "source_encoded_bytes": 63492,
+      "mobile_encoded_bytes": 67211,
+      "source_image_sha256": "b88bdda69c2236067c18f010e528431a1bff8d53176837581930bb45818e798a",
+      "mobile_image_sha256": "6fefef6a0edb03f8fe7ec97042e29b36a1705f4e2bb172c8986083688001f546",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1230720,
+        "GPU_RGBA8_with_mipmaps_bytes": 1640272
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 689280,
+        "GPU_RGBA8_with_mipmaps_bytes": 917868
+      },
+      "resized": true
+    },
+    {
+      "index": 109,
+      "uses": [
+        {
+          "material": "photo_board_left_management_activities_label_04.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        731,
+        150
+      ],
+      "mobile_dimensions": [
+        731,
+        150
+      ],
+      "source_encoded_bytes": 9131,
+      "mobile_encoded_bytes": 9131,
+      "source_image_sha256": "8ac50a92a7f8f0950f195be786b6b61ada9a71308f818d8b1dc5be1c94351ae7",
+      "mobile_image_sha256": "8ac50a92a7f8f0950f195be786b6b61ada9a71308f818d8b1dc5be1c94351ae7",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 438600,
+        "GPU_RGBA8_with_mipmaps_bytes": 583680
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 438600,
+        "GPU_RGBA8_with_mipmaps_bytes": 583680
+      },
+      "resized": false
+    },
+    {
+      "index": 110,
+      "uses": [
+        {
+          "material": "photo_management_activities_photo_05.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        855,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        269
+      ],
+      "source_encoded_bytes": 69968,
+      "mobile_encoded_bytes": 49494,
+      "source_image_sha256": "52e126a1d72110f0eb01b8835776a051fffcc459eade1d1a753aa1e5f7a2e851",
+      "mobile_image_sha256": "b686c35c02f67381c8779e4d58ac0a4a6acbf16b55e60c1b6bc0ef3b02e2afee",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1641600,
+        "GPU_RGBA8_with_mipmaps_bytes": 2187572
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 516480,
+        "GPU_RGBA8_with_mipmaps_bytes": 687740
+      },
+      "resized": true
+    },
+    {
+      "index": 111,
+      "uses": [
+        {
+          "material": "photo_board_left_management_activities_label_05.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        968,
+        150
+      ],
+      "mobile_dimensions": [
+        968,
+        150
+      ],
+      "source_encoded_bytes": 5500,
+      "mobile_encoded_bytes": 5500,
+      "source_image_sha256": "364bd4efa1186ccd9596607a1525dbcbdfb0f789f44c3384029d3a89c4f9f432",
+      "mobile_image_sha256": "364bd4efa1186ccd9596607a1525dbcbdfb0f789f44c3384029d3a89c4f9f432",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 580800,
+        "GPU_RGBA8_with_mipmaps_bytes": 773332
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 580800,
+        "GPU_RGBA8_with_mipmaps_bytes": 773332
+      },
+      "resized": false
+    },
+    {
+      "index": 112,
+      "uses": [
+        {
+          "material": "photo_management_activities_photo_06.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        689,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        334
+      ],
+      "source_encoded_bytes": 80312,
+      "mobile_encoded_bytes": 76648,
+      "source_image_sha256": "e0d6afb9fe6860d2c9235709f13030d358969ef240fcdd2105339ea483117b29",
+      "mobile_image_sha256": "39cc61610ad13598c21c9b127ad9f0a3c6bb8d215f660e01cc5a7425360d256c",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1322880,
+        "GPU_RGBA8_with_mipmaps_bytes": 1763092
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 641280,
+        "GPU_RGBA8_with_mipmaps_bytes": 854448
+      },
+      "resized": true
+    },
+    {
+      "index": 113,
+      "uses": [
+        {
+          "material": "photo_board_left_management_activities_label_06.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        785,
+        150
+      ],
+      "mobile_dimensions": [
+        785,
+        150
+      ],
+      "source_encoded_bytes": 5556,
+      "mobile_encoded_bytes": 5556,
+      "source_image_sha256": "db3add935d1d6bb3303bb1d353255141da09430d53f6f188cae831c990082fe5",
+      "mobile_image_sha256": "db3add935d1d6bb3303bb1d353255141da09430d53f6f188cae831c990082fe5",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 471000,
+        "GPU_RGBA8_with_mipmaps_bytes": 626948
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 471000,
+        "GPU_RGBA8_with_mipmaps_bytes": 626948
+      },
+      "resized": false
+    },
+    {
+      "index": 114,
+      "uses": [
+        {
+          "material": "photo_management_activities_photo_07.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 63352,
+      "mobile_encoded_bytes": 68579,
+      "source_image_sha256": "b78f5c8dcb1556f12cbe49594689af83cbe826db0c5fb8fed67c3c59f8094a92",
+      "mobile_image_sha256": "9ab17e30f5948395d820e828ff3ffc2adca5ea8ec3fdfbd1d6e6b31236ea7e7f",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 115,
+      "uses": [
+        {
+          "material": "photo_board_left_management_activities_label_07.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        731,
+        150
+      ],
+      "mobile_dimensions": [
+        731,
+        150
+      ],
+      "source_encoded_bytes": 8584,
+      "mobile_encoded_bytes": 8584,
+      "source_image_sha256": "c5c8c8922e8e582ff481be14fe0b03f478746488fcc9066243a29c2a246a8d28",
+      "mobile_image_sha256": "c5c8c8922e8e582ff481be14fe0b03f478746488fcc9066243a29c2a246a8d28",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 438600,
+        "GPU_RGBA8_with_mipmaps_bytes": 583680
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 438600,
+        "GPU_RGBA8_with_mipmaps_bytes": 583680
+      },
+      "resized": false
+    },
+    {
+      "index": 116,
+      "uses": [
+        {
+          "material": "photo_management_activities_photo_08.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 65812,
+      "mobile_encoded_bytes": 71934,
+      "source_image_sha256": "83cb5480860c16da55be61b60f9c10bf633cc8ac0977f0d6878d3977f3975e5a",
+      "mobile_image_sha256": "b5b1c4318dfc2587b3fb5f8c16bf80e0238c84493895f675d1d7bfa4487553a7",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 117,
+      "uses": [
+        {
+          "material": "photo_board_left_management_activities_label_08.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        731,
+        150
+      ],
+      "mobile_dimensions": [
+        731,
+        150
+      ],
+      "source_encoded_bytes": 5280,
+      "mobile_encoded_bytes": 5280,
+      "source_image_sha256": "37c9983699ccfeb9b5fcb052968ab81cb9d92939a668c1abde624c6ac0ff64be",
+      "mobile_image_sha256": "37c9983699ccfeb9b5fcb052968ab81cb9d92939a668c1abde624c6ac0ff64be",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 438600,
+        "GPU_RGBA8_with_mipmaps_bytes": 583680
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 438600,
+        "GPU_RGBA8_with_mipmaps_bytes": 583680
+      },
+      "resized": false
+    },
+    {
+      "index": 118,
+      "uses": [
+        {
+          "material": "photo_union_activities_photo_01.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        589,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        391
+      ],
+      "source_encoded_bytes": 52776,
+      "mobile_encoded_bytes": 67052,
+      "source_image_sha256": "667f0cd971c3d6fb3beff2c66626f43e563e6b2319f1d83a01bc2a392801fa98",
+      "mobile_image_sha256": "f601fc1bf1405f240f826b0bcde9785faf6b8fc1b08eb8810c1522216ced2cf2",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1130880,
+        "GPU_RGBA8_with_mipmaps_bytes": 1506912
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 750720,
+        "GPU_RGBA8_with_mipmaps_bytes": 999808
+      },
+      "resized": true
+    },
+    {
+      "index": 119,
+      "uses": [
+        {
+          "material": "photo_board_left_union_activities_label_01.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        702,
+        110
+      ],
+      "mobile_dimensions": [
+        702,
+        110
+      ],
+      "source_encoded_bytes": 5204,
+      "mobile_encoded_bytes": 5204,
+      "source_image_sha256": "d09c5db098090b17919e2a797901f93a701a7f05aa55c803df869e0130effccb",
+      "mobile_image_sha256": "d09c5db098090b17919e2a797901f93a701a7f05aa55c803df869e0130effccb",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 308880,
+        "GPU_RGBA8_with_mipmaps_bytes": 410880
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 308880,
+        "GPU_RGBA8_with_mipmaps_bytes": 410880
+      },
+      "resized": false
+    },
+    {
+      "index": 120,
+      "uses": [
+        {
+          "material": "photo_union_activities_photo_02.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        720,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        320
+      ],
+      "source_encoded_bytes": 56728,
+      "mobile_encoded_bytes": 52884,
+      "source_image_sha256": "6cb04e79ce3c5be86c9e8e64d4fa6aa1a705c066b99d0d12876f2471cc15bc64",
+      "mobile_image_sha256": "d51b1799d5048bcce967c7eed063b05bca99e9c57bbbd69abf7655a8340c734a",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1382400,
+        "GPU_RGBA8_with_mipmaps_bytes": 1843100
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 614400,
+        "GPU_RGBA8_with_mipmaps_bytes": 819168
+      },
+      "resized": true
+    },
+    {
+      "index": 121,
+      "uses": [
+        {
+          "material": "photo_board_left_union_activities_label_02.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        853,
+        110
+      ],
+      "mobile_dimensions": [
+        853,
+        110
+      ],
+      "source_encoded_bytes": 12404,
+      "mobile_encoded_bytes": 12404,
+      "source_image_sha256": "3033fccc304fb42fffafdd6787841be4840e88793761026f47d92736b0d7f5ca",
+      "mobile_image_sha256": "3033fccc304fb42fffafdd6787841be4840e88793761026f47d92736b0d7f5ca",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 375320,
+        "GPU_RGBA8_with_mipmaps_bytes": 499232
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 375320,
+        "GPU_RGBA8_with_mipmaps_bytes": 499232
+      },
+      "resized": false
+    },
+    {
+      "index": 122,
+      "uses": [
+        {
+          "material": "photo_union_activities_photo_03.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        854,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        270
+      ],
+      "source_encoded_bytes": 77896,
+      "mobile_encoded_bytes": 54757,
+      "source_image_sha256": "251dcf039b49ea7efec4b6a854f382b69305b6dcd75624ca625a5d561a13ef9e",
+      "mobile_image_sha256": "56a108c331a6597db2826f3a98b89eb0b9626a676bf3cd2361f8a7e4a3986eab",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1639680,
+        "GPU_RGBA8_with_mipmaps_bytes": 2185652
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 518400,
+        "GPU_RGBA8_with_mipmaps_bytes": 690620
+      },
+      "resized": true
+    },
+    {
+      "index": 123,
+      "uses": [
+        {
+          "material": "photo_board_left_union_activities_label_03.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        1008,
+        110
+      ],
+      "mobile_dimensions": [
+        1008,
+        110
+      ],
+      "source_encoded_bytes": 9141,
+      "mobile_encoded_bytes": 9141,
+      "source_image_sha256": "4dc6ef3b0edeb89c58144d149a6a7d0632dcaa530697b34d2481b9a31cc6c598",
+      "mobile_image_sha256": "4dc6ef3b0edeb89c58144d149a6a7d0632dcaa530697b34d2481b9a31cc6c598",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 443520,
+        "GPU_RGBA8_with_mipmaps_bytes": 590156
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 443520,
+        "GPU_RGBA8_with_mipmaps_bytes": 590156
+      },
+      "resized": false
+    },
+    {
+      "index": 124,
+      "uses": [
+        {
+          "material": "photo_union_activities_photo_04.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        496,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        465
+      ],
+      "source_encoded_bytes": 50184,
+      "mobile_encoded_bytes": 81727,
+      "source_image_sha256": "d97bd2807a7d4791e09ed315248d6127aa5750e59ec8230256ed26f964ddb60b",
+      "mobile_image_sha256": "7d74d8c27c3fca51dff803c1347db1258461917fb883b164ef1037115ffa09b0",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 952320,
+        "GPU_RGBA8_with_mipmaps_bytes": 1269656
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 892800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1189676
+      },
+      "resized": true
+    },
+    {
+      "index": 125,
+      "uses": [
+        {
+          "material": "photo_board_left_union_activities_label_04.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        595,
+        110
+      ],
+      "mobile_dimensions": [
+        595,
+        110
+      ],
+      "source_encoded_bytes": 5944,
+      "mobile_encoded_bytes": 5944,
+      "source_image_sha256": "d33a6e92347202c3afc46d4218419bfa5b63496ca42614c0872148942fd73865",
+      "mobile_image_sha256": "d33a6e92347202c3afc46d4218419bfa5b63496ca42614c0872148942fd73865",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 261800,
+        "GPU_RGBA8_with_mipmaps_bytes": 348140
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 261800,
+        "GPU_RGBA8_with_mipmaps_bytes": 348140
+      },
+      "resized": false
+    },
+    {
+      "index": 126,
+      "uses": [
+        {
+          "material": "photo_union_activities_photo_05.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 87136,
+      "mobile_encoded_bytes": 89195,
+      "source_image_sha256": "933529fd5aa8be7e498985e3230a10d6682faa9d147596784d1ee35ad3613d9b",
+      "mobile_image_sha256": "d8742db2d24d683e3f33203e7e650ff2317340c58d84883e61613ad99e458bdd",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 127,
+      "uses": [
+        {
+          "material": "photo_board_left_union_activities_label_05.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        761,
+        110
+      ],
+      "mobile_dimensions": [
+        761,
+        110
+      ],
+      "source_encoded_bytes": 7739,
+      "mobile_encoded_bytes": 7739,
+      "source_image_sha256": "be745977e398635e6613bc550828e50908b1333b98d048c22dc5bf30998600bb",
+      "mobile_image_sha256": "be745977e398635e6613bc550828e50908b1333b98d048c22dc5bf30998600bb",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 334840,
+        "GPU_RGBA8_with_mipmaps_bytes": 445380
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 334840,
+        "GPU_RGBA8_with_mipmaps_bytes": 445380
+      },
+      "resized": false
+    },
+    {
+      "index": 128,
+      "uses": [
+        {
+          "material": "photo_union_activities_photo_06.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        632,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        365
+      ],
+      "source_encoded_bytes": 67020,
+      "mobile_encoded_bytes": 72342,
+      "source_image_sha256": "9a6afc9239e1e7676a8e9ff27e95b62aeba478e80ed561032a753733f545647d",
+      "mobile_image_sha256": "c69b3d83377cde9ccb2eb46a9283c2f522922f3258caa181c7248d17593d0139",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1213440,
+        "GPU_RGBA8_with_mipmaps_bytes": 1617732
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 700800,
+        "GPU_RGBA8_with_mipmaps_bytes": 933468
+      },
+      "resized": true
+    },
+    {
+      "index": 129,
+      "uses": [
+        {
+          "material": "photo_board_left_union_activities_label_06.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        752,
+        110
+      ],
+      "mobile_dimensions": [
+        752,
+        110
+      ],
+      "source_encoded_bytes": 5632,
+      "mobile_encoded_bytes": 5632,
+      "source_image_sha256": "9b7311205dcff375b40953421ad0482fe58fb7a021e376b68e91dcb8d61480d5",
+      "mobile_image_sha256": "9b7311205dcff375b40953421ad0482fe58fb7a021e376b68e91dcb8d61480d5",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 330880,
+        "GPU_RGBA8_with_mipmaps_bytes": 440272
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 330880,
+        "GPU_RGBA8_with_mipmaps_bytes": 440272
+      },
+      "resized": false
+    },
+    {
+      "index": 130,
+      "uses": [
+        {
+          "material": "photo_union_activities_photo_07.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        720,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        320
+      ],
+      "source_encoded_bytes": 64988,
+      "mobile_encoded_bytes": 60952,
+      "source_image_sha256": "1aba57ad32928b9cd6a6d1fe185f589e367485bf5f2339b7bc61dffece75a95f",
+      "mobile_image_sha256": "f1094715d8e83515b6ccb524cfe47cc584e0a344894bf96834f554c702b481ef",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1382400,
+        "GPU_RGBA8_with_mipmaps_bytes": 1843100
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 614400,
+        "GPU_RGBA8_with_mipmaps_bytes": 819168
+      },
+      "resized": true
+    },
+    {
+      "index": 131,
+      "uses": [
+        {
+          "material": "photo_board_left_union_activities_label_07.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        853,
+        110
+      ],
+      "mobile_dimensions": [
+        853,
+        110
+      ],
+      "source_encoded_bytes": 8724,
+      "mobile_encoded_bytes": 8724,
+      "source_image_sha256": "59ef724271293be027af0782ffd602ef4d929b1cf08de304433a949145d4ae73",
+      "mobile_image_sha256": "59ef724271293be027af0782ffd602ef4d929b1cf08de304433a949145d4ae73",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 375320,
+        "GPU_RGBA8_with_mipmaps_bytes": 499232
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 375320,
+        "GPU_RGBA8_with_mipmaps_bytes": 499232
+      },
+      "resized": false
+    },
+    {
+      "index": 132,
+      "uses": [
+        {
+          "material": "photo_union_activities_photo_08.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        854,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        270
+      ],
+      "source_encoded_bytes": 62948,
+      "mobile_encoded_bytes": 43642,
+      "source_image_sha256": "db0d2cd2e2801e3f1d50993e92b7a15c9eb028753ca0acb637ef4461f8c9e6db",
+      "mobile_image_sha256": "0354160adca1ec58b85497c013ee47d554927d44c5bce91b8278af625e294287",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1639680,
+        "GPU_RGBA8_with_mipmaps_bytes": 2185652
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 518400,
+        "GPU_RGBA8_with_mipmaps_bytes": 690620
+      },
+      "resized": true
+    },
+    {
+      "index": 133,
+      "uses": [
+        {
+          "material": "photo_board_left_union_activities_label_08.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        1008,
+        110
+      ],
+      "mobile_dimensions": [
+        1008,
+        110
+      ],
+      "source_encoded_bytes": 7844,
+      "mobile_encoded_bytes": 7844,
+      "source_image_sha256": "3f0bb2b18aa492da5572834aafc3050b4b065fb95064489a1cb3f4646926b23f",
+      "mobile_image_sha256": "3f0bb2b18aa492da5572834aafc3050b4b065fb95064489a1cb3f4646926b23f",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 443520,
+        "GPU_RGBA8_with_mipmaps_bytes": 590156
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 443520,
+        "GPU_RGBA8_with_mipmaps_bytes": 590156
+      },
+      "resized": false
+    },
+    {
+      "index": 134,
+      "uses": [
+        {
+          "material": "photo_union_activities_photo_09.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 62984,
+      "mobile_encoded_bytes": 66384,
+      "source_image_sha256": "84bc3959543eadb4938c69171a6a83ca6bee856aaf4c8acc51953fff61376af1",
+      "mobile_image_sha256": "a078de941bd9d9ccd0d62a669756a4f4d0e54ffc0aedf812e8f8ce1a3d346162",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 135,
+      "uses": [
+        {
+          "material": "photo_board_left_union_activities_label_09.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        761,
+        110
+      ],
+      "mobile_dimensions": [
+        761,
+        110
+      ],
+      "source_encoded_bytes": 7992,
+      "mobile_encoded_bytes": 7992,
+      "source_image_sha256": "4899db9464288f03c614203c43313dfcb40cf34786e2563cb3f5ff84b6ae177e",
+      "mobile_image_sha256": "4899db9464288f03c614203c43313dfcb40cf34786e2563cb3f5ff84b6ae177e",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 334840,
+        "GPU_RGBA8_with_mipmaps_bytes": 445380
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 334840,
+        "GPU_RGBA8_with_mipmaps_bytes": 445380
+      },
+      "resized": false
+    },
+    {
+      "index": 136,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_01.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        720,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        320
+      ],
+      "source_encoded_bytes": 83992,
+      "mobile_encoded_bytes": 76844,
+      "source_image_sha256": "0543f1ad34eb2c8fb779618276918d8d472ce030cc95156ce0f0726995fe27f9",
+      "mobile_image_sha256": "c3141030b56d7d72cb0e71ad6ed971a9c75d29f7bfe8e854521c3d1cf3d14ea3",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1382400,
+        "GPU_RGBA8_with_mipmaps_bytes": 1843100
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 614400,
+        "GPU_RGBA8_with_mipmaps_bytes": 819168
+      },
+      "resized": true
+    },
+    {
+      "index": 137,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_02.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        720,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        320
+      ],
+      "source_encoded_bytes": 69448,
+      "mobile_encoded_bytes": 67015,
+      "source_image_sha256": "2ef499ae090e210d102b10e4c5222bd12c7e1bee40a9b58816e10e4e429edf1f",
+      "mobile_image_sha256": "c6ffeb796265cea28955ab3ff4b3961144c5065e644db4489af25d2d66d32a16",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1382400,
+        "GPU_RGBA8_with_mipmaps_bytes": 1843100
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 614400,
+        "GPU_RGBA8_with_mipmaps_bytes": 819168
+      },
+      "resized": true
+    },
+    {
+      "index": 138,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_03.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        853,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        270
+      ],
+      "source_encoded_bytes": 96484,
+      "mobile_encoded_bytes": 57156,
+      "source_image_sha256": "c4356945b4fe98a20ff6c8cdb280f862facebb23396550bc20b84f00319cc27f",
+      "mobile_image_sha256": "d53a78eecd8f57c160839411532754b14b414638d6c9df30c5bc9f15df70bd39",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1637760,
+        "GPU_RGBA8_with_mipmaps_bytes": 2182772
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 518400,
+        "GPU_RGBA8_with_mipmaps_bytes": 690620
+      },
+      "resized": true
+    },
+    {
+      "index": 139,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_04.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        938,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        246
+      ],
+      "source_encoded_bytes": 108908,
+      "mobile_encoded_bytes": 61088,
+      "source_image_sha256": "f9d9ec3cea73ad326fe84fa3ecd3ef90824957f4708a979511f656abb1582416",
+      "mobile_image_sha256": "072542986d4f37ab3e53c44f7b26ec183e7bff457119b4089593c711a4605fdc",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1800960,
+        "GPU_RGBA8_with_mipmaps_bytes": 2400792
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 472320,
+        "GPU_RGBA8_with_mipmaps_bytes": 629200
+      },
+      "resized": true
+    },
+    {
+      "index": 140,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_05.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        641,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        359
+      ],
+      "source_encoded_bytes": 58136,
+      "mobile_encoded_bytes": 66019,
+      "source_image_sha256": "943a52139b2e827da1450b5f26defc36af69306a7709810e9e95a608c24dc38a",
+      "mobile_image_sha256": "2009cdc5dc10c5523555b65ca1a21ac20f93a58d3929d95d63db3b8eb4ef4c77",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1230720,
+        "GPU_RGBA8_with_mipmaps_bytes": 1640272
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 689280,
+        "GPU_RGBA8_with_mipmaps_bytes": 917868
+      },
+      "resized": true
+    },
+    {
+      "index": 141,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_06.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        998,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        231
+      ],
+      "source_encoded_bytes": 108760,
+      "mobile_encoded_bytes": 59992,
+      "source_image_sha256": "3709ae1f2fa627efe01a117bf580568379d97c745ef8e7f00916387c214cafc4",
+      "mobile_image_sha256": "3878aef056b4f2408e6280950c7df483cef5044117685f4db9850c41f8ffb517",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1916160,
+        "GPU_RGBA8_with_mipmaps_bytes": 2554300
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 443520,
+        "GPU_RGBA8_with_mipmaps_bytes": 590200
+      },
+      "resized": true
+    },
+    {
+      "index": 142,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_07.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        960,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        240
+      ],
+      "source_encoded_bytes": 97704,
+      "mobile_encoded_bytes": 54128,
+      "source_image_sha256": "d559c2855c93ad1d6bf8d4e36d1ef11de8d5647995585f57cbaba7e28d7cf90c",
+      "mobile_image_sha256": "c9fd06dea22ad75da0b346a5d6bdc3e95a2104c4a1f4d965bf42700a01f20371",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1843200,
+        "GPU_RGBA8_with_mipmaps_bytes": 2457520
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 460800,
+        "GPU_RGBA8_with_mipmaps_bytes": 614320
+      },
+      "resized": true
+    },
+    {
+      "index": 143,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_08.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        853,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        270
+      ],
+      "source_encoded_bytes": 68428,
+      "mobile_encoded_bytes": 47438,
+      "source_image_sha256": "e27f8d93c8fb46d857eb12696fbf62db484ac4a89fe3d70413df9a4481397350",
+      "mobile_image_sha256": "608ce3ce9b1bd49440b25de758db55377bd0fc1f0ce5cbd40d07fc41a1ab8b11",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1637760,
+        "GPU_RGBA8_with_mipmaps_bytes": 2182772
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 518400,
+        "GPU_RGBA8_with_mipmaps_bytes": 690620
+      },
+      "resized": true
+    },
+    {
+      "index": 144,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_09.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 73452,
+      "mobile_encoded_bytes": 76908,
+      "source_image_sha256": "68e3b9a8defa5bc56def9fc83c0232dde2ed8058619a519eb2abc1c4404c3a10",
+      "mobile_image_sha256": "85919c2a3df3f3ade2589d092b37137973f75628128c780bcc2367e84c4c9fc7",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 145,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_10.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        912,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        253
+      ],
+      "source_encoded_bytes": 75900,
+      "mobile_encoded_bytes": 51028,
+      "source_image_sha256": "0ecaeef1e71b7e1d94a13308931a41b05603949f36e9e586ee4d503ef0e42093",
+      "mobile_image_sha256": "c2b3f395d5ca178bacab03e8c38c4cc1bf51b98aaafce9f574c700f3c7c50b14",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1751040,
+        "GPU_RGBA8_with_mipmaps_bytes": 2334612
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 485760,
+        "GPU_RGBA8_with_mipmaps_bytes": 646720
+      },
+      "resized": true
+    },
+    {
+      "index": 146,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_11.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        710,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        325
+      ],
+      "source_encoded_bytes": 85536,
+      "mobile_encoded_bytes": 75609,
+      "source_image_sha256": "a80bddd158d2d98c78b80b06654c49203ac3dde607b1a5a466ba1b3336e393cd",
+      "mobile_image_sha256": "3ce80cdc52dbc6c3946d1154f57b2ac3ae4c3b63709e25f4ff730a58c01c6f2a",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1363200,
+        "GPU_RGBA8_with_mipmaps_bytes": 1817060
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 624000,
+        "GPU_RGBA8_with_mipmaps_bytes": 831168
+      },
+      "resized": true
+    },
+    {
+      "index": 147,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_12.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        867,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        266
+      ],
+      "source_encoded_bytes": 76464,
+      "mobile_encoded_bytes": 49723,
+      "source_image_sha256": "9accc869d722d6fe58cbf6f9f170563bbfa3a1b6b3d2ed170927533398fe84a9",
+      "mobile_image_sha256": "a8f3a24b7a0034ad8cef64b8398cc4d547b5b45a19ac98e437d131d0c7e80bde",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1664640,
+        "GPU_RGBA8_with_mipmaps_bytes": 2218472
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 510720,
+        "GPU_RGBA8_with_mipmaps_bytes": 680540
+      },
+      "resized": true
+    },
+    {
+      "index": 148,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_13.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        853,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        270
+      ],
+      "source_encoded_bytes": 69356,
+      "mobile_encoded_bytes": 47522,
+      "source_image_sha256": "aa0d290efb3d0813c833286881574d1bf5ee7a610cefc20db3d4c214e2d64193",
+      "mobile_image_sha256": "b766fe799911dcc87e31d3dac62ae577fdf9cad6fceb29657bfaeb47e67c06ac",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1637760,
+        "GPU_RGBA8_with_mipmaps_bytes": 2182772
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 518400,
+        "GPU_RGBA8_with_mipmaps_bytes": 690620
+      },
+      "resized": true
+    },
+    {
+      "index": 149,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_14.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        853,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        270
+      ],
+      "source_encoded_bytes": 139484,
+      "mobile_encoded_bytes": 79150,
+      "source_image_sha256": "a2adc1a3ace6e869cdc642b48392daeb59c6fca47050f051818ad808e9e3bd70",
+      "mobile_image_sha256": "a3a9eca7ab1df8d48b6227f92d200db1ff1d59179dff77572340159bcb51ba55",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1637760,
+        "GPU_RGBA8_with_mipmaps_bytes": 2182772
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 518400,
+        "GPU_RGBA8_with_mipmaps_bytes": 690620
+      },
+      "resized": true
+    },
+    {
+      "index": 150,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_15.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        853,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        270
+      ],
+      "source_encoded_bytes": 73796,
+      "mobile_encoded_bytes": 52370,
+      "source_image_sha256": "ca8e8c047898819bee7e5ad23a1000b82930333cdca44808a4d9e6e186e641ca",
+      "mobile_image_sha256": "d03c3688089fb0e104feb01144bdc376964d6f3646b12d7b203d2fc676372357",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1637760,
+        "GPU_RGBA8_with_mipmaps_bytes": 2182772
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 518400,
+        "GPU_RGBA8_with_mipmaps_bytes": 690620
+      },
+      "resized": true
+    },
+    {
+      "index": 151,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_16.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 65100,
+      "mobile_encoded_bytes": 68399,
+      "source_image_sha256": "b93cf46cc6da86b596ce51bf13e1a5c24cc3d5f6c6a2b34157b3e1a332d6e8f4",
+      "mobile_image_sha256": "cda7dcc8980fccfb2c895cb5e7e5c655bfff03a109078d3b1afec1f603a28d9c",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 152,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_17.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        360
+      ],
+      "source_encoded_bytes": 62868,
+      "mobile_encoded_bytes": 66775,
+      "source_image_sha256": "365f2384161ca456343ae685c15073d8d430c7ad5900f799bce1ed60f26017ff",
+      "mobile_image_sha256": "f68c6dd9a96bdfe3d81c5444caf30ce15e9019f63327d2c3920a417af02a2cab",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1228800,
+        "GPU_RGBA8_with_mipmaps_bytes": 1638352
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 691200,
+        "GPU_RGBA8_with_mipmaps_bytes": 921468
+      },
+      "resized": true
+    },
+    {
+      "index": 153,
+      "uses": [
+        {
+          "material": "photo_teacher_activities_photo_18.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        720,
+        480
+      ],
+      "mobile_dimensions": [
+        480,
+        320
+      ],
+      "source_encoded_bytes": 89560,
+      "mobile_encoded_bytes": 75874,
+      "source_image_sha256": "fac683c77f0b72dcaa925dbe846ffd45a74b41d073e54705ea213dec51b7ca55",
+      "mobile_image_sha256": "cdd5c5a4b77c48bab01355373a03657bf2838e3ec809cd7b20847fde765989e3",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 1382400,
+        "GPU_RGBA8_with_mipmaps_bytes": 1843100
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 614400,
+        "GPU_RGBA8_with_mipmaps_bytes": 819168
+      },
+      "resized": true
+    },
+    {
+      "index": 154,
+      "uses": [
+        {
+          "material": "photo_archive_qr_photo_01.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        888,
+        888
+      ],
+      "mobile_dimensions": [
+        888,
+        888
+      ],
+      "source_encoded_bytes": 3160,
+      "mobile_encoded_bytes": 3160,
+      "source_image_sha256": "fd7fe0aafb392e0d83078b3c32afceba4ea241f0ea2b805a205251661855099d",
+      "mobile_image_sha256": "fd7fe0aafb392e0d83078b3c32afceba4ea241f0ea2b805a205251661855099d",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 3154176,
+        "GPU_RGBA8_with_mipmaps_bytes": 4205016
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 3154176,
+        "GPU_RGBA8_with_mipmaps_bytes": 4205016
+      },
+      "resized": false
+    },
+    {
+      "index": 155,
+      "uses": [
+        {
+          "material": "photo_poster_texture.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        2048,
+        4097
+      ],
+      "mobile_dimensions": [
+        512,
+        1024
+      ],
+      "source_encoded_bytes": 1147200,
+      "mobile_encoded_bytes": 673207,
+      "source_image_sha256": "0e34944089c993db58db93497ba86445b4b522510f36ff9bf104e6ae82800ac3",
+      "mobile_image_sha256": "f323badea9ce54768d2bff609533363c47ca87ded67acc457cc742aa0f8890c3",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 33562624,
+        "GPU_RGBA8_with_mipmaps_bytes": 44747436
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 2097152,
+        "GPU_RGBA8_with_mipmaps_bytes": 2796204
+      },
+      "resized": true
+    },
+    {
+      "index": 156,
+      "uses": [
+        {
+          "material": "photo_side_party_awards.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        660,
+        2450
+      ],
+      "mobile_dimensions": [
+        129,
+        480
+      ],
+      "source_encoded_bytes": 39124,
+      "mobile_encoded_bytes": 5246,
+      "source_image_sha256": "4b1db5d2f7ea4ac5019cfb7cc32f18869ed49c7ec45242fa813ea67b3ba8bab2",
+      "mobile_image_sha256": "cbe35cb0cb83026131b4245f0e5f9f35fbfaa5084891aba703e07086777d4ca3",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 6468000,
+        "GPU_RGBA8_with_mipmaps_bytes": 8622460
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 247680,
+        "GPU_RGBA8_with_mipmaps_bytes": 329592
+      },
+      "resized": true
+    },
+    {
+      "index": 157,
+      "uses": [
+        {
+          "material": "photo_lotus_border.png",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        2048,
+        302
+      ],
+      "mobile_dimensions": [
+        480,
+        71
+      ],
+      "source_encoded_bytes": 669812,
+      "mobile_encoded_bytes": 62360,
+      "source_image_sha256": "4dd2ba676e4037fd3077aacc9a2d41b7b12115faecac929d566a1422e7b1f987",
+      "mobile_image_sha256": "daad8f8a7c5a1077dd1a7fbcea5194d7bdc5e6ce6fd11adadf7177e22086ae9d",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 2473984,
+        "GPU_RGBA8_with_mipmaps_bytes": 3296188
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 136320,
+        "GPU_RGBA8_with_mipmaps_bytes": 180644
+      },
+      "resized": true
+    },
+    {
+      "index": 158,
+      "uses": [
+        {
+          "material": "photo_party_awards_photo_01.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        1200,
+        868
+      ],
+      "mobile_dimensions": [
+        480,
+        347
+      ],
+      "source_encoded_bytes": 165836,
+      "mobile_encoded_bytes": 64914,
+      "source_image_sha256": "260acfd517897f329a128f8cf8e4bb24842fa9b269adfeeadb0c0968e5db2c1f",
+      "mobile_image_sha256": "2e73019d9ae735bea7742a54f9806711294a39c50cbda33c45b23623f656f79c",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 4166400,
+        "GPU_RGBA8_with_mipmaps_bytes": 5554608
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 666240,
+        "GPU_RGBA8_with_mipmaps_bytes": 887208
+      },
+      "resized": true
+    },
+    {
+      "index": 159,
+      "uses": [
+        {
+          "material": "photo_party_awards_photo_02.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        1200,
+        876
+      ],
+      "mobile_dimensions": [
+        480,
+        350
+      ],
+      "source_encoded_bytes": 277484,
+      "mobile_encoded_bytes": 89938,
+      "source_image_sha256": "bc9209745961c65d3c67ad73d6792e39b690c988962056a65a0005eed40043e6",
+      "mobile_image_sha256": "560f71d764e3ee61ed3e3e9b8fb3e9892faa03a4439e0ee7dd2d6e521c2204b2",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 4204800,
+        "GPU_RGBA8_with_mipmaps_bytes": 5605608
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 672000,
+        "GPU_RGBA8_with_mipmaps_bytes": 895368
+      },
+      "resized": true
+    },
+    {
+      "index": 160,
+      "uses": [
+        {
+          "material": "photo_party_awards_photo_03.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        1200,
+        908
+      ],
+      "mobile_dimensions": [
+        480,
+        363
+      ],
+      "source_encoded_bytes": 184188,
+      "mobile_encoded_bytes": 74545,
+      "source_image_sha256": "a555fa5a6c5b20e366c00b4ae97a49d50c99c0e038ec2e4c9bad31857c49a98b",
+      "mobile_image_sha256": "19dc5eba25aac72202e6e608ddb29f334bc515bc19101b8a2c07482e65e4d22a",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 4358400,
+        "GPU_RGBA8_with_mipmaps_bytes": 5810464
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 696960,
+        "GPU_RGBA8_with_mipmaps_bytes": 928188
+      },
+      "resized": true
+    },
+    {
+      "index": 161,
+      "uses": [
+        {
+          "material": "photo_party_awards_photo_04.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        1200,
+        923
+      ],
+      "mobile_dimensions": [
+        480,
+        369
+      ],
+      "source_encoded_bytes": 292384,
+      "mobile_encoded_bytes": 97496,
+      "source_image_sha256": "2b928fd4d153a2d1d0a06d01a907b7318914795012f011bd135c69f79021fbc8",
+      "mobile_image_sha256": "76c4a89278172907fec8292c04bf4af3b638023473e90a74b9bc845672aab080",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 4430400,
+        "GPU_RGBA8_with_mipmaps_bytes": 5904364
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 708480,
+        "GPU_RGBA8_with_mipmaps_bytes": 943908
+      },
+      "resized": true
+    },
+    {
+      "index": 162,
+      "uses": [
+        {
+          "material": "photo_party_awards_photo_05.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        1200,
+        957
+      ],
+      "mobile_dimensions": [
+        480,
+        383
+      ],
+      "source_encoded_bytes": 201536,
+      "mobile_encoded_bytes": 81277,
+      "source_image_sha256": "2de88411b7862dc850f21e36acf3484d9c0c073ecbb329ed5d59fc1894902eb1",
+      "mobile_image_sha256": "6c107e9c323ee89d554029823f513155f773c3e64decfb939cb95bbb95cefee3",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 4593600,
+        "GPU_RGBA8_with_mipmaps_bytes": 6122312
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 735360,
+        "GPU_RGBA8_with_mipmaps_bytes": 979188
+      },
+      "resized": true
+    },
+    {
+      "index": 163,
+      "uses": [
+        {
+          "material": "photo_party_awards_photo_06.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        1200,
+        848
+      ],
+      "mobile_dimensions": [
+        480,
+        339
+      ],
+      "source_encoded_bytes": 274720,
+      "mobile_encoded_bytes": 87226,
+      "source_image_sha256": "b267206ae25911c316fbdc58bb36a822329bcfc34107bcd53b2856194ab16f2c",
+      "mobile_image_sha256": "b3d4feb1196eee5ef3bd1d40f02dbffa63422ad1b3400e4343fb386b094d4880",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 4070400,
+        "GPU_RGBA8_with_mipmaps_bytes": 5426960
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 650880,
+        "GPU_RGBA8_with_mipmaps_bytes": 866808
+      },
+      "resized": true
+    },
+    {
+      "index": 164,
+      "uses": [
+        {
+          "material": "photo_party_awards_photo_07.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        1200,
+        866
+      ],
+      "mobile_dimensions": [
+        480,
+        346
+      ],
+      "source_encoded_bytes": 285132,
+      "mobile_encoded_bytes": 96119,
+      "source_image_sha256": "7565dda93cac732fc24fc78766358aeff983f43c1b2783a9db1732c293b460ef",
+      "mobile_image_sha256": "513997bf46e31d4f0230205657d977577c188a6521662927430dfa0b75541a90",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 4156800,
+        "GPU_RGBA8_with_mipmaps_bytes": 5541408
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 664320,
+        "GPU_RGBA8_with_mipmaps_bytes": 885288
+      },
+      "resized": true
+    },
+    {
+      "index": 165,
+      "uses": [
+        {
+          "material": "photo_party_awards_photo_08.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        1200,
+        876
+      ],
+      "mobile_dimensions": [
+        480,
+        350
+      ],
+      "source_encoded_bytes": 272028,
+      "mobile_encoded_bytes": 93195,
+      "source_image_sha256": "be0965e64d8d96f84a1bad9b16c44295a054e9e0fc4ddc6d0f06b49c76d114c7",
+      "mobile_image_sha256": "afc5bb95732f9a7a6beefdcbe2e9b9ac5a13cfaf011d7503fce74b204c3e29a6",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 4204800,
+        "GPU_RGBA8_with_mipmaps_bytes": 5605608
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 672000,
+        "GPU_RGBA8_with_mipmaps_bytes": 895368
+      },
+      "resized": true
+    },
+    {
+      "index": 166,
+      "uses": [
+        {
+          "material": "photo_party_awards_photo_09.jpg",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        1200,
+        888
+      ],
+      "mobile_dimensions": [
+        480,
+        355
+      ],
+      "source_encoded_bytes": 264404,
+      "mobile_encoded_bytes": 90608,
+      "source_image_sha256": "ac3b911bd792f6e7d822ba029c5666488da8a1487e72a89402f8421558e1aba0",
+      "mobile_image_sha256": "f92997dbea7a3e1f309b4faeb0165bfa854694e622f42efebbf7d11c05819e98",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 4262400,
+        "GPU_RGBA8_with_mipmaps_bytes": 5682708
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 681600,
+        "GPU_RGBA8_with_mipmaps_bytes": 907788
+      },
+      "resized": true
+    },
+    {
+      "index": 167,
+      "uses": [
+        {
+          "material": "Man_hinh_TV",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "ea24ad7dbcdc918fe8835772c0dbcd79858839116c1c6081184ce8266bbd05de",
+      "mobile_image_sha256": "ea24ad7dbcdc918fe8835772c0dbcd79858839116c1c6081184ce8266bbd05de",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 168,
+      "uses": [
+        {
+          "material": "Khan_ban_vang",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "9dd8dd50f2f5e5f0e6cddd929887f37f8f995cc729715008cc279f4473ea502c",
+      "mobile_image_sha256": "9dd8dd50f2f5e5f0e6cddd929887f37f8f995cc729715008cc279f4473ea502c",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 169,
+      "uses": [
+        {
+          "material": "Nep_khan",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "13ee826a1233a8a9457eac2527b861bde63cf34c1c905906f158c5cf48143ba9",
+      "mobile_image_sha256": "13ee826a1233a8a9457eac2527b861bde63cf34c1c905906f158c5cf48143ba9",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 170,
+      "uses": [
+        {
+          "material": "Go_buc_tuong",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "8a54464fa4650f3251c63f8f8ba38c6bef5f2c3494b7ca0b82272577761d9172",
+      "mobile_image_sha256": "8a54464fa4650f3251c63f8f8ba38c6bef5f2c3494b7ca0b82272577761d9172",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 171,
+      "uses": [
+        {
+          "material": "Ghe_xanh",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "1af51a997680f8a5411250d7a49082f55931bf7827857eff59a92a0999537b5b",
+      "mobile_image_sha256": "1af51a997680f8a5411250d7a49082f55931bf7827857eff59a92a0999537b5b",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 172,
+      "uses": [
+        {
+          "material": "Vien_ghe",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "f1959908c344d4486e51188e5069a83476cb00d1c23ed646ffd7f2bd8758bd12",
+      "mobile_image_sha256": "f1959908c344d4486e51188e5069a83476cb00d1c23ed646ffd7f2bd8758bd12",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 173,
+      "uses": [
+        {
+          "material": "Chan_ghe_inox",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "27991c0a4898a5a3e5b9c96399a8dc548ef9d5c4e5028d15a3b32288dd45b1ac",
+      "mobile_image_sha256": "27991c0a4898a5a3e5b9c96399a8dc548ef9d5c4e5028d15a3b32288dd45b1ac",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 174,
+      "uses": [
+        {
+          "material": "La_cay",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "aa5aa6541ea9c1b907250289a6d9fc5ef9d87db0dd17b76994cf93388defa772",
+      "mobile_image_sha256": "aa5aa6541ea9c1b907250289a6d9fc5ef9d87db0dd17b76994cf93388defa772",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 175,
+      "uses": [
+        {
+          "material": "Hoa_hong_nhat",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "33877fb5daf75266426200e0a94240d139aee84efdd461fc5978ab36cede0805",
+      "mobile_image_sha256": "33877fb5daf75266426200e0a94240d139aee84efdd461fc5978ab36cede0805",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 176,
+      "uses": [
+        {
+          "material": "Hoa_xanh",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "71d3a82ebc5d53001e058a17f1bc8e5fecd35fc39af1ce2c2cd66e6704b202a9",
+      "mobile_image_sha256": "71d3a82ebc5d53001e058a17f1bc8e5fecd35fc39af1ce2c2cd66e6704b202a9",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 177,
+      "uses": [
+        {
+          "material": "Hoa_trang",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "4b95a7ef811942f165ca81edbc87110d6ea1d9ae54a32658c6dc605eae99ff8e",
+      "mobile_image_sha256": "4b95a7ef811942f165ca81edbc87110d6ea1d9ae54a32658c6dc605eae99ff8e",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 178,
+      "uses": [
+        {
+          "material": "Sketchfab_HoChiMinh_source_material_0",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "statue_colour",
+      "long_edge_cap": 2048,
+      "source_dimensions": [
+        8192,
+        8192
+      ],
+      "mobile_dimensions": [
+        2048,
+        2048
+      ],
+      "source_encoded_bytes": 7330972,
+      "mobile_encoded_bytes": 918330,
+      "source_image_sha256": "90cf3085f049b0d77fde936ed8ef0ae05174a0645cfffb710797f1bdf7bd8a8e",
+      "mobile_image_sha256": "71d7ecfbe259754c61fa84c1f255f872c12820b72f65c808f1fea631502aaf1c",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 268435456,
+        "GPU_RGBA8_with_mipmaps_bytes": 357913940
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 16777216,
+        "GPU_RGBA8_with_mipmaps_bytes": 22369620
+      },
+      "resized": true
+    },
+    {
+      "index": 179,
+      "uses": [
+        {
+          "material": "Sketchfab_HoChiMinh_source_material_0",
+          "channel": "normalTexture"
+        }
+      ],
+      "category": "statue_data_map",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        8192,
+        8192
+      ],
+      "mobile_dimensions": [
+        1024,
+        1024
+      ],
+      "source_encoded_bytes": 4552844,
+      "mobile_encoded_bytes": 1206399,
+      "source_image_sha256": "c1d078e72ac35895a745a56b8f1b99c30e201ef8777cd4f5e64b79ec8d432df0",
+      "mobile_image_sha256": "bf34104e08e371a6750adb00be46e64ab495fffcd42adc0a4da86c2caea67283",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 268435456,
+        "GPU_RGBA8_with_mipmaps_bytes": 357913940
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 4194304,
+        "GPU_RGBA8_with_mipmaps_bytes": 5592404
+      },
+      "resized": true
+    },
+    {
+      "index": 180,
+      "uses": [
+        {
+          "material": "Sketchfab_HoChiMinh_source_material_0",
+          "channel": "occlusionTexture"
+        }
+      ],
+      "category": "statue_data_map",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        8192,
+        8192
+      ],
+      "mobile_dimensions": [
+        1024,
+        1024
+      ],
+      "source_encoded_bytes": 7726256,
+      "mobile_encoded_bytes": 472157,
+      "source_image_sha256": "26fc7db7674aefa796c80421a0a788cccf751c3835dd92f17e5c77cb58490060",
+      "mobile_image_sha256": "eef648ce3b541e6a4608fd12a671325f45dd130e37ed2f5e179b7d0971c98e1e",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 268435456,
+        "GPU_RGBA8_with_mipmaps_bytes": 357913940
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 4194304,
+        "GPU_RGBA8_with_mipmaps_bytes": 5592404
+      },
+      "resized": true
+    },
+    {
+      "index": 181,
+      "uses": [
+        {
+          "material": "Hoa_sen_hong",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "175e4a3cbc7acbbfb8c9f7411d0d590047792f3a6e725eaf5c0dbd9f9d43ecbe",
+      "mobile_image_sha256": "175e4a3cbc7acbbfb8c9f7411d0d590047792f3a6e725eaf5c0dbd9f9d43ecbe",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    }
+  ],
+  "memory_estimate_note": "RGBA8 upload and complete mipmap chain; excludes geometry, framebuffers, CPU decoded copies and driver overhead.",
+  "normal_map_filter": "Lanczos resize followed by per-pixel normal-vector renormalisation; encoded as lossless PNG."
+}
