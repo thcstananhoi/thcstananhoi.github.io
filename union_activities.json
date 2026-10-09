@@ -1,54 +1,54 @@
 [
   {
     "id": "01",
-    "label": "Ảnh 1",
+    "label": "Giao lưu ẩm thực",
     "filename": "01.jpg",
-    "source_name": "1.Hoạt động nổi bật dưới công đoàn.jpg",
+    "source_name": "1.jpg",
     "mesh_name": "left_union_activities_photo_01",
     "extra_meshes": [
       "left_union_activities_frame_01"
     ],
-    "width_px": 2560,
-    "height_px": 1920,
+    "width_px": 1280,
+    "height_px": 1044,
     "texture_filename": "photo_01.jpg",
-    "sha256": "dc2dd7574e3ed3998b2f1b683a341cd71a18f1a369d4d7c4ec55cfb9a3bb8ea2",
+    "sha256": "a5c0223f8d70c793cd6ec0f45ad0783c958c22ac715155296c780886b96b7fdc",
     "image_path": "assets/union_activities/01.jpg"
   },
   {
     "id": "02",
-    "label": "Ảnh 2",
+    "label": "Hoạt động chào mừng Ngày Quốc tế Phụ nữ 8/3",
     "filename": "02.jpg",
-    "source_name": "2.động nổi bật dưới công đoàn.jpg.jpg",
+    "source_name": "2.jpg",
     "mesh_name": "left_union_activities_photo_02",
     "extra_meshes": [
       "left_union_activities_frame_02"
     ],
-    "width_px": 2568,
-    "height_px": 1444,
+    "width_px": 2560,
+    "height_px": 1707,
     "texture_filename": "photo_02.jpg",
-    "sha256": "93253b7637753a798df520fa2cd8c53c90d9372a951638a737fc2bdee02ab556",
+    "sha256": "1788c86d1786593c8393adc0230ce4b772cdd93063bac543a95b85b743bf3548",
     "image_path": "assets/union_activities/02.jpg"
   },
   {
     "id": "03",
-    "label": "Ảnh 3",
+    "label": "Giao lưu và trao hoa chúc mừng",
     "filename": "03.jpg",
-    "source_name": "3Hoạt động nổi bật dưới công đoàn.jpg.jpg",
+    "source_name": "3.jpg.jpg",
     "mesh_name": "left_union_activities_photo_03",
     "extra_meshes": [
       "left_union_activities_frame_03"
     ],
-    "width_px": 2560,
-    "height_px": 1440,
+    "width_px": 2568,
+    "height_px": 1444,
     "texture_filename": "photo_03.jpg",
-    "sha256": "725bdfe635fc543adc99f503a18abe57b968e07bb534e4d4eaba3513b73a6514",
+    "sha256": "0ce4a1f620c128d7043f6af337e5c49543792bae7ba1de37c606ae0078a4375f",
     "image_path": "assets/union_activities/03.jpg"
   },
   {
     "id": "04",
-    "label": "Ảnh 4",
+    "label": "Hoạt động đón xuân",
     "filename": "04.jpg",
-    "source_name": "4.Hoạt động nổi bật dưới công đoàn.jpg.jpg",
+    "source_name": "4.jpg.jpg",
     "mesh_name": "left_union_activities_photo_04",
     "extra_meshes": [
       "left_union_activities_frame_04"
@@ -61,54 +61,54 @@
   },
   {
     "id": "05",
-    "label": "Ảnh 5",
+    "label": "Gian hàng ẩm thực của trường",
     "filename": "05.jpg",
-    "source_name": "5.Hoạt động nổi bật dưới công đoàn.jpg.jpg",
+    "source_name": "5.jpg.jpg",
     "mesh_name": "left_union_activities_photo_05",
     "extra_meshes": [
       "left_union_activities_frame_05"
     ],
-    "width_px": 2568,
-    "height_px": 1444,
+    "width_px": 2560,
+    "height_px": 1920,
     "texture_filename": "photo_05.jpg",
-    "sha256": "3e1b0e208044d78294b55c7470c1fb707237b8f6ffc2cdade77dc5126e635939",
+    "sha256": "eac386f14cf5f05b7c0c3b3d080382f907a91e47c387182e306cce366ffa2c5d",
     "image_path": "assets/union_activities/05.jpg"
   },
   {
     "id": "06",
-    "label": "Ảnh 6",
+    "label": "Giao lưu Công đoàn",
     "filename": "06.jpg",
-    "source_name": "6.Hoạt động nổi bật dưới công đoàn.jpg.jpg",
+    "source_name": "6.jpg",
     "mesh_name": "left_union_activities_photo_06",
     "extra_meshes": [
       "left_union_activities_frame_06"
     ],
     "width_px": 2560,
-    "height_px": 1920,
+    "height_px": 1944,
     "texture_filename": "photo_06.jpg",
-    "sha256": "eac386f14cf5f05b7c0c3b3d080382f907a91e47c387182e306cce366ffa2c5d",
+    "sha256": "811b77acb92619e723de02978db6c6a0e065cd73f134f5eaffffe786e6eaa3c6",
     "image_path": "assets/union_activities/06.jpg"
   },
   {
     "id": "07",
-    "label": "Ảnh 7",
+    "label": "Tham gia biểu diễn văn nghệ quần chúng",
     "filename": "07.jpg",
-    "source_name": "7.Hoạt động nổi bật dưới công đoàn.jpg.jpg",
+    "source_name": "7.JPG",
     "mesh_name": "left_union_activities_photo_07",
     "extra_meshes": [
       "left_union_activities_frame_07"
     ],
-    "width_px": 2568,
-    "height_px": 1444,
+    "width_px": 2048,
+    "height_px": 1366,
     "texture_filename": "photo_07.jpg",
-    "sha256": "0ce4a1f620c128d7043f6af337e5c49543792bae7ba1de37c606ae0078a4375f",
+    "sha256": "60e35c70350ae0b563539151195999ec0e91d0a64cd7198040f33c76f3267371",
     "image_path": "assets/union_activities/07.jpg"
   },
   {
     "id": "08",
-    "label": "Ảnh 8",
+    "label": "Giao lưu và chúc mừng giáo viên",
     "filename": "08.jpg",
-    "source_name": "8.Hoạt động nổi bật dưới công đoàn.jpg.jpg",
+    "source_name": "8.jpg.jpg",
     "mesh_name": "left_union_activities_photo_08",
     "extra_meshes": [
       "left_union_activities_frame_08"
@@ -116,7 +116,22 @@
     "width_px": 2568,
     "height_px": 1444,
     "texture_filename": "photo_08.jpg",
-    "sha256": "b83386caadb6d4c8f36564550e148b2d500613b2100436ecb34af4e66aeb2f0c",
+    "sha256": "3e1b0e208044d78294b55c7470c1fb707237b8f6ffc2cdade77dc5126e635939",
     "image_path": "assets/union_activities/08.jpg"
+  },
+  {
+    "id": "09",
+    "label": "Giáo viên hướng dẫn học sinh thực hành",
+    "filename": "09.jpg",
+    "source_name": "9.jpg",
+    "mesh_name": "left_union_activities_photo_09",
+    "extra_meshes": [
+      "left_union_activities_frame_09"
+    ],
+    "width_px": 2048,
+    "height_px": 1536,
+    "texture_filename": "photo_09.jpg",
+    "sha256": "04d4f74b2e47a280d0328133a68716c89dfab3481226aee0439689539867a068",
+    "image_path": "assets/union_activities/09.jpg"
   }
 ]

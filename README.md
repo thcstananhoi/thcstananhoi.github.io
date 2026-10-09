@@ -1,6 +1,6 @@
 # Phòng truyền thống 3D
 
-Mô hình Phòng truyền thống Trường THCS Tân An Hội, dựng từ ảnh tư liệu. Tường chính có 11 bằng khen đã nắn thẳng từ ảnh chụp và tượng Bác dạng khối 3D. Tường bên trái có bảng Ban giám hiệu qua các thời kỳ (4 ảnh chân dung, 7 ảnh hoạt động nổi bật) và bảng Ban chấp hành Công đoàn qua các thời kỳ (15 ảnh chân dung, 8 ảnh hoạt động nổi bật). Tường bên phải có poster Truyền thống nhà trường (từ bản thiết kế PDF) và bảng Thành tích tiêu biểu của Chi bộ với 5 giấy khen.
+Mô hình Phòng truyền thống Trường THCS Tân An Hội, dựng từ ảnh tư liệu. Tường chính có 11 bằng khen đã nắn thẳng từ ảnh chụp. Tượng Bác dùng mô hình President Ho Chi Minh Statue của Mr. Mushi, đã nhập từ bộ tải chính thức do người dùng cung cấp. Tường bên trái có bảng Ban giám hiệu qua các thời kỳ (11 ảnh chân dung kèm nhiệm kỳ, 8 ảnh hoạt động nổi bật) và bảng Ban chấp hành Công đoàn qua các thời kỳ (17 ảnh chân dung xếp 5–6–6, 9 ảnh hoạt động nổi bật). Tường sau có 18 ảnh hoạt động giáo viên, xếp theo thứ tự 1–18 bên dưới bốn lá cờ và dòng Một số hoạt động nổi bật. Tường bên phải có poster Truyền thống nhà trường (từ bản thiết kế PDF) và bảng Thành tích tiêu biểu của Chi bộ với 9 giấy khen xếp 5 hàng (1–2–2–2–2), theo mã hàng–cột của tên file trong thư mục `7-Giấy khen (2)`; ảnh 11.jpg ở giữa hàng đầu.
 
 Trang web: **https://thcstananhoi.github.io/**
 
@@ -9,7 +9,7 @@ Mở trang là mô hình tự tải. Chọn **Bảng chuyên môn**, rồi nhấ
 - Kéo chuột trái để xoay (khi đứng trong phòng: quay nhìn quanh tại chỗ, cảnh đi theo con trỏ); cuộn để thu phóng; kéo chuột phải để di chuyển.
 - Giữ **Shift** và lăn chuột: camera tự về giữa phòng rồi quay tại chỗ, lăn tiếp để nhìn quanh toàn bộ phòng.
 - Trên điện thoại: kéo một ngón tay để xoay, dùng hai ngón tay để thu phóng và di chuyển.
-- Có các góc Tổng thể, Trong phòng, Nhìn từ trên, Bảng chuyên môn, Bằng khen, Ban giám hiệu, Công đoàn và Truyền thống; có thể bật trần hoặc mở mặt cắt.
+- Có các góc Tổng thể, Trong phòng, Nhìn từ trên, Bảng chuyên môn, Bằng khen, Ban giám hiệu, Công đoàn, Tường sau, Tượng Bác và QR, Truyền thống; có thể bật trần hoặc mở mặt cắt. Chọn Tường sau rồi bấm ảnh để xem bản gốc và chuyển qua đủ 18 ảnh.
 - Bảng điều khiển và hướng dẫn thao tác được thu gọn khi mở trang: nhấp nút **☰** (góc trên) hoặc nút hình con chuột (giữa cạnh dưới) để hiện, nút **×** để thu gọn lại.
 
 Kích thước và tỷ lệ phòng được ước lượng từ ảnh, chưa được đo thực tế.
@@ -25,12 +25,16 @@ Các file cần giữ cùng nhau:
 - `assets/model.glb`: mô hình và các texture.
 - `gallery.json` và `assets/gallery/01.jpg` đến `08.jpg`: danh sách và ảnh gốc.
 - `awards.json` và `assets/awards/01.jpg` đến `11.jpg`: danh sách và ảnh bằng khen.
-- `management.json` và `assets/management/01.jpg` đến `04.jpg`: Ban giám hiệu, ảnh gốc.
-- `union.json` và `assets/union/01.jpg` đến `15.jpg`: Ban chấp hành Công đoàn, ảnh gốc.
+- `management.json` và `assets/management/01.jpg` đến `11.jpg`: Ban giám hiệu, ảnh gốc, tên và nhiệm kỳ từ dữ liệu cung cấp.
+- `union.json` và `assets/union/01.png`, `03.png` và `02.jpg` và các JPG từ `04.jpg` đến `17.jpg`: Ban chấp hành Công đoàn; cô Mai Thị Hoa ở hàng 1, cột 1, Chủ tịch Công đoàn, nhiệm kỳ 2000–2003; thầy Lê Chí Thành ở hàng 1, cột 3, Chủ tịch Công đoàn, nhiệm kỳ 2010–2017.
 - `management_activities.json`, `union_activities.json` và `assets/management_activities/`, `assets/union_activities/`: ảnh gốc phần Các hoạt động nổi bật của hai bảng.
+- `teacher_activities.json` và `assets/teacher_activities/`: 18 ảnh gốc JPG/PNG của tường sau.
+- `archive_qr.json` và `assets/archive_qr/01.png`: mã QR cho bảng Kho tư liệu số Thị Trấn 2 bên trái tượng Bác; chọn Tượng Bác và QR, bấm mã để xem lớn hoặc quét.
 - `poster.json` và `assets/poster/poster.jpg`: poster Truyền thống nhà trường cỡ lớn.
 - `party_awards.json` và `assets/party_awards/01.jpg` đến `05.jpg`: giấy khen của Chi bộ, bản quét gốc.
 
 Để xem tại máy, phục vụ thư mục này bằng một HTTP server, ví dụ `python -m http.server 8000`, rồi mở `http://localhost:8000/`.
+
+Mô hình tượng [President Ho Chi Minh Statue](https://sketchfab.com/3d-models/president-ho-chi-minh-statue-12577a979a2c4828ab065fc87a1e2e48) của [Mr. Mushi](https://sketchfab.com/mr.mushi) được sử dụng theo [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Phần tượng được tách khỏi bệ và bảng thuyết minh của nơi trưng bày gốc; giữ nguyên khuôn mặt, đầu, lưng, UV và ảnh vật liệu nguồn. Mép thân bị hở khi tách và đáy được khép bằng vật liệu đồng. Tượng được căn hướng, thay đổi tỷ lệ đồng nhất và đặt lên bệ của phòng. Khi chia sẻ tài nguyên tượng, cần ghi công, kèm liên kết giấy phép, nêu thay đổi; sử dụng phi thương mại và chia sẻ phần chỉnh sửa của tượng theo cùng giấy phép. Phạm vi giấy phép này là mô hình tượng cùng vật liệu từ tác giả. Quyền sử dụng ảnh tư liệu của trường và tài nguyên khác được xác định theo từng nguồn.
 
 Three.js được sử dụng theo giấy phép MIT trong `licenses/THREE-LICENSE.txt`. Giấy phép đó chỉ áp dụng cho thư viện Three.js.

@@ -1,19 +1,48 @@
 [
   {
     "id": "01",
-    "label": "Cô Nguyễn Thị Phước",
-    "name": "Cô Nguyễn Thị Phước",
-    "role": "",
-    "years": "",
-    "filename": "01.jpg",
-    "source_name": "1-Nguyễn Thị Phước.jpg",
+    "label": "Cô Mai Thị Hoa – Chủ tịch Công đoàn (2000 – 2003)",
+    "name": "Cô Mai Thị Hoa",
+    "role": "Chủ tịch Công đoàn",
+    "years": "2000 – 2003",
+    "filename": "01.png",
+    "source_name": "codex-clipboard-1f390e3d-bd9e-4acc-9a05-ab1ff7e01b32.png",
     "mesh_name": "left_union_photo_01",
     "extra_meshes": [
       "left_union_frame_01"
     ],
+    "width_px": 985,
+    "height_px": 1597,
+    "texture_filename": "portrait_01.jpg",
+    "crop_box": [
+      0,
+      70,
+      984,
+      1382
+    ],
+    "sha256": "911a49d39262037d41af3097204c0d0407e4249ee2f0c256c870ee424bcad8ed",
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 1,
+    "board_column": 1,
+    "image_path": "assets/union/01.png"
+  },
+  {
+    "id": "02",
+    "label": "Cô Nguyễn Thị Phước",
+    "name": "Cô Nguyễn Thị Phước",
+    "role": "",
+    "years": "",
+    "filename": "02.jpg",
+    "source_name": "1-Nguyễn Thị Phước.jpg",
+    "mesh_name": "left_union_photo_02",
+    "extra_meshes": [
+      "left_union_frame_02"
+    ],
     "width_px": 2560,
     "height_px": 1858,
-    "texture_filename": "portrait_01.jpg",
+    "texture_filename": "portrait_02.jpg",
     "crop_box": [
       917,
       915,
@@ -21,47 +50,58 @@
       1627
     ],
     "sha256": "de73a9991603f36443f17fd562b2c096187912fef8559eee86c05a898015595e",
-    "image_path": "assets/union/01.jpg"
-  },
-  {
-    "id": "02",
-    "label": "Cô Võ Thị Bích Huyền – Ủy viên BCH (2000 – 2012)",
-    "name": "Cô Võ Thị Bích Huyền",
-    "role": "Ủy viên BCH",
-    "years": "2000 – 2012",
-    "filename": "02.jpg",
-    "source_name": "2.Võ Thị Bích Huyền UV BCH 2000-2012.jpg",
-    "mesh_name": "left_union_photo_02",
-    "extra_meshes": [
-      "left_union_frame_02"
-    ],
-    "width_px": 454,
-    "height_px": 446,
-    "texture_filename": "portrait_02.jpg",
-    "crop_box": [
-      74,
-      0,
-      407,
-      444
-    ],
-    "sha256": "a2ba065ceb5b40bf3abfb14024525d68502b1dccd3c57458a2cedec79827cb8d",
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 1,
+    "board_column": 2,
+    "source_number": 1,
     "image_path": "assets/union/02.jpg"
   },
   {
     "id": "03",
-    "label": "Cô Hồ Thị Bích Phượng – Chủ tịch Công đoàn (2022 – 2027)",
-    "name": "Cô Hồ Thị Bích Phượng",
+    "label": "Thầy Lê Chí Thành – Chủ tịch Công đoàn (2010 – 2017)",
+    "name": "Thầy Lê Chí Thành",
     "role": "Chủ tịch Công đoàn",
-    "years": "2022 – 2027",
-    "filename": "03.jpg",
-    "source_name": "3.Hồ Thị Bích Phượng CTCĐ 2022-2027.jpg",
+    "years": "2010 – 2017",
+    "filename": "03.png",
+    "source_name": "codex-clipboard-46689e34-8663-4580-9d21-8f9b852a7c6b.png",
     "mesh_name": "left_union_photo_03",
     "extra_meshes": [
       "left_union_frame_03"
     ],
+    "width_px": 1053,
+    "height_px": 1494,
+    "texture_filename": "portrait_03.jpg",
+    "crop_box": [
+      95,
+      150,
+      995,
+      1350
+    ],
+    "sha256": "6cb9a2753a1c826b1cc9e3a96be04c0ca3c8fa6b1472cf62c9588c469bad760b",
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 1,
+    "board_column": 3,
+    "image_path": "assets/union/03.png"
+  },
+  {
+    "id": "04",
+    "label": "Cô Hồ Thị Bích Phượng – Chủ tịch Công đoàn (2022 – 2027)",
+    "name": "Cô Hồ Thị Bích Phượng",
+    "role": "Chủ tịch Công đoàn",
+    "years": "2022 – 2027",
+    "filename": "04.jpg",
+    "source_name": "3.Hồ Thị Bích Phượng CTCĐ 2022-2027.jpg",
+    "mesh_name": "left_union_photo_04",
+    "extra_meshes": [
+      "left_union_frame_04"
+    ],
     "width_px": 993,
     "height_px": 1536,
-    "texture_filename": "portrait_03.jpg",
+    "texture_filename": "portrait_04.jpg",
     "crop_box": [
       0,
       212,
@@ -69,23 +109,29 @@
       1536
     ],
     "sha256": "3d04b0bdd6f041548be4ffb1ee64745bed36cabab49fa27271f5c734f8b4cef1",
-    "image_path": "assets/union/03.jpg"
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 1,
+    "board_column": 4,
+    "source_number": 3,
+    "image_path": "assets/union/04.jpg"
   },
   {
-    "id": "04",
+    "id": "05",
     "label": "Cô Nguyễn Thị Thắm (2017 – 2021)",
     "name": "Cô Nguyễn Thị Thắm",
     "role": "",
     "years": "2017 – 2021",
-    "filename": "04.jpg",
+    "filename": "05.jpg",
     "source_name": "4.Nguyễn Thị Thắm 2017-2021.jpg",
-    "mesh_name": "left_union_photo_04",
+    "mesh_name": "left_union_photo_05",
     "extra_meshes": [
-      "left_union_frame_04"
+      "left_union_frame_05"
     ],
     "width_px": 923,
     "height_px": 766,
-    "texture_filename": "portrait_04.jpg",
+    "texture_filename": "portrait_05.jpg",
     "crop_box": [
       287,
       148,
@@ -93,23 +139,59 @@
       608
     ],
     "sha256": "589e7402a4f630df68d7831eb1287b5a70654514c86eeaba22841f3742a59cba",
-    "image_path": "assets/union/04.jpg"
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 1,
+    "board_column": 5,
+    "source_number": 4,
+    "image_path": "assets/union/05.jpg"
   },
   {
-    "id": "05",
+    "id": "06",
+    "label": "Cô Võ Thị Bích Huyền – Ủy viên BCH (2000 – 2012)",
+    "name": "Cô Võ Thị Bích Huyền",
+    "role": "Ủy viên BCH",
+    "years": "2000 – 2012",
+    "filename": "06.jpg",
+    "source_name": "2.Võ Thị Bích Huyền UV BCH 2000-2012.jpg",
+    "mesh_name": "left_union_photo_06",
+    "extra_meshes": [
+      "left_union_frame_06"
+    ],
+    "width_px": 454,
+    "height_px": 446,
+    "texture_filename": "portrait_06.jpg",
+    "crop_box": [
+      74,
+      0,
+      407,
+      444
+    ],
+    "sha256": "a2ba065ceb5b40bf3abfb14024525d68502b1dccd3c57458a2cedec79827cb8d",
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 2,
+    "board_column": 1,
+    "source_number": 2,
+    "image_path": "assets/union/06.jpg"
+  },
+  {
+    "id": "07",
     "label": "Cô Hồ Thị Phương Chi (2017 – 2022)",
     "name": "Cô Hồ Thị Phương Chi",
     "role": "",
     "years": "2017 – 2022",
-    "filename": "05.jpg",
+    "filename": "07.jpg",
     "source_name": "5.Hồ Thị Phương Chi NK 2017-2022.jpg",
-    "mesh_name": "left_union_photo_05",
+    "mesh_name": "left_union_photo_07",
     "extra_meshes": [
-      "left_union_frame_05"
+      "left_union_frame_07"
     ],
     "width_px": 1031,
     "height_px": 1293,
-    "texture_filename": "portrait_05.jpg",
+    "texture_filename": "portrait_07.jpg",
     "crop_box": [
       0,
       0,
@@ -117,23 +199,29 @@
       1292
     ],
     "sha256": "b1eba2cbbc9ad406ab62a76ea6e9bb34c2f2a96f088050cab4943017a17db00a",
-    "image_path": "assets/union/05.jpg"
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 2,
+    "board_column": 2,
+    "source_number": 5,
+    "image_path": "assets/union/07.jpg"
   },
   {
-    "id": "06",
-    "label": "Cô Trần Thị Ngọc Thắm (2017 – 2022)",
-    "name": "Cô Trần Thị Ngọc Thắm",
+    "id": "08",
+    "label": "Cô Lê Thị Ngọc Thắm (2017 – 2022)",
+    "name": "Cô Lê Thị Ngọc Thắm",
     "role": "",
     "years": "2017 – 2022",
-    "filename": "06.jpg",
+    "filename": "08.jpg",
     "source_name": "6.Trần Thị Ngọc Thắm NK 2017-2022.jpg",
-    "mesh_name": "left_union_photo_06",
+    "mesh_name": "left_union_photo_08",
     "extra_meshes": [
-      "left_union_frame_06"
+      "left_union_frame_08"
     ],
     "width_px": 1440,
     "height_px": 2560,
-    "texture_filename": "portrait_06.jpg",
+    "texture_filename": "portrait_08.jpg",
     "crop_box": [
       314,
       479,
@@ -141,23 +229,29 @@
       1899
     ],
     "sha256": "6b970ed72d539817d0c1de03d3ac8276b8ed1eec70f15eab487c4cb3a1a26bd8",
-    "image_path": "assets/union/06.jpg"
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 2,
+    "board_column": 3,
+    "source_number": 6,
+    "image_path": "assets/union/08.jpg"
   },
   {
-    "id": "07",
+    "id": "09",
     "label": "Cô Đặng Thu Thủy – Ủy viên BCH (2017 – 2022)",
     "name": "Cô Đặng Thu Thủy",
     "role": "Ủy viên BCH",
     "years": "2017 – 2022",
-    "filename": "07.jpg",
+    "filename": "09.jpg",
     "source_name": "7.Đặng Thu Thủy UV BCH 2017-2022.jpg",
-    "mesh_name": "left_union_photo_07",
+    "mesh_name": "left_union_photo_09",
     "extra_meshes": [
-      "left_union_frame_07"
+      "left_union_frame_09"
     ],
     "width_px": 1064,
     "height_px": 1213,
-    "texture_filename": "portrait_07.jpg",
+    "texture_filename": "portrait_09.jpg",
     "crop_box": [
       383,
       142,
@@ -165,95 +259,29 @@
       1002
     ],
     "sha256": "7d536a2ae6d46f04082eaffb6ef59d0a90cdb5dce67b09eaa7a70a396d2a1396",
-    "image_path": "assets/union/07.jpg"
-  },
-  {
-    "id": "08",
-    "label": "Cô Trần Thị Tường Vy – Phó Chủ tịch Công đoàn (2022 – 2027)",
-    "name": "Cô Trần Thị Tường Vy",
-    "role": "Phó Chủ tịch Công đoàn",
-    "years": "2022 – 2027",
-    "filename": "08.jpg",
-    "source_name": "8.Trần Thị Tường Vy PCTCĐ 2022-2027.jpg",
-    "mesh_name": "left_union_photo_08",
-    "extra_meshes": [
-      "left_union_frame_08"
-    ],
-    "width_px": 1290,
-    "height_px": 1263,
-    "texture_filename": "portrait_08.jpg",
-    "crop_box": [
-      223,
-      96,
-      784,
-      844
-    ],
-    "sha256": "1919bd3947ac9e29dba527647e3a249ec819a36ef86daaf303d5257205c74b41",
-    "image_path": "assets/union/08.jpg"
-  },
-  {
-    "id": "09",
-    "label": "Cô Liêu Thị Ánh Hồng – Phó Chủ tịch Công đoàn (2022 – 2027)",
-    "name": "Cô Liêu Thị Ánh Hồng",
-    "role": "Phó Chủ tịch Công đoàn",
-    "years": "2022 – 2027",
-    "filename": "09.jpg",
-    "source_name": "9.Liêu Thị Ánh Hồng PCTCĐ 2022-2027.jpg",
-    "mesh_name": "left_union_photo_09",
-    "extra_meshes": [
-      "left_union_frame_09"
-    ],
-    "width_px": 417,
-    "height_px": 496,
-    "texture_filename": "portrait_09.jpg",
-    "crop_box": [
-      63,
-      54,
-      354,
-      442
-    ],
-    "sha256": "24fd2472a79916ceec70edf27068de3259eeae536867ac062ca9c5eff9799a81",
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 2,
+    "board_column": 4,
+    "source_number": 7,
     "image_path": "assets/union/09.jpg"
   },
   {
     "id": "10",
-    "label": "Thầy Võ Văn Hóa – Ủy viên BCH (2022 – 2027)",
-    "name": "Thầy Võ Văn Hóa",
-    "role": "Ủy viên BCH",
-    "years": "2022 – 2027",
-    "filename": "10.jpg",
-    "source_name": "10.Võ Văn Hóa BCHCD 22-27.jpg",
-    "mesh_name": "left_union_photo_10",
-    "extra_meshes": [
-      "left_union_frame_10"
-    ],
-    "width_px": 960,
-    "height_px": 1280,
-    "texture_filename": "portrait_10.jpg",
-    "crop_box": [
-      384,
-      388,
-      699,
-      808
-    ],
-    "sha256": "c04b19927a44e45083136f59e02dd833275157bc4663a9971c2aba9f75988116",
-    "image_path": "assets/union/10.jpg"
-  },
-  {
-    "id": "11",
     "label": "Thầy Trần Ngọc Quí – Ủy viên BCH",
     "name": "Thầy Trần Ngọc Quí",
     "role": "Ủy viên BCH",
     "years": "",
-    "filename": "11.jpg",
+    "filename": "10.jpg",
     "source_name": "11.Trần Ngọc Quí UV BCH.jpg",
-    "mesh_name": "left_union_photo_11",
+    "mesh_name": "left_union_photo_10",
     "extra_meshes": [
-      "left_union_frame_11"
+      "left_union_frame_10"
     ],
     "width_px": 462,
     "height_px": 426,
-    "texture_filename": "portrait_11.jpg",
+    "texture_filename": "portrait_10.jpg",
     "crop_box": [
       125,
       86,
@@ -261,23 +289,119 @@
       334
     ],
     "sha256": "1acd8efe32f94e2827f12180c2a4c8f52a26c7ecd0a76b4310f399989a520283",
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 2,
+    "board_column": 5,
+    "source_number": 11,
+    "image_path": "assets/union/10.jpg"
+  },
+  {
+    "id": "11",
+    "label": "Cô Trần Thị Tường Vy – Phó Chủ tịch Công đoàn (2022 – 2027)",
+    "name": "Cô Trần Thị Tường Vy",
+    "role": "Phó Chủ tịch Công đoàn",
+    "years": "2022 – 2027",
+    "filename": "11.jpg",
+    "source_name": "8.Trần Thị Tường Vy PCTCĐ 2022-2027.jpg",
+    "mesh_name": "left_union_photo_11",
+    "extra_meshes": [
+      "left_union_frame_11"
+    ],
+    "width_px": 1290,
+    "height_px": 1263,
+    "texture_filename": "portrait_11.jpg",
+    "crop_box": [
+      223,
+      96,
+      784,
+      844
+    ],
+    "sha256": "1919bd3947ac9e29dba527647e3a249ec819a36ef86daaf303d5257205c74b41",
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 2,
+    "board_column": 6,
+    "source_number": 8,
     "image_path": "assets/union/11.jpg"
   },
   {
     "id": "12",
-    "label": "Cô Nguyễn Thị Nga – Ủy viên BCH (2022 – 2027)",
-    "name": "Cô Nguyễn Thị Nga",
+    "label": "Thầy Võ Văn Hóa – Ủy viên BCH (2022 – 2027)",
+    "name": "Thầy Võ Văn Hóa",
     "role": "Ủy viên BCH",
     "years": "2022 – 2027",
     "filename": "12.jpg",
-    "source_name": "12.Nguyễn Thị Nga UV BCH 2022-2027.jpg",
+    "source_name": "10.Võ Văn Hóa BCHCD 22-27.jpg",
     "mesh_name": "left_union_photo_12",
     "extra_meshes": [
       "left_union_frame_12"
     ],
+    "width_px": 960,
+    "height_px": 1280,
+    "texture_filename": "portrait_12.jpg",
+    "crop_box": [
+      384,
+      388,
+      699,
+      808
+    ],
+    "sha256": "c04b19927a44e45083136f59e02dd833275157bc4663a9971c2aba9f75988116",
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 3,
+    "board_column": 1,
+    "source_number": 10,
+    "image_path": "assets/union/12.jpg"
+  },
+  {
+    "id": "13",
+    "label": "Cô Liêu Thị Ánh Hồng – Phó Chủ tịch Công đoàn (2022 – 2027)",
+    "name": "Cô Liêu Thị Ánh Hồng",
+    "role": "Phó Chủ tịch Công đoàn",
+    "years": "2022 – 2027",
+    "filename": "13.jpg",
+    "source_name": "9.Liêu Thị Ánh Hồng PCTCĐ 2022-2027.jpg",
+    "mesh_name": "left_union_photo_13",
+    "extra_meshes": [
+      "left_union_frame_13"
+    ],
+    "width_px": 417,
+    "height_px": 496,
+    "texture_filename": "portrait_13.jpg",
+    "crop_box": [
+      63,
+      54,
+      354,
+      442
+    ],
+    "sha256": "24fd2472a79916ceec70edf27068de3259eeae536867ac062ca9c5eff9799a81",
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 3,
+    "board_column": 2,
+    "source_number": 9,
+    "image_path": "assets/union/13.jpg"
+  },
+  {
+    "id": "14",
+    "label": "Cô Nguyễn Thị Nga – Ủy viên BCH (2022 – 2027)",
+    "name": "Cô Nguyễn Thị Nga",
+    "role": "Ủy viên BCH",
+    "years": "2022 – 2027",
+    "filename": "14.jpg",
+    "source_name": "12.Nguyễn Thị Nga UV BCH 2022-2027.jpg",
+    "mesh_name": "left_union_photo_14",
+    "extra_meshes": [
+      "left_union_frame_14"
+    ],
     "width_px": 1670,
     "height_px": 2505,
-    "texture_filename": "portrait_12.jpg",
+    "texture_filename": "portrait_14.jpg",
     "crop_box": [
       326,
       262,
@@ -285,23 +409,29 @@
       2054
     ],
     "sha256": "861c2b0e0ae8adaf505c6a65cb72476e19b1a4833128ec59e1df237d13e4b2c2",
-    "image_path": "assets/union/12.jpg"
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 3,
+    "board_column": 3,
+    "source_number": 12,
+    "image_path": "assets/union/14.jpg"
   },
   {
-    "id": "13",
+    "id": "15",
     "label": "Cô Nguyễn Thị Minh Tâm – Ủy viên BCH (2022 – 2027)",
     "name": "Cô Nguyễn Thị Minh Tâm",
     "role": "Ủy viên BCH",
     "years": "2022 – 2027",
-    "filename": "13.jpg",
+    "filename": "15.jpg",
     "source_name": "13.Nguyễn Thị Minh Tâm UV BCH 2022-2027.jpg",
-    "mesh_name": "left_union_photo_13",
+    "mesh_name": "left_union_photo_15",
     "extra_meshes": [
-      "left_union_frame_13"
+      "left_union_frame_15"
     ],
     "width_px": 923,
     "height_px": 1140,
-    "texture_filename": "portrait_13.jpg",
+    "texture_filename": "portrait_15.jpg",
     "crop_box": [
       238,
       412,
@@ -309,23 +439,29 @@
       716
     ],
     "sha256": "e5150caf318ec4868b743e483cad4bd508be149611579164abb4cfbf8afc4cdd",
-    "image_path": "assets/union/13.jpg"
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 3,
+    "board_column": 4,
+    "source_number": 13,
+    "image_path": "assets/union/15.jpg"
   },
   {
-    "id": "14",
+    "id": "16",
     "label": "Thầy Lê Thành Đạt (2022 – 2027)",
     "name": "Thầy Lê Thành Đạt",
     "role": "",
     "years": "2022 – 2027",
-    "filename": "14.jpg",
+    "filename": "16.jpg",
     "source_name": "14.Lê Thành Đạt NH 2022-2027.jpg",
-    "mesh_name": "left_union_photo_14",
+    "mesh_name": "left_union_photo_16",
     "extra_meshes": [
-      "left_union_frame_14"
+      "left_union_frame_16"
     ],
     "width_px": 960,
     "height_px": 1280,
-    "texture_filename": "portrait_14.jpg",
+    "texture_filename": "portrait_16.jpg",
     "crop_box": [
       391,
       435,
@@ -333,23 +469,29 @@
       855
     ],
     "sha256": "c8dca39546e264d426da8d643aeb682882e06530efbedff076095e3057b35b6d",
-    "image_path": "assets/union/14.jpg"
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 3,
+    "board_column": 5,
+    "source_number": 14,
+    "image_path": "assets/union/16.jpg"
   },
   {
-    "id": "15",
+    "id": "17",
     "label": "Cô Tô Kim Ngân – Ủy viên BCH (2022 – 2027)",
     "name": "Cô Tô Kim Ngân",
     "role": "Ủy viên BCH",
     "years": "2022 – 2027",
-    "filename": "15.jpg",
+    "filename": "17.jpg",
     "source_name": "15.Tô Kim Ngân UV BCH 2022-2027.jpg",
-    "mesh_name": "left_union_photo_15",
+    "mesh_name": "left_union_photo_17",
     "extra_meshes": [
-      "left_union_frame_15"
+      "left_union_frame_17"
     ],
     "width_px": 2560,
     "height_px": 1918,
-    "texture_filename": "portrait_15.jpg",
+    "texture_filename": "portrait_17.jpg",
     "crop_box": [
       354,
       333,
@@ -357,6 +499,12 @@
       1805
     ],
     "sha256": "829eb494b1e4c113c868c6f5e2eebc22098b59b2ce91b38449b688b64c132158",
-    "image_path": "assets/union/15.jpg"
+    "texture_width_px": 390,
+    "texture_height_px": 520,
+    "image_fit": "crop",
+    "board_row": 3,
+    "board_column": 6,
+    "source_number": 15,
+    "image_path": "assets/union/17.jpg"
   }
 ]

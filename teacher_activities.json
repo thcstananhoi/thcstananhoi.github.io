@@ -1,0 +1,272 @@
+[
+  {
+    "id": "01",
+    "label": "Lễ tổng kết năm học",
+    "filename": "01.jpg",
+    "source_name": "1.jpg",
+    "mesh_name": "back_teacher_activities_photo_01",
+    "extra_meshes": [
+      "back_teacher_activities_frame_01"
+    ],
+    "width_px": 2560,
+    "height_px": 1707,
+    "texture_filename": "photo_01.jpg",
+    "sha256": "7d592871ed801988b27d0daefa6b8fbf5d6d19dc675ddded4977efe03cfab3fd",
+    "image_path": "assets/teacher_activities/01.jpg"
+  },
+  {
+    "id": "02",
+    "label": "Lễ đón nhận Bằng khen của Thủ tướng Chính phủ và tổng kết năm học 2023–2024",
+    "filename": "02.jpg",
+    "source_name": "2.jpg",
+    "mesh_name": "back_teacher_activities_photo_02",
+    "extra_meshes": [
+      "back_teacher_activities_frame_02"
+    ],
+    "width_px": 2048,
+    "height_px": 1365,
+    "texture_filename": "photo_02.jpg",
+    "sha256": "007ffc5ac03cd7a3e8ab7fc0059e714c58b570f5496c103616fdc8ac7f348098",
+    "image_path": "assets/teacher_activities/02.jpg"
+  },
+  {
+    "id": "03",
+    "label": "Ảnh hoạt động giáo viên 3",
+    "filename": "03.jpg",
+    "source_name": "3.jpg",
+    "mesh_name": "back_teacher_activities_photo_03",
+    "extra_meshes": [
+      "back_teacher_activities_frame_03"
+    ],
+    "width_px": 2560,
+    "height_px": 1440,
+    "texture_filename": "photo_03.jpg",
+    "sha256": "f3928eee6be31ce289f81c4f43d78382b2b71fcfc573d524fcc2ad14896eb11b",
+    "image_path": "assets/teacher_activities/03.jpg"
+  },
+  {
+    "id": "04",
+    "label": "Ảnh hoạt động giáo viên 4",
+    "filename": "04.png",
+    "source_name": "4.png",
+    "mesh_name": "back_teacher_activities_photo_04",
+    "extra_meshes": [
+      "back_teacher_activities_frame_04"
+    ],
+    "width_px": 2384,
+    "height_px": 1220,
+    "texture_filename": "photo_04.jpg",
+    "sha256": "14a907749f96203c661dc370aedc46ae348f47a5119dcacf3d4bdac06d2f4787",
+    "image_path": "assets/teacher_activities/04.png"
+  },
+  {
+    "id": "05",
+    "label": "Ảnh hoạt động giáo viên 5",
+    "filename": "05.jpg",
+    "source_name": "5.jpg",
+    "mesh_name": "back_teacher_activities_photo_05",
+    "extra_meshes": [
+      "back_teacher_activities_frame_05"
+    ],
+    "width_px": 1276,
+    "height_px": 956,
+    "texture_filename": "photo_05.jpg",
+    "sha256": "ae4516d01543f3123b953f41133cce4b38d93ef82a86cdc50930315188d8933c",
+    "image_path": "assets/teacher_activities/05.jpg"
+  },
+  {
+    "id": "06",
+    "label": "Lễ tổng kết năm học",
+    "filename": "06.png",
+    "source_name": "6.png",
+    "mesh_name": "back_teacher_activities_photo_06",
+    "extra_meshes": [
+      "back_teacher_activities_frame_06"
+    ],
+    "width_px": 2408,
+    "height_px": 1158,
+    "texture_filename": "photo_06.jpg",
+    "sha256": "b21935ea0e13ced5cd8eae9995e8177be10f3bf09a2a23668552899b1a4975d3",
+    "image_path": "assets/teacher_activities/06.png"
+  },
+  {
+    "id": "07",
+    "label": "Ảnh hoạt động giáo viên 7",
+    "filename": "07.png",
+    "source_name": "7.png",
+    "mesh_name": "back_teacher_activities_photo_07",
+    "extra_meshes": [
+      "back_teacher_activities_frame_07"
+    ],
+    "width_px": 2400,
+    "height_px": 1200,
+    "texture_filename": "photo_07.jpg",
+    "sha256": "188756a7c456e9346490bc381e340875d3d83b39344f3193aea1387cf823358b",
+    "image_path": "assets/teacher_activities/07.png"
+  },
+  {
+    "id": "08",
+    "label": "Ảnh hoạt động giáo viên 8",
+    "filename": "08.jpg",
+    "source_name": "8.jpg",
+    "mesh_name": "back_teacher_activities_photo_08",
+    "extra_meshes": [
+      "back_teacher_activities_frame_08"
+    ],
+    "width_px": 2560,
+    "height_px": 1440,
+    "texture_filename": "photo_08.jpg",
+    "sha256": "fcf11c854926125eb882d98f31454af68cde43c22cb25b04bd8613750b155342",
+    "image_path": "assets/teacher_activities/08.jpg"
+  },
+  {
+    "id": "09",
+    "label": "Ảnh hoạt động giáo viên 9",
+    "filename": "09.jpg",
+    "source_name": "9.jpg",
+    "mesh_name": "back_teacher_activities_photo_09",
+    "extra_meshes": [
+      "back_teacher_activities_frame_09"
+    ],
+    "width_px": 1281,
+    "height_px": 961,
+    "texture_filename": "photo_09.jpg",
+    "sha256": "ad331983767ed1feea366c8a2fa5607dc4f244546dd60b46ae1ac5e2ee641291",
+    "image_path": "assets/teacher_activities/09.jpg"
+  },
+  {
+    "id": "10",
+    "label": "Hội nghị viên chức, người lao động",
+    "filename": "10.png",
+    "source_name": "10.png",
+    "mesh_name": "back_teacher_activities_photo_10",
+    "extra_meshes": [
+      "back_teacher_activities_frame_10"
+    ],
+    "width_px": 2370,
+    "height_px": 1248,
+    "texture_filename": "photo_10.jpg",
+    "sha256": "98cab379f077ba13616a9a48fa2f0fe1aaaee15ee216b2303a251c4b77b6706e",
+    "image_path": "assets/teacher_activities/10.png"
+  },
+  {
+    "id": "11",
+    "label": "Ảnh hoạt động giáo viên 11",
+    "filename": "11.png",
+    "source_name": "11.png",
+    "mesh_name": "back_teacher_activities_photo_11",
+    "extra_meshes": [
+      "back_teacher_activities_frame_11"
+    ],
+    "width_px": 2052,
+    "height_px": 1388,
+    "texture_filename": "photo_11.jpg",
+    "sha256": "62f976a7b5a291923714e9ba4170ba8fca795c995a3d2cd556c7c13ccf11c8ad",
+    "image_path": "assets/teacher_activities/11.png"
+  },
+  {
+    "id": "12",
+    "label": "Ảnh hoạt động giáo viên 12",
+    "filename": "12.png",
+    "source_name": "12.png",
+    "mesh_name": "back_teacher_activities_photo_12",
+    "extra_meshes": [
+      "back_teacher_activities_frame_12"
+    ],
+    "width_px": 2388,
+    "height_px": 1322,
+    "texture_filename": "photo_12.jpg",
+    "sha256": "06cd81157b31982eb33fabf076c2c177b8f5f0854bd8dfc856be64c069efefe9",
+    "image_path": "assets/teacher_activities/12.png"
+  },
+  {
+    "id": "13",
+    "label": "Ảnh hoạt động giáo viên 13",
+    "filename": "13.jpg",
+    "source_name": "13.jpg",
+    "mesh_name": "back_teacher_activities_photo_13",
+    "extra_meshes": [
+      "back_teacher_activities_frame_13"
+    ],
+    "width_px": 2560,
+    "height_px": 1441,
+    "texture_filename": "photo_13.jpg",
+    "sha256": "2df4b5b0ce1971d850205aa95826c7d38697922ca9b54874c16e419be8f266fb",
+    "image_path": "assets/teacher_activities/13.jpg"
+  },
+  {
+    "id": "14",
+    "label": "Ảnh hoạt động giáo viên 14",
+    "filename": "14.jpg",
+    "source_name": "14.jpg",
+    "mesh_name": "back_teacher_activities_photo_14",
+    "extra_meshes": [
+      "back_teacher_activities_frame_14"
+    ],
+    "width_px": 1276,
+    "height_px": 718,
+    "texture_filename": "photo_14.jpg",
+    "sha256": "0e8317d67ea53533b7017a7b375dd6ed97d608d834cd11b9ca05389f7abf3cca",
+    "image_path": "assets/teacher_activities/14.jpg"
+  },
+  {
+    "id": "15",
+    "label": "Ảnh hoạt động giáo viên 15",
+    "filename": "15.jpg",
+    "source_name": "15.jpg",
+    "mesh_name": "back_teacher_activities_photo_15",
+    "extra_meshes": [
+      "back_teacher_activities_frame_15"
+    ],
+    "width_px": 1276,
+    "height_px": 718,
+    "texture_filename": "photo_15.jpg",
+    "sha256": "5892aec5abb6b058f6daccc1120b29b912ff0e67247828034997a7c0b639b09b",
+    "image_path": "assets/teacher_activities/15.jpg"
+  },
+  {
+    "id": "16",
+    "label": "Hành trình về nguồn – Trường Dục Thanh, Phan Thiết – Bình Thuận",
+    "filename": "16.jpg",
+    "source_name": "16.jpg",
+    "mesh_name": "back_teacher_activities_photo_16",
+    "extra_meshes": [
+      "back_teacher_activities_frame_16"
+    ],
+    "width_px": 1130,
+    "height_px": 848,
+    "texture_filename": "photo_16.jpg",
+    "sha256": "eccbfb205714cc7339c78c15e5d76fa65d93e0c469e9fe0ddaeed2541121ff95",
+    "image_path": "assets/teacher_activities/16.jpg"
+  },
+  {
+    "id": "17",
+    "label": "Liên hoan Trống kèn Đội ta – Năm học 2025–2026",
+    "filename": "17.jpg",
+    "source_name": "17.JPG",
+    "mesh_name": "back_teacher_activities_photo_17",
+    "extra_meshes": [
+      "back_teacher_activities_frame_17"
+    ],
+    "width_px": 2048,
+    "height_px": 1536,
+    "texture_filename": "photo_17.jpg",
+    "sha256": "bf3e4b3ec815134675961ab83d86a3fc235f141f242e65bd6e79563ff0daf7fe",
+    "image_path": "assets/teacher_activities/17.jpg"
+  },
+  {
+    "id": "18",
+    "label": "Ảnh hoạt động giáo viên 18",
+    "filename": "18.jpg",
+    "source_name": "18.JPG",
+    "mesh_name": "back_teacher_activities_photo_18",
+    "extra_meshes": [
+      "back_teacher_activities_frame_18"
+    ],
+    "width_px": 2560,
+    "height_px": 1707,
+    "texture_filename": "photo_18.jpg",
+    "sha256": "4a2ff512037fa5711596bf88fc80f5beb69d09849f6b64f63b8dd007aa90e9b4",
+    "image_path": "assets/teacher_activities/18.jpg"
+  }
+]

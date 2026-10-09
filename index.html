@@ -14,12 +14,14 @@
 <style>.info{flex-wrap:wrap;justify-content:center;align-items:center;width:max-content;max-width:calc(100vw - 24px);white-space:normal}.info span{white-space:nowrap}.info[hidden]{display:none}.info .hide-help{pointer-events:auto;border:0;background:transparent;color:#688074;font-size:17px;line-height:1;padding:0 2px;cursor:pointer}.icon-toggle{position:absolute;z-index:2;display:grid;place-items:center;width:42px;height:42px;padding:0;background:#fafcf5ed;border:1px solid #fff9;border-radius:12px;color:#3e554a;font:19px/1 Segoe UI,Arial;cursor:pointer;box-shadow:0 4px 18px #31413314}.icon-toggle:hover{background:#fff;color:#182e24}.icon-toggle[hidden]{display:none}#reopen-panel{left:24px;top:24px}.help-toggle{bottom:22px;left:50%;transform:translateX(-50%)}@media(max-width:760px){.help-toggle{bottom:12px}}</style>
 </head>
 <body>
-<canvas id="scene" tabindex="0" aria-label="Mô hình 3D của phòng truyền thống, kéo chuột để xoay, cuộn để thu phóng, Shift và lăn chuột để đứng giữa phòng và nhìn quanh, bấm vào ảnh trên bảng chuyên môn, bảng Ban giám hiệu, bảng Công đoàn (cả ảnh hoạt động nổi bật), poster truyền thống, giấy khen hoặc bằng khen để xem lớn"></canvas>
+<canvas id="scene" tabindex="0" aria-label="Mô hình 3D của phòng truyền thống, kéo chuột để xoay, cuộn để thu phóng, Shift và lăn chuột để đứng giữa phòng và nhìn quanh, bấm vào ảnh trên bảng chuyên môn, Ban giám hiệu, Công đoàn, tường sau, mã QR Kho tư liệu số, poster truyền thống, giấy khen hoặc bằng khen để xem lớn"></canvas>
 <aside class="panel" aria-label="Điều khiển mô hình 3D" hidden>
   <button id="hide-panel" type="button" title="Ẩn bảng điều khiển" aria-label="Ẩn bảng điều khiển" style="position:absolute;right:15px;top:13px;width:25px;height:25px;border:0;background:transparent;color:#688074;font-size:20px;cursor:pointer;line-height:1">×</button>
   <div class="eyebrow">KHÔNG GIAN 3D</div>
   <h1>Phòng truyền thống</h1>
   <p class="sub">Dựng từ ảnh tư liệu của phòng.<br>Tỷ lệ và kích thước đang được ước lượng.</p>
+  <p class="foot" id="bust-pending" hidden>Tượng Bác đang chờ mô hình chính thức từ <a href="https://sketchfab.com/3d-models/president-ho-chi-minh-statue-12577a979a2c4828ab065fc87a1e2e48" target="_blank" rel="noopener">Sketchfab</a>.</p>
+  <p class="foot" id="bust-credit" hidden>Tượng 3D: <a href="https://sketchfab.com/3d-models/president-ho-chi-minh-statue-12577a979a2c4828ab065fc87a1e2e48" target="_blank" rel="noopener">Mr. Mushi</a> · <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>.</p>
   <div class="divider"></div>
   <p class="label">Góc quan sát</p>
   <div class="views">
@@ -30,6 +32,8 @@
     <button type="button" data-view="awards" aria-pressed="false"><span>Bằng khen</span><span class="icon" aria-hidden="true">▣</span></button>
     <button type="button" data-view="management" aria-pressed="false"><span>Ban giám hiệu</span><span class="icon" aria-hidden="true">◫</span></button>
     <button type="button" data-view="union" aria-pressed="false"><span>Công đoàn</span><span class="icon" aria-hidden="true">▤</span></button>
+    <button type="button" data-view="back" aria-pressed="false"><span>Tường sau</span><span class="icon" aria-hidden="true">▦</span></button>
+    <button type="button" data-view="memorial" aria-pressed="false"><span>Tượng Bác và QR</span><span class="icon" aria-hidden="true">▣</span></button>
     <button type="button" data-view="tradition" aria-pressed="false"><span>Truyền thống</span><span class="icon" aria-hidden="true">▥</span></button>
   </div>
   <div class="checks">
@@ -37,7 +41,7 @@
     <label id="cutaway-label"><input id="cutaway" type="checkbox" checked>Mở mặt cắt</label>
   </div>
   <p class="foot">Mặt cắt tự mở những tường phía gần bạn để nhìn rõ bố trí và nội thất bên trong.</p>
-  <p class="gallery-hint" id="gallery-hint">Bấm vào ảnh trên bảng Hoạt động tổ chuyên môn, Ban giám hiệu, Công đoàn, vào poster truyền thống, giấy khen của Chi bộ hoặc bằng khen trên tường chính để xem lớn; bấm tiếp vào ảnh để phóng to.</p>
+  <p class="gallery-hint" id="gallery-hint">Bấm vào ảnh trên bảng Hoạt động tổ chuyên môn, Ban giám hiệu, Công đoàn, Tường sau, mã QR Kho tư liệu số, poster truyền thống, giấy khen của Chi bộ hoặc bằng khen trên tường chính để xem lớn; bấm tiếp vào ảnh để phóng to.</p>
 </aside>
 <button id="reopen-panel" class="icon-toggle" type="button" title="Bảng điều khiển" aria-label="Hiện bảng điều khiển">☰</button>
 <button id="show-help" class="icon-toggle help-toggle" type="button" title="Hướng dẫn thao tác chuột" aria-label="Hiện hướng dẫn thao tác chuột"><svg width="15" height="21" viewBox="0 0 15 21" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><rect x=".8" y=".8" width="13.4" height="19.4" rx="6.7"/><path d="M7.5 4.4v3.8"/></svg></button>
@@ -62,6 +66,6 @@
     </footer>
   </div>
 </dialog>
-<script defer src="./app.js?v=d00641adc6b3"></script>
+<script defer src="./app.js?v=a8cd2c19ff74"></script>
 </body>
 </html>
