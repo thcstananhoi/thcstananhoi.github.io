@@ -11,7 +11,7 @@ Mở trang là mô hình tự tải. Chọn **Bảng chuyên môn**, rồi nhấ
 - Trên điện thoại: kéo một ngón tay để xoay, dùng hai ngón tay để thu phóng và di chuyển.
 - Có các góc Tổng thể, Trong phòng, Nhìn từ trên, Bảng chuyên môn, Bằng khen, Ban giám hiệu, Công đoàn, Tường sau, Truyền thống; có thể bật trần hoặc mở mặt cắt. Chọn Tường sau rồi bấm ảnh để xem bản gốc và chuyển qua đủ 18 ảnh.
 - Bảng điều khiển và hướng dẫn thao tác được thu gọn khi mở trang: nhấp nút **☰** (góc trên) hoặc nút hình con chuột (giữa cạnh dưới) để hiện, nút **×** để thu gọn lại.
-- Nhấp **TỦ TƯ LIỆU** bên dưới mã QR của Kho tư liệu số, bên trái tượng Bác, để mở danh mục 11 tài liệu (120 trang). Chọn một mục để xem PDF gốc ở tab mới. Danh mục có ảnh xem trước và số trang; PDF chỉ tải khi được chọn.
+- Nhấp **TỦ TƯ LIỆU** bên dưới mã QR của Kho tư liệu số, bên trái tượng Bác, để mở quyển sách tư liệu. Sách có bìa, mục lục 11 nhóm và 120 ảnh giấy khen, bằng khen, cúp được cắt từ các PDF gốc; tổng 122 trang gồm bìa và mục lục. Dùng nút lật, phím mũi tên hoặc vuốt ngang để chuyển trang; nhấp mục lục hoặc nhập số trang để đi nhanh. Máy tính hiện hai trang, điện thoại hiện một trang. Nhấp ảnh để phóng to; **Esc** đóng ảnh rồi trở về sách.
 
 Kích thước và tỷ lệ phòng được ước lượng từ ảnh, chưa được đo thực tế.
 
@@ -34,7 +34,8 @@ Các file cần giữ cùng nhau:
 - `management_activities.json`, `union_activities.json` và `assets/management_activities/`, `assets/union_activities/`: ảnh gốc phần Các hoạt động nổi bật của hai bảng.
 - `teacher_activities.json` và `assets/teacher_activities/`: 18 ảnh gốc JPG/PNG của tường sau.
 - `archive_qr.json` và `assets/archive_qr/01.png`: mã QR cho bảng Kho tư liệu số Thị Trấn 2 bên trái tượng Bác; xoay tới bảng rồi bấm mã để xem lớn hoặc quét.
-- `archive_documents.json` và `assets/archive_documents/`: 11 PDF gốc cùng ảnh xem trước cho tủ tư liệu dưới QR; nội dung gồm Công đoàn, kỷ niệm chương, bằng khen, giấy khen và hồ sơ kiểm định/chuẩn quốc gia.
+- `archive_documents.json` và `assets/archive_documents/`: 11 PDF gốc cùng ảnh xem trước, giữ lại để đối chiếu nguồn tư liệu.
+- `archive_book.json` và `assets/archive_book/pages/`: mục lục, số trang và 120 ảnh đã cắt. Chỉ ảnh của trang đang mở và hai trang lân cận được tải; không tải toàn bộ ảnh/PDF khi mở phòng. Cảnh 3D tạm ngừng vẽ khi sách mở để giảm tải thiết bị.
 - `poster.json` và `assets/poster/poster.jpg`: poster Truyền thống nhà trường cỡ lớn.
 - `party_awards.json`, `assets/party_awards/01.jpg` đến `05.jpg` và `06.png` đến `09.png`: 9 giấy khen của Chi bộ, bản quét gốc.
 

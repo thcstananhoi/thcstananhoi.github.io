@@ -17,20 +17,31 @@
 .lightbox-card{height:min(940px,calc(100vh - 48px));height:min(940px,calc(100dvh - 48px))}
 .fallback-dialog[open]{position:fixed;inset:0;margin:0;z-index:10;background:#0c1915df}
 @media(max-width:760px){.lightbox-card{height:calc(100vh - 20px);height:calc(100dvh - 20px)}}
-.archive-modal{padding:0;border:0;width:100vw;max-width:none;height:100vh;height:100dvh;max-height:none;background:transparent;color:#21332f}
-.archive-modal:not([open]){display:none}.archive-modal[open]{display:flex;align-items:center;justify-content:center}
-.archive-modal::backdrop{background:#0c1915cc;backdrop-filter:blur(4px)}
-.archive-card{width:min(1040px,calc(100vw - 48px));height:min(850px,calc(100vh - 48px));height:min(850px,calc(100dvh - 48px));display:flex;flex-direction:column;background:#f8faf6;border:1px solid #fff9;border-radius:20px;overflow:hidden;box-shadow:0 18px 80px #0005}
-.archive-head{display:flex;align-items:flex-start;gap:20px;padding:26px 28px 22px;border-bottom:1px solid #dce5db;flex:none}.archive-head>div{flex:1;min-width:0}
-.archive-head h2{font-size:25px;letter-spacing:-.5px;margin:0 0 8px;color:#244e3d}.archive-head p{font-size:13px;line-height:1.65;color:#65776b;margin:0}
-.archive-count{display:inline-block;color:#315c48;font-size:11px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;margin-bottom:8px}
-.archive-close{width:36px;height:36px;flex:none;border:1px solid #d4dfd4;border-radius:50%;background:#edf2eb;color:#385c46;font-family:inherit;font-size:25px;line-height:1;cursor:pointer}.archive-close:hover{background:#dce7d9}
-.archive-documents{list-style:none;padding:22px 28px;margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;overflow:auto;overscroll-behavior:contain;min-height:0;align-content:start}
-.archive-documents li{min-width:0}.archive-document{display:flex;align-items:center;gap:17px;height:100%;padding:14px;background:white;border:1px solid #dce4d8;border-radius:13px;text-decoration:none;color:inherit;transition:border-color .15s,box-shadow .15s}.archive-document:hover{border-color:#819c79;box-shadow:0 4px 15px #244e3d0d}
-.archive-document img{width:104px;height:112px;object-fit:contain;background:#f1f3ed;border:1px solid #e7eade;border-radius:5px;flex:none}
-.archive-document-detail{display:flex;flex-direction:column;align-items:flex-start;gap:8px;min-width:0}.archive-document strong{font-size:14px;line-height:1.5;font-weight:650;overflow-wrap:anywhere}.archive-document-meta{font-size:11px;line-height:1.4;color:#72806e}.archive-document-action{font-size:12px;font-weight:650;color:#315c48}
-.archive-modal.fallback-dialog[open]{background:#0c1915cc}
-@media(max-width:760px){.archive-card{width:calc(100vw - 20px);height:calc(100vh - 20px);height:calc(100dvh - 20px);border-radius:15px}.archive-head{padding:20px 17px 17px;gap:12px}.archive-head h2{font-size:22px}.archive-head p{font-size:12px}.archive-documents{padding:16px;grid-template-columns:1fr;gap:11px}.archive-document{padding:11px;gap:13px}.archive-document img{width:85px;height:100px}.archive-document strong{font-size:13px}}
+.archive-modal{padding:0;border:0;width:100vw;max-width:none;height:100vh;height:100dvh;max-height:none;background:transparent;color:#3c362b}
+.archive-modal:not([open]){display:none}.archive-modal[open]{display:flex;align-items:center;justify-content:center}.archive-modal::backdrop{background:#09130fe6;backdrop-filter:blur(6px)}
+.archive-card{position:relative;display:flex;flex-direction:column;width:min(1390px,calc(100vw - 32px));height:calc(100vh - 32px);height:calc(100dvh - 32px);max-height:1000px;overflow:hidden;border:1px solid #7d816c55;border-radius:17px;background:#202b25;box-shadow:0 24px 100px #0008}
+.archive-head{display:flex;align-items:center;gap:15px;padding:16px 24px;flex:none;border-bottom:1px solid #c7c5a51c;color:#f6f1de}.archive-heading{min-width:0;flex:1}.archive-head h2{font-size:19px;font-weight:600;letter-spacing:-.25px;margin:0 0 5px}.archive-head p{font-size:11px;line-height:1.5;color:#b7c0b0;margin:0}
+.archive-card button,.archive-card input{font-family:inherit}.archive-close{height:35px;width:35px;flex:none;border:1px solid #b4bd9d44;border-radius:50%;background:#ffffff09;color:#e6e8db;font-size:25px;line-height:1;cursor:pointer}.archive-close:hover{background:#ffffff19}
+.book-toc-toggle{display:flex;gap:7px;align-items:center;border:1px solid #b4bd9d44;border-radius:8px;background:#ffffff07;color:#e2e6d7;font-size:12px;padding:8px 11px;cursor:pointer}.book-toc-toggle:hover,.book-toc-toggle[aria-expanded=true]{background:#ffffff17}
+.book-desk{flex:1;min-height:0;display:flex;align-items:stretch;justify-content:center;padding:18px 30px 12px;background:radial-gradient(ellipse at 50% 30%,#5462493b,transparent 74%)}
+.book-spread{position:relative;display:grid;grid-template-columns:1fr 1fr;width:100%;min-width:0;max-width:1230px;perspective:2200px;isolation:isolate;box-shadow:0 12px 25px #0005,0 4px 0 #d4c9a6,0 7px 0 #887251,0 9px 0 #382c20;border-radius:3px}
+.book-leaf{position:relative;display:flex;flex-direction:column;min-width:0;min-height:0;height:100%;padding:24px 27px 13px;background:#fffdf3;overflow:hidden;border-radius:3px;color:#494332}
+.book-leaf-left{background:linear-gradient(90deg,#fffcf2 94%,#ded6bd);box-shadow:inset -1px 0 #b9a98066}.book-leaf-right{background:linear-gradient(90deg,#ddd5bd,#fffcf2 6%);box-shadow:inset 1px 0 #b9a98066}
+.book-page-eyebrow{font-size:9px;letter-spacing:1.45px;line-height:1.4;color:#8d7d5f;margin:0 0 7px}.book-contents-title{font-family:Georgia,serif;font-size:29px;font-weight:400;line-height:1.2;margin:0 0 16px;color:#574d35}
+.book-contents-list{list-style:none;padding:0;margin:0;overflow:auto;min-height:0;overscroll-behavior:contain}.book-contents-list li{margin:0 0 3px}.book-contents-link{display:flex;align-items:baseline;gap:7px;width:100%;padding:9px 0;border:0;border-radius:4px;background:transparent;text-align:left;color:inherit;cursor:pointer;font-size:12px;line-height:1.5}.book-contents-link:hover{color:#9a6023;background:#a58b4820}.book-contents-label{max-width:86%;font-weight:550}.book-contents-dots{flex:1;min-width:8px;border-bottom:1px dotted #c7bfa9}.book-contents-page{flex:none;color:#9a6c30;font-variant-numeric:tabular-nums;font-size:12px}
+.book-page-footer{flex:none;padding-top:12px;text-align:center;font-family:Georgia,serif;color:#9c8a66;font-size:12px;line-height:1.4}.book-page-contents .book-page-footer{margin-top:auto}.book-chapter-title{flex:none;font-size:11px;font-weight:600;line-height:1.5;letter-spacing:.35px;color:#8d7d5f;margin:0 0 12px;text-align:center}
+.book-image-button{display:flex;align-items:center;justify-content:center;flex:1;min-width:0;min-height:0;width:100%;padding:0;border:0;background:transparent;cursor:zoom-in;touch-action:pan-y}.book-image-button img{display:block;max-width:100%;max-height:100%;width:100%;height:100%;min-height:0;object-fit:contain;user-select:none;-webkit-user-drag:none}.book-photo-caption{flex:none;font-size:10px;line-height:1.4;color:#9b8b70;text-align:center;margin:12px 0 0}.book-photo-page .book-page-footer{padding-top:6px}
+.book-cover{padding:15px;color:#e6cd8a;background:linear-gradient(110deg,#57321f,#72452b 51%,#44291c);box-shadow:inset 0 0 0 4px #382518,inset -10px 0 17px #22120855}.book-cover-frame{display:flex;align-items:center;justify-content:center;flex-direction:column;gap:0;flex:1;min-height:0;border:1px solid #c2a86688;outline:1px solid #c2a86655;outline-offset:-7px;padding:28px 20px;text-align:center}.book-cover-school{font-size:10px;line-height:1.7;letter-spacing:1.6px;margin:0 0 20px}.book-cover-rule{display:block;width:55px;border-top:1px solid #c2a86688;margin-bottom:33px}.book-cover-eyebrow{font-size:10px;letter-spacing:2.2px;line-height:1.5;margin:0 0 17px;color:#cfb875}.book-cover-title{font-family:Georgia,serif;font-size:clamp(28px,3.6vw,54px);font-weight:400;line-height:1.35;letter-spacing:2px;margin:0 0 15px;text-shadow:0 2px #27180d}.book-cover-subtitle{font-family:Georgia,serif;font-size:18px;font-style:italic;color:#d6bd80;margin:0 0 32px}.book-cover-count{font-size:11px;line-height:1.5;color:#c5b17d;margin:0}.book-cover-open{border:0;border-bottom:1px solid #c5b17d88;padding:10px 1px 5px;background:transparent;color:#ecd59a;font-size:12px;cursor:pointer;margin:20px 0 0}.book-cover .book-page-footer{color:#ab925c}
+.book-toolbar{display:flex;align-items:center;justify-content:space-between;gap:15px;padding:17px 26px 18px;flex:none;color:#cbd0bd}.book-nav{display:flex;gap:9px;align-items:center;justify-content:center;min-height:38px;padding:8px 15px;border:1px solid #a6b19355;border-radius:8px;background:#ffffff08;color:#e9ebde;font-size:12px;cursor:pointer}.book-nav:hover:not(:disabled){background:#ffffff18}.archive-card button:disabled{opacity:.36;cursor:default}.book-position{text-align:center}.book-position>p{font-size:12px;line-height:1.4;font-variant-numeric:tabular-nums;margin:0 0 7px}.book-position form{display:flex;align-items:center;justify-content:center;gap:7px;font-size:10px;color:#9faa93}.book-position input{width:50px;padding:3px 4px;border:1px solid #96a08355;border-radius:4px;background:#121c16;color:#e4e5d6;text-align:center;font-size:11px}.book-position form button{border:0;background:transparent;color:#c8d3b3;font-size:11px;padding:3px;cursor:pointer}
+.book-toc-panel{position:absolute;z-index:6;right:22px;top:73px;width:min(400px,calc(100% - 36px));max-height:calc(100% - 150px);display:flex;flex-direction:column;border:1px solid #d8cfb6;border-radius:9px;background:#fffdf3;color:#494332;box-shadow:0 12px 50px #0007;overflow:hidden}.book-toc-panel[hidden]{display:none}.book-toc-panel>header{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:15px 18px;border-bottom:1px solid #dacfaf}.book-toc-panel h3{font-family:Georgia,serif;font-size:22px;font-weight:400;margin:0}.book-toc-panel>header button{border:0;background:transparent;font-size:24px;color:#8c7955;cursor:pointer}.book-toc-body{overflow:auto;padding:10px 18px 17px;min-height:0;overscroll-behavior:contain}
+.book-turn{position:absolute;top:0;width:50%;height:100%;z-index:4;transform-style:preserve-3d;pointer-events:none}.book-turn-forward{left:50%;transform-origin:left center;animation:book-turn-forward .58s cubic-bezier(.4,.1,.25,1) both}.book-turn-backward{left:0;transform-origin:right center;animation:book-turn-backward .58s cubic-bezier(.4,.1,.25,1) both}.book-turn-front,.book-turn-back{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden}.book-turn-back{transform:rotateY(180deg)}.book-turn .book-leaf{width:100%;box-shadow:0 0 20px #24170d44}.book-turn-single{left:0;width:100%}.book-turn-single.book-turn-forward{animation-name:book-single-forward;transform-origin:left center}.book-turn-single.book-turn-backward{animation-name:book-single-backward;transform-origin:right center}.book-end{align-items:center;justify-content:center;font-family:Georgia,serif;color:#a18b64;font-style:italic}
+@keyframes book-turn-forward{from{transform:rotateY(0)}to{transform:rotateY(-180deg)}}@keyframes book-turn-backward{from{transform:rotateY(0)}to{transform:rotateY(180deg)}}@keyframes book-single-forward{from{transform:rotateY(0);opacity:1}to{transform:rotateY(-100deg);opacity:0}}@keyframes book-single-backward{from{transform:rotateY(0);opacity:1}to{transform:rotateY(100deg);opacity:0}}
+.archive-modal.fallback-dialog[open]{background:#09130fe6}.lightbox.fallback-dialog[open]{z-index:30}
+@media(max-width:760px){.archive-card{width:calc(100vw - 12px);height:calc(100vh - 12px);height:calc(100dvh - 12px);border-radius:12px}.archive-head{padding:13px 13px 12px;gap:10px}.archive-head h2{font-size:15px;line-height:1.3;margin-bottom:4px}.archive-head p{font-size:10px}.book-header-hint{display:none}.book-toc-toggle{padding:7px 8px;font-size:11px}.archive-close{width:31px;height:31px;font-size:23px}.book-desk{padding:12px 13px 8px}.book-spread.book-single{display:block}.book-leaf{padding:18px 17px 11px}.book-leaf-left{background:linear-gradient(90deg,#eee6d0,#fffcf2 4%,#fffcf2 96%,#ede3c9)}.book-cover{background:linear-gradient(110deg,#57321f,#72452b 51%,#44291c);padding:13px}.book-cover-frame{padding:22px 15px}.book-cover-title{font-size:37px}.book-cover-school{margin-bottom:15px;font-size:9px}.book-cover-rule{margin-bottom:25px}.book-cover-subtitle{font-size:17px;margin-bottom:25px}.book-cover-eyebrow{font-size:9px;letter-spacing:1.8px}.book-cover-open{margin-top:15px}.book-toolbar{padding:14px 13px;gap:9px}.book-nav{padding:8px 11px;font-size:17px;min-width:37px}.book-nav span{display:none}.book-position>p{font-size:11px;margin-bottom:5px}.book-position form{font-size:10px}.book-chapter-title{font-size:10px;margin-bottom:10px}.book-photo-caption{font-size:9px;margin-top:9px}.book-contents-title{font-size:27px;margin-bottom:12px}.book-contents-link{font-size:12px;padding:8px 0}.book-toc-panel{right:12px;top:70px;max-height:calc(100% - 135px)}}
+@media(prefers-reduced-motion:reduce){.book-turn{animation:none}}
+.book-turn-single>.book-leaf{backface-visibility:hidden;-webkit-backface-visibility:hidden}
+@media(max-height:600px){.book-cover-frame{padding:12px}.book-cover-school{margin-bottom:9px}.book-cover-rule{margin-bottom:12px}.book-cover-eyebrow{margin-bottom:9px}.book-cover-title{font-size:30px;margin-bottom:9px}.book-cover-subtitle{font-size:15px;margin-bottom:12px}.book-cover-open{margin-top:10px}.book-cover-count{font-size:9px}}
+
 </style>
 </head>
 <body>
@@ -60,7 +71,7 @@
     <label id="cutaway-label"><input id="cutaway" type="checkbox" checked>Mở mặt cắt</label>
   </div>
   <p class="foot">Mặt cắt tự mở những tường phía gần bạn để nhìn rõ bố trí và nội thất bên trong.</p>
-  <p class="gallery-hint" id="gallery-hint">Bấm vào ảnh trên bảng Hoạt động tổ chuyên môn, Ban giám hiệu, Công đoàn, Tường sau, mã QR Kho tư liệu số, poster truyền thống, giấy khen của Chi bộ hoặc bằng khen trên tường chính để xem lớn; bấm tiếp vào ảnh để phóng to. Nhấp tủ bên dưới QR để xem các tài liệu PDF.</p>
+  <p class="gallery-hint" id="gallery-hint">Bấm vào ảnh trên bảng Hoạt động tổ chuyên môn, Ban giám hiệu, Công đoàn, Tường sau, mã QR Kho tư liệu số, poster truyền thống, giấy khen của Chi bộ hoặc bằng khen trên tường chính để xem lớn; bấm tiếp vào ảnh để phóng to. Nhấp tủ bên dưới QR để mở sách tư liệu, chọn mục lục và lật từng trang.</p>
 </aside>
 <button id="reopen-panel" class="icon-toggle" type="button" title="Bảng điều khiển" aria-label="Hiện bảng điều khiển">☰</button>
 <button id="show-help" class="icon-toggle help-toggle" type="button" title="Hướng dẫn thao tác chuột" aria-label="Hiện hướng dẫn thao tác chuột"><svg width="15" height="21" viewBox="0 0 15 21" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><rect x=".8" y=".8" width="13.4" height="19.4" rx="6.7"/><path d="M7.5 4.4v3.8"/></svg></button>
@@ -88,16 +99,30 @@
 <dialog id="archive-modal" class="archive-modal" aria-labelledby="archive-title" aria-describedby="archive-description">
   <section class="archive-card">
     <header class="archive-head">
-      <div>
-        <span id="archive-count" class="archive-count"></span>
-        <h2 id="archive-title">Tủ tư liệu nhà trường</h2>
-        <p id="archive-description">Bằng khen, giấy khen và hồ sơ nhà trường.<br>Chọn một tài liệu để mở PDF ở tab mới.</p>
+      <div class="archive-heading">
+        <h2 id="archive-title">Kho tư liệu nhà trường</h2>
+        <p id="archive-description"><span id="archive-count"></span><span class="book-header-hint"> · Lật trang để khám phá</span></p>
       </div>
-      <button id="archive-close" class="archive-close" type="button" aria-label="Đóng tủ tư liệu" title="Đóng (Esc)">×</button>
+      <button id="book-toc-toggle" class="book-toc-toggle" type="button" aria-expanded="false" aria-controls="book-toc-panel">☷ <span>Mục lục</span></button>
+      <button id="archive-close" class="archive-close" type="button" aria-label="Đóng sách tư liệu" title="Đóng (Esc)">×</button>
     </header>
-    <ul id="archive-documents" class="archive-documents"></ul>
+    <div class="book-desk">
+      <div id="book-spread" class="book-spread" aria-label="Các trang sách đang mở"></div>
+    </div>
+    <footer class="book-toolbar">
+      <button id="book-prev" class="book-nav" type="button" aria-label="Lật về trang trước">← <span>Trang trước</span></button>
+      <div class="book-position"><p id="book-page-count" aria-live="polite"></p>
+        <form id="book-jump"><label for="book-page-input">Đến trang</label><input id="book-page-input" type="number" min="1" value="1" inputmode="numeric" required><button id="book-jump-button" type="submit">Đến</button></form>
+      </div>
+      <button id="book-next" class="book-nav" type="button" aria-label="Lật sang trang tiếp theo"><span>Trang sau</span> →</button>
+    </footer>
+    <aside id="book-toc-panel" class="book-toc-panel" aria-label="Mục lục sách tư liệu" hidden>
+      <header><h3>Mục lục</h3><button id="book-toc-close" type="button" aria-label="Đóng mục lục">×</button></header>
+      <div class="book-toc-body"></div>
+    </aside>
   </section>
 </dialog>
-<script defer src="./app.js?v=fbb2d8742758"></script>
+
+<script defer src="./app.js?v=e9e14c03d8bb"></script>
 </body>
 </html>
