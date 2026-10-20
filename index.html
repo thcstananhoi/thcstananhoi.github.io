@@ -17,10 +17,24 @@
 .lightbox-card{height:min(940px,calc(100vh - 48px));height:min(940px,calc(100dvh - 48px))}
 .fallback-dialog[open]{position:fixed;inset:0;margin:0;z-index:10;background:#0c1915df}
 @media(max-width:760px){.lightbox-card{height:calc(100vh - 20px);height:calc(100dvh - 20px)}}
+.archive-modal{padding:0;border:0;width:100vw;max-width:none;height:100vh;height:100dvh;max-height:none;background:transparent;color:#21332f}
+.archive-modal:not([open]){display:none}.archive-modal[open]{display:flex;align-items:center;justify-content:center}
+.archive-modal::backdrop{background:#0c1915cc;backdrop-filter:blur(4px)}
+.archive-card{width:min(1040px,calc(100vw - 48px));height:min(850px,calc(100vh - 48px));height:min(850px,calc(100dvh - 48px));display:flex;flex-direction:column;background:#f8faf6;border:1px solid #fff9;border-radius:20px;overflow:hidden;box-shadow:0 18px 80px #0005}
+.archive-head{display:flex;align-items:flex-start;gap:20px;padding:26px 28px 22px;border-bottom:1px solid #dce5db;flex:none}.archive-head>div{flex:1;min-width:0}
+.archive-head h2{font-size:25px;letter-spacing:-.5px;margin:0 0 8px;color:#244e3d}.archive-head p{font-size:13px;line-height:1.65;color:#65776b;margin:0}
+.archive-count{display:inline-block;color:#315c48;font-size:11px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;margin-bottom:8px}
+.archive-close{width:36px;height:36px;flex:none;border:1px solid #d4dfd4;border-radius:50%;background:#edf2eb;color:#385c46;font-family:inherit;font-size:25px;line-height:1;cursor:pointer}.archive-close:hover{background:#dce7d9}
+.archive-documents{list-style:none;padding:22px 28px;margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;overflow:auto;overscroll-behavior:contain;min-height:0;align-content:start}
+.archive-documents li{min-width:0}.archive-document{display:flex;align-items:center;gap:17px;height:100%;padding:14px;background:white;border:1px solid #dce4d8;border-radius:13px;text-decoration:none;color:inherit;transition:border-color .15s,box-shadow .15s}.archive-document:hover{border-color:#819c79;box-shadow:0 4px 15px #244e3d0d}
+.archive-document img{width:104px;height:112px;object-fit:contain;background:#f1f3ed;border:1px solid #e7eade;border-radius:5px;flex:none}
+.archive-document-detail{display:flex;flex-direction:column;align-items:flex-start;gap:8px;min-width:0}.archive-document strong{font-size:14px;line-height:1.5;font-weight:650;overflow-wrap:anywhere}.archive-document-meta{font-size:11px;line-height:1.4;color:#72806e}.archive-document-action{font-size:12px;font-weight:650;color:#315c48}
+.archive-modal.fallback-dialog[open]{background:#0c1915cc}
+@media(max-width:760px){.archive-card{width:calc(100vw - 20px);height:calc(100vh - 20px);height:calc(100dvh - 20px);border-radius:15px}.archive-head{padding:20px 17px 17px;gap:12px}.archive-head h2{font-size:22px}.archive-head p{font-size:12px}.archive-documents{padding:16px;grid-template-columns:1fr;gap:11px}.archive-document{padding:11px;gap:13px}.archive-document img{width:85px;height:100px}.archive-document strong{font-size:13px}}
 </style>
 </head>
 <body>
-<canvas id="scene" tabindex="0" aria-label="Mô hình 3D của phòng truyền thống, kéo chuột để xoay, cuộn để thu phóng, Shift và lăn chuột để đứng giữa phòng và nhìn quanh, bấm vào ảnh trên bảng chuyên môn, Ban giám hiệu, Công đoàn, tường sau, mã QR Kho tư liệu số, poster truyền thống, giấy khen hoặc bằng khen để xem lớn"></canvas>
+<canvas id="scene" tabindex="0" aria-label="Mô hình 3D của phòng truyền thống, kéo chuột để xoay, cuộn để thu phóng, Shift và lăn chuột để đứng giữa phòng và nhìn quanh, bấm vào ảnh để xem lớn hoặc tủ bên dưới QR để mở kho tài liệu PDF"></canvas>
 <aside class="panel" aria-label="Điều khiển mô hình 3D" hidden>
   <button id="hide-panel" type="button" title="Ẩn bảng điều khiển" aria-label="Ẩn bảng điều khiển" style="position:absolute;right:15px;top:13px;width:25px;height:25px;border:0;background:transparent;color:#688074;font-size:20px;cursor:pointer;line-height:1">×</button>
   <div class="eyebrow">KHÔNG GIAN 3D</div>
@@ -46,7 +60,7 @@
     <label id="cutaway-label"><input id="cutaway" type="checkbox" checked>Mở mặt cắt</label>
   </div>
   <p class="foot">Mặt cắt tự mở những tường phía gần bạn để nhìn rõ bố trí và nội thất bên trong.</p>
-  <p class="gallery-hint" id="gallery-hint">Bấm vào ảnh trên bảng Hoạt động tổ chuyên môn, Ban giám hiệu, Công đoàn, Tường sau, mã QR Kho tư liệu số, poster truyền thống, giấy khen của Chi bộ hoặc bằng khen trên tường chính để xem lớn; bấm tiếp vào ảnh để phóng to.</p>
+  <p class="gallery-hint" id="gallery-hint">Bấm vào ảnh trên bảng Hoạt động tổ chuyên môn, Ban giám hiệu, Công đoàn, Tường sau, mã QR Kho tư liệu số, poster truyền thống, giấy khen của Chi bộ hoặc bằng khen trên tường chính để xem lớn; bấm tiếp vào ảnh để phóng to. Nhấp tủ bên dưới QR để xem các tài liệu PDF.</p>
 </aside>
 <button id="reopen-panel" class="icon-toggle" type="button" title="Bảng điều khiển" aria-label="Hiện bảng điều khiển">☰</button>
 <button id="show-help" class="icon-toggle help-toggle" type="button" title="Hướng dẫn thao tác chuột" aria-label="Hiện hướng dẫn thao tác chuột"><svg width="15" height="21" viewBox="0 0 15 21" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><rect x=".8" y=".8" width="13.4" height="19.4" rx="6.7"/><path d="M7.5 4.4v3.8"/></svg></button>
@@ -71,6 +85,19 @@
     </footer>
   </div>
 </dialog>
-<script defer src="./app.js?v=b89dc2fae1b0"></script>
+<dialog id="archive-modal" class="archive-modal" aria-labelledby="archive-title" aria-describedby="archive-description">
+  <section class="archive-card">
+    <header class="archive-head">
+      <div>
+        <span id="archive-count" class="archive-count"></span>
+        <h2 id="archive-title">Tủ tư liệu nhà trường</h2>
+        <p id="archive-description">Bằng khen, giấy khen và hồ sơ nhà trường.<br>Chọn một tài liệu để mở PDF ở tab mới.</p>
+      </div>
+      <button id="archive-close" class="archive-close" type="button" aria-label="Đóng tủ tư liệu" title="Đóng (Esc)">×</button>
+    </header>
+    <ul id="archive-documents" class="archive-documents"></ul>
+  </section>
+</dialog>
+<script defer src="./app.js?v=fbb2d8742758"></script>
 </body>
 </html>

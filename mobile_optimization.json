@@ -3,32 +3,32 @@
   "mobile_file": "D:\\T-Maths\\TT2-PhongTruyenThong\\data\\github-pages\\assets\\model-mobile.glb",
   "source_filename": "model.glb",
   "mobile_filename": "model-mobile.glb",
-  "source_sha256": "1b8b20b94215e9267b33ba94add08660b1b81503ebc4da40a8b39d276b72936b",
-  "mobile_sha256": "de19c18ef90aa63896c491df6818ab33b5dbb4cece7387e7ca1e537f48eeb680",
-  "source_encoded_bytes": 37862404,
-  "mobile_encoded_bytes": 12981192,
-  "image_count": 182,
+  "source_sha256": "6ff067081e97ea45f267013630fa6a057321db42f3b7856f22740fd951a09976",
+  "mobile_sha256": "9452d397165dae93b665176124513659594fe7307ac709d46c4d0e2e1c7d7e03",
+  "source_encoded_bytes": 37888168,
+  "mobile_encoded_bytes": 13006928,
+  "image_count": 187,
   "resized_image_count": 113,
-  "source_decoded_RGBA8_MiB": 1028.7421264648438,
-  "mobile_decoded_RGBA8_MiB": 112.29920959472656,
-  "source_GPU_RGBA8_with_mipmaps_MiB": 1371.5593070983887,
-  "mobile_GPU_RGBA8_with_mipmaps_MiB": 149.6519432067871,
+  "source_decoded_RGBA8_MiB": 1029.1806030273438,
+  "mobile_decoded_RGBA8_MiB": 112.73768615722656,
+  "source_GPU_RGBA8_with_mipmaps_MiB": 1372.143943786621,
+  "mobile_GPU_RGBA8_with_mipmaps_MiB": 150.23657989501953,
   "texture_GPU_budget_MiB": 160,
   "geometry_and_non_image_buffer_views_unchanged": true,
   "protected_JSON_structures_unchanged": true,
   "desktop_file_unchanged": true,
-  "verified_non_image_buffer_view_count": 1031,
-  "verified_non_image_buffer_bytes": 2040448,
+  "verified_non_image_buffer_view_count": 1055,
+  "verified_non_image_buffer_bytes": 2043280,
   "groups": {
     "room_thumbnail": {
-      "images": 121,
-      "source_GPU_RGBA8_with_mipmaps_bytes": 271858776,
-      "mobile_GPU_RGBA8_with_mipmaps_bytes": 86009940
+      "images": 125,
+      "source_GPU_RGBA8_with_mipmaps_bytes": 271860136,
+      "mobile_GPU_RGBA8_with_mipmaps_bytes": 86011300
     },
     "text_QR_poster": {
-      "images": 58,
-      "source_GPU_RGBA8_with_mipmaps_bytes": 92583576,
-      "mobile_GPU_RGBA8_with_mipmaps_bytes": 37357068
+      "images": 59,
+      "source_GPU_RGBA8_with_mipmaps_bytes": 93195252,
+      "mobile_GPU_RGBA8_with_mipmaps_bytes": 37968744
     },
     "statue_colour": {
       "images": 1,
@@ -5006,6 +5006,166 @@
       "index": 155,
       "uses": [
         {
+          "material": "archive_cabinet_insetwood",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "1a64a082dde3b4247c8de6797e0f64e101686e5dbf5c676f18db2694a05e5308",
+      "mobile_image_sha256": "1a64a082dde3b4247c8de6797e0f64e101686e5dbf5c676f18db2694a05e5308",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 156,
+      "uses": [
+        {
+          "material": "archive_cabinet_walnut",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "b8639ba82e98b4082e0df1d5740b958e7b77e7744ce9c2a58605822999447808",
+      "mobile_image_sha256": "b8639ba82e98b4082e0df1d5740b958e7b77e7744ce9c2a58605822999447808",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 157,
+      "uses": [
+        {
+          "material": "archive_cabinet_brass",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "0149b07b5bffe52852eaa859e4b4caa50726e7365de65b899787a73c30d27be2",
+      "mobile_image_sha256": "0149b07b5bffe52852eaa859e4b4caa50726e7365de65b899787a73c30d27be2",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 158,
+      "uses": [
+        {
+          "material": "archive_cabinet_doorwood",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "room_thumbnail",
+      "long_edge_cap": 480,
+      "source_dimensions": [
+        8,
+        8
+      ],
+      "mobile_dimensions": [
+        8,
+        8
+      ],
+      "source_encoded_bytes": 80,
+      "mobile_encoded_bytes": 80,
+      "source_image_sha256": "7595ebf6c1036d5030e49b567b77546ccc67c020f3d3de0b31c1b2be9dd4aba1",
+      "mobile_image_sha256": "7595ebf6c1036d5030e49b567b77546ccc67c020f3d3de0b31c1b2be9dd4aba1",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 256,
+        "GPU_RGBA8_with_mipmaps_bytes": 340
+      },
+      "resized": false
+    },
+    {
+      "index": 159,
+      "uses": [
+        {
+          "material": "archive_cabinet_label",
+          "channel": "baseColorTexture"
+        }
+      ],
+      "category": "text_QR_poster",
+      "long_edge_cap": 1024,
+      "source_dimensions": [
+        896,
+        128
+      ],
+      "mobile_dimensions": [
+        896,
+        128
+      ],
+      "source_encoded_bytes": 4232,
+      "mobile_encoded_bytes": 4232,
+      "source_image_sha256": "09ce575a9c2b74115ea2091c8d7f83fa876c553cd4c33b3c887b35a79ab06b0d",
+      "mobile_image_sha256": "09ce575a9c2b74115ea2091c8d7f83fa876c553cd4c33b3c887b35a79ab06b0d",
+      "source_memory": {
+        "decoded_RGBA8_bytes": 458752,
+        "GPU_RGBA8_with_mipmaps_bytes": 611676
+      },
+      "mobile_memory": {
+        "decoded_RGBA8_bytes": 458752,
+        "GPU_RGBA8_with_mipmaps_bytes": 611676
+      },
+      "resized": false
+    },
+    {
+      "index": 160,
+      "uses": [
+        {
           "material": "photo_poster_texture.jpg",
           "channel": "baseColorTexture"
         }
@@ -5035,7 +5195,7 @@
       "resized": true
     },
     {
-      "index": 156,
+      "index": 161,
       "uses": [
         {
           "material": "photo_side_party_awards.jpg",
@@ -5067,7 +5227,7 @@
       "resized": true
     },
     {
-      "index": 157,
+      "index": 162,
       "uses": [
         {
           "material": "photo_lotus_border.png",
@@ -5099,7 +5259,7 @@
       "resized": true
     },
     {
-      "index": 158,
+      "index": 163,
       "uses": [
         {
           "material": "photo_party_awards_photo_01.jpg",
@@ -5131,7 +5291,7 @@
       "resized": true
     },
     {
-      "index": 159,
+      "index": 164,
       "uses": [
         {
           "material": "photo_party_awards_photo_02.jpg",
@@ -5163,7 +5323,7 @@
       "resized": true
     },
     {
-      "index": 160,
+      "index": 165,
       "uses": [
         {
           "material": "photo_party_awards_photo_03.jpg",
@@ -5195,7 +5355,7 @@
       "resized": true
     },
     {
-      "index": 161,
+      "index": 166,
       "uses": [
         {
           "material": "photo_party_awards_photo_04.jpg",
@@ -5227,7 +5387,7 @@
       "resized": true
     },
     {
-      "index": 162,
+      "index": 167,
       "uses": [
         {
           "material": "photo_party_awards_photo_05.jpg",
@@ -5259,7 +5419,7 @@
       "resized": true
     },
     {
-      "index": 163,
+      "index": 168,
       "uses": [
         {
           "material": "photo_party_awards_photo_06.jpg",
@@ -5291,7 +5451,7 @@
       "resized": true
     },
     {
-      "index": 164,
+      "index": 169,
       "uses": [
         {
           "material": "photo_party_awards_photo_07.jpg",
@@ -5323,7 +5483,7 @@
       "resized": true
     },
     {
-      "index": 165,
+      "index": 170,
       "uses": [
         {
           "material": "photo_party_awards_photo_08.jpg",
@@ -5355,7 +5515,7 @@
       "resized": true
     },
     {
-      "index": 166,
+      "index": 171,
       "uses": [
         {
           "material": "photo_party_awards_photo_09.jpg",
@@ -5387,7 +5547,7 @@
       "resized": true
     },
     {
-      "index": 167,
+      "index": 172,
       "uses": [
         {
           "material": "Man_hinh_TV",
@@ -5419,7 +5579,7 @@
       "resized": false
     },
     {
-      "index": 168,
+      "index": 173,
       "uses": [
         {
           "material": "Khan_ban_vang",
@@ -5451,7 +5611,7 @@
       "resized": false
     },
     {
-      "index": 169,
+      "index": 174,
       "uses": [
         {
           "material": "Nep_khan",
@@ -5483,7 +5643,7 @@
       "resized": false
     },
     {
-      "index": 170,
+      "index": 175,
       "uses": [
         {
           "material": "Go_buc_tuong",
@@ -5515,7 +5675,7 @@
       "resized": false
     },
     {
-      "index": 171,
+      "index": 176,
       "uses": [
         {
           "material": "Ghe_xanh",
@@ -5547,7 +5707,7 @@
       "resized": false
     },
     {
-      "index": 172,
+      "index": 177,
       "uses": [
         {
           "material": "Vien_ghe",
@@ -5579,7 +5739,7 @@
       "resized": false
     },
     {
-      "index": 173,
+      "index": 178,
       "uses": [
         {
           "material": "Chan_ghe_inox",
@@ -5611,7 +5771,7 @@
       "resized": false
     },
     {
-      "index": 174,
+      "index": 179,
       "uses": [
         {
           "material": "La_cay",
@@ -5643,7 +5803,7 @@
       "resized": false
     },
     {
-      "index": 175,
+      "index": 180,
       "uses": [
         {
           "material": "Hoa_hong_nhat",
@@ -5675,7 +5835,7 @@
       "resized": false
     },
     {
-      "index": 176,
+      "index": 181,
       "uses": [
         {
           "material": "Hoa_xanh",
@@ -5707,7 +5867,7 @@
       "resized": false
     },
     {
-      "index": 177,
+      "index": 182,
       "uses": [
         {
           "material": "Hoa_trang",
@@ -5739,7 +5899,7 @@
       "resized": false
     },
     {
-      "index": 178,
+      "index": 183,
       "uses": [
         {
           "material": "Sketchfab_HoChiMinh_source_material_0",
@@ -5771,7 +5931,7 @@
       "resized": true
     },
     {
-      "index": 179,
+      "index": 184,
       "uses": [
         {
           "material": "Sketchfab_HoChiMinh_source_material_0",
@@ -5803,7 +5963,7 @@
       "resized": true
     },
     {
-      "index": 180,
+      "index": 185,
       "uses": [
         {
           "material": "Sketchfab_HoChiMinh_source_material_0",
@@ -5835,7 +5995,7 @@
       "resized": true
     },
     {
-      "index": 181,
+      "index": 186,
       "uses": [
         {
           "material": "Hoa_sen_hong",
