@@ -12,6 +12,7 @@ Mở trang là mô hình tự tải. Chọn **Bảng chuyên môn**, rồi nhấ
 - Có các góc Tổng thể, Trong phòng, Nhìn từ trên, Bảng chuyên môn, Bằng khen, Ban giám hiệu, Công đoàn, Tường sau, Truyền thống; có thể bật trần hoặc mở mặt cắt. Chọn Tường sau rồi bấm ảnh để xem bản gốc và chuyển qua đủ 18 ảnh.
 - Bảng điều khiển và hướng dẫn thao tác được thu gọn khi mở trang: nhấp nút **☰** (góc trên) hoặc nút hình con chuột (giữa cạnh dưới) để hiện, nút **×** để thu gọn lại.
 - Nhấp **TỦ TƯ LIỆU** bên dưới mã QR của Kho tư liệu số, bên trái tượng Bác, để mở quyển sách tư liệu. Sách có bìa, mục lục 11 nhóm và 120 ảnh giấy khen, bằng khen, cúp được cắt từ các PDF gốc; tổng 122 trang gồm bìa và mục lục. Dùng nút lật, phím mũi tên hoặc vuốt ngang để chuyển trang; nhấp mục lục hoặc nhập số trang để đi nhanh. Máy tính hiện hai trang, điện thoại hiện một trang. Nhấp ảnh để phóng to; **Esc** đóng ảnh rồi trở về sách.
+- Nhấp tivi ở góc phòng để phát video **Không gian văn hóa Hồ Chí Minh** ngay trên mặt màn hình 3D; nhấp lại để tạm dừng. Thanh điều khiển cho phép phát/dừng, bật/tắt tiếng, tua và tắt tivi. Video chỉ tải sau lần nhấp đầu tiên; mở sách/ảnh hoặc chuyển sang ứng dụng khác sẽ tạm dừng video. Bản MP4 H.264/AAC, SDR, có `playsinline` để phát tại chỗ trên iPhone/iPad; video nguồn do người dùng cung cấp tại [Google Drive](https://drive.google.com/file/d/1Ya49t_LksKgq8ouhI0H9PjPGoKC0POrl/view).
 
 Kích thước và tỷ lệ phòng được ước lượng từ ảnh, chưa được đo thực tế.
 
@@ -27,6 +28,7 @@ Các file cần giữ cùng nhau:
 - `app.js`: trình xem 3D, đã đóng gói Three.js, không phụ thuộc CDN.
 - `assets/model.glb`: mô hình và các texture.
 - `assets/model-mobile.glb`: cùng hình học, texture tối ưu cho thiết bị di động và Safari.
+- `assets/tv_media/school-video.mp4` và `school-video-poster.jpg`: video và ảnh chờ của tivi; nguồn, thời lượng và mã SHA nằm trong cấu hình `tv-media-data` của `index.html`. Mặt phát video được gắn khi chạy, giữ nguyên file mô hình.
 - `gallery.json` và `assets/gallery/01.jpg` đến `08.jpg`: danh sách và ảnh gốc.
 - `awards.json` và `assets/awards/01.jpg` đến `11.jpg`: danh sách và ảnh bằng khen.
 - `management.json` và `assets/management/01.jpg` đến `11.jpg`: Ban giám hiệu, ảnh gốc, tên và nhiệm kỳ từ dữ liệu cung cấp.
